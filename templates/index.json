@@ -82,6 +82,32 @@
         "include_margins": false
       }
     },
+    "ad902e55-9582-494f-9052-4f04d2a8e0f0": {
+      "type": "index-testimonial-with-image",
+      "blocks": {
+        "template--15982265106590__ad902e55-9582-494f-9052-4f04d2a8e0f0-16649223068cc5d850-0": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Ali",
+            "testimonial": "My wife was shocked when it was delivered, words can’t explain how happy we are with this wonderful artwork.",
+            "bio_image": "shopify:\/\/shop_images\/IranMap.jpg",
+            "username": "",
+            "tweet_url": "",
+            "product": "",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15982265106590__ad902e55-9582-494f-9052-4f04d2a8e0f0-16649223068cc5d850-0"
+      ],
+      "settings": {
+        "testimonials_bg": "#fafafa",
+        "button_text_color": "#726d75",
+        "button_bg_color": "#e7e7e7"
+      }
+    },
     "79e54365-bdb9-4e8f-a205-0679f30f614c": {
       "type": "section-map",
       "settings": {
@@ -100,44 +126,6 @@
         "lat": "",
         "long": ""
       }
-    },
-    "ad902e55-9582-494f-9052-4f04d2a8e0f0": {
-      "type": "index-testimonial-with-image",
-      "blocks": {
-        "template--15982265106590__ad902e55-9582-494f-9052-4f04d2a8e0f0-16649223068cc5d850-0": {
-          "type": "testimonial",
-          "settings": {
-            "title": "Mark Corrigan",
-            "testimonial": "Use this text to showcase a review from one of your customers.  A great review is honest and speaks to the concerns of your customers.",
-            "username": "@username",
-            "tweet_url": "https:\/\/twitter.com\/jack\/status\/20",
-            "product": "",
-            "button_text": "",
-            "button_link": ""
-          }
-        },
-        "template--15982265106590__ad902e55-9582-494f-9052-4f04d2a8e0f0-16649223068cc5d850-1": {
-          "type": "testimonial",
-          "settings": {
-            "title": "Jeremy Usborne",
-            "testimonial": "Use this text to showcase a review from one of your customers.  A great review is honest and speaks to the concerns of your customers.",
-            "username": "@username",
-            "tweet_url": "https:\/\/twitter.com\/jack\/status\/20",
-            "product": "",
-            "button_text": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15982265106590__ad902e55-9582-494f-9052-4f04d2a8e0f0-16649223068cc5d850-0",
-        "template--15982265106590__ad902e55-9582-494f-9052-4f04d2a8e0f0-16649223068cc5d850-1"
-      ],
-      "settings": {
-        "testimonials_bg": "#fafafa",
-        "button_text_color": "#726D75",
-        "button_bg_color": "#E7E7E7"
-      }
     }
   },
   "order": [
@@ -146,7 +134,7 @@
     "dd4284bf-2f48-4443-95aa-39ce0b53c07e",
     "8f437138-6964-497e-9d8b-6644c3c6fc82",
     "16649216157b87533d",
-    "79e54365-bdb9-4e8f-a205-0679f30f614c",
-    "ad902e55-9582-494f-9052-4f04d2a8e0f0"
+    "ad902e55-9582-494f-9052-4f04d2a8e0f0",
+    "79e54365-bdb9-4e8f-a205-0679f30f614c"
   ]
 }
