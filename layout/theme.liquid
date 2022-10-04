@@ -83,6 +83,7 @@
   <link rel="preconnect" href="https://fonts.shopify.com" crossorigin>
   <link rel="preconnect" href="https://monorail-edge.shopifysvc.com" crossorigin>
 
+  <link rel="preload" href="{{ 'theme.css' | asset_url }}" as="style"> 
 
   {%- assign images_size = settings.loading_image_width | append: 'x' | append: settings.loading_image_width -%}
 {%- if settings.loading_image_1 != blank -%}
@@ -150,7 +151,7 @@
 
   {% render 'css-variables' %}
 
-  <link rel="stylesheet" data-href="{{ 'theme.css' | asset_url }}">
+  <link rel="stylesheet" href="{{ 'theme.css' | asset_url }}">
 
   <script>
     if (window.navigator.userAgent.indexOf('MSIE ') > 0 || window.navigator.userAgent.indexOf('Trident/') > 0) {
