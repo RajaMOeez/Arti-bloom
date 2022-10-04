@@ -1123,7 +1123,7 @@ https://flickity.metafizzy.co
   animation-delay: 1000ms;
 }
 .aos-initialized [data-aos=hero] {
-  opacity: 0;
+  opacity: 1;
   will-change: transform, opacity;
 }
 .no-js .aos-initialized [data-aos=hero] {
