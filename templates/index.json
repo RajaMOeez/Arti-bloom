@@ -46,11 +46,68 @@
         "rows": 3,
         "layout_mobile": "carousel"
       }
+    },
+    "8f437138-6964-497e-9d8b-6644c3c6fc82": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "text_alignment": "center",
+        "link_text": "",
+        "link_url": "",
+        "button_color": "btn--black",
+        "button_style": "hero__btn btn btn--input btn--outline caps",
+        "featured_collection": "custom",
+        "grid": 2,
+        "rows": 1,
+        "layout_mobile": "carousel"
+      }
+    },
+    "16649216157b87533d": {
+      "type": "apps",
+      "blocks": {
+        "7817e7aa-c292-4fbc-96aa-5f3251669cdf": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "7817e7aa-c292-4fbc-96aa-5f3251669cdf"
+      ],
+      "settings": {
+        "include_margins": false
+      }
+    },
+    "79e54365-bdb9-4e8f-a205-0679f30f614c": {
+      "type": "section-map",
+      "settings": {
+        "height": "screen-height-one-half",
+        "title": "The Workshop",
+        "address": "<p>58 Mountain St, Ultimo, NSW<\/p>",
+        "button": "Directions",
+        "text_color": "text-dark",
+        "bg_color": "#FBFBFB",
+        "api_key": "AIzaSyAqMxtA6L_Z1yP0mtzxlNjldcC8zS87Rn4",
+        "map_address": "58 Mountain St, Ultimo, NSW 2007",
+        "zoom": 11,
+        "style": "white_label",
+        "bg_position": "center-center",
+        "enable_latlong": false,
+        "lat": "",
+        "long": ""
+      }
     }
   },
   "order": [
     "166276758655edee4f",
     "aa04d330-01f5-4144-8cd5-5a74172dde59",
-    "dd4284bf-2f48-4443-95aa-39ce0b53c07e"
+    "dd4284bf-2f48-4443-95aa-39ce0b53c07e",
+    "8f437138-6964-497e-9d8b-6644c3c6fc82",
+    "16649216157b87533d",
+    "79e54365-bdb9-4e8f-a205-0679f30f614c"
   ]
 }
