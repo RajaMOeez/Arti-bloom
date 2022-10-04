@@ -151,7 +151,7 @@
 
   {% render 'css-variables' %}
 
-  {{ 'theme.css' | asset_url | stylesheet_tag }}
+  <link rel="stylesheet" data-href="{{ 'theme.css' | asset_url }}">
 
   <script>
     if (window.navigator.userAgent.indexOf('MSIE ') > 0 || window.navigator.userAgent.indexOf('Trident/') > 0) {
