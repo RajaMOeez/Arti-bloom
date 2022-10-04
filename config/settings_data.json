@@ -108,28 +108,28 @@
             "type": "linklist",
             "settings": {
               "linklist": "footer",
-              "title": "Allgemein"
+              "title": "MAPS"
             }
           },
-          "footer-1": {
-            "type": "social",
+          "2dd9f7f4-54d2-49f4-9e61-adaac1b3a8e8": {
+            "type": "linklist",
             "settings": {
-              "title": "",
-              "richtext": "<p>Be social. Folge Artibloom.<\/p>"
+              "linklist": "footer-about",
+              "title": ""
             }
           },
-          "footer-2": {
-            "type": "newsletter",
+          "08a9a4fa-f083-47b2-abed-096760a210dd": {
+            "type": "text",
             "settings": {
-              "richtext": "<p>Erfahre als Erste*r  von neuen Produkten, Kollektionen und Specials.<\/p>",
-              "enable_name": false
+              "title": "GET IN TOUCH",
+              "text": "<p>tim@originmaps.com<\/p><p>0466 494 899<\/p><p>Mon-Sat: 7am-5pm<\/p><p>58 Mountain St, Ultimo, NSW, Australia<\/p>"
             }
           }
         },
         "block_order": [
           "footer-0",
-          "footer-1",
-          "footer-2"
+          "2dd9f7f4-54d2-49f4-9e61-adaac1b3a8e8",
+          "08a9a4fa-f083-47b2-abed-096760a210dd"
         ],
         "settings": {
           "logo_image_width": 150,
