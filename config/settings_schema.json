@@ -4,8 +4,8 @@
     "theme_name": "Broadcast",
     "theme_version": "3.2.1",
     "theme_author": "Invisible",
-    "theme_support_url": "https://invisiblethemes.com/link/broadcast/contact",
-    "theme_documentation_url": "https://invisiblethemes.com/link/broadcast/docs"
+    "theme_support_url": "https:\/\/help.invisiblethemes.com\/contact",
+    "theme_documentation_url": "https:\/\/help.invisiblethemes.com\/"
   },
   {
     "name": "Colors",
@@ -66,12 +66,6 @@
         "default": "#326077"
       },
       {
-        "type": "checkbox",
-        "id": "high_contrast",
-        "label": "Increase contrast",
-        "default": false
-      },
-      {
         "type": "header",
         "content": "Header bar"
       },
@@ -92,12 +86,6 @@
         "id": "header_link_hover",
         "label": "Links - hover",
         "default": "#326077"
-      },
-      {
-        "type": "checkbox",
-        "id": "show_logo_bg",
-        "label": "Show logo background",
-        "default": true
       },
       {
         "type": "header",
@@ -163,12 +151,6 @@
       },
       {
         "type": "color",
-        "id": "footer_border",
-        "label": "Borders",
-        "default": "#F3F3F3"
-      },
-      {
-        "type": "color",
         "id": "footer_text",
         "label": "Text",
         "default": "#333333"
@@ -198,13 +180,13 @@
         "type": "font_picker",
         "id": "type_heading_font",
         "label": "Font",
-        "default": "poppins_n5"
+        "default": "rubik_n5"
       },
       {
         "type": "range",
         "id": "type_heading_size",
-        "min": 50,
-        "max": 150,
+        "min": 75,
+        "max": 125,
         "step": 5,
         "unit": "%",
         "label": "Font size",
@@ -218,13 +200,13 @@
         "type": "font_picker",
         "id": "type_base_font",
         "label": "Font",
-        "default": "poppins_n4"
+        "default": "harmonia_sans_n4"
       },
       {
         "type": "range",
         "id": "type_body_size",
-        "min": 50,
-        "max": 150,
+        "min": 75,
+        "max": 125,
         "step": 5,
         "unit": "%",
         "label": "Font size",
@@ -232,33 +214,17 @@
       },
       {
         "type": "header",
-        "content": "Navigation"
-      },
-      {
-        "type": "select",
-        "id": "type_nav_font",
-        "label": "Font",
-        "default": "body",
-        "options": [
-          { "label": "Body", "value": "body" },
-          { "label": "Heading", "value": "heading" }
-        ]
+        "content": "Buttons"
       },
       {
         "type": "range",
-        "id": "type_nav_size",
-        "min": 50,
-        "max": 150,
-        "step": 5,
-        "unit": "%",
-        "label": "Font size",
-        "default": 100
-      },
-      {
-        "type": "checkbox",
-        "id": "type_nav_caps",
-        "label": "Capitalize",
-        "default": false
+        "id": "button_border_radius",
+        "label": "Border radius",
+        "min": 0,
+        "max": 10,
+        "step": 1,
+        "unit": "px",
+        "default": 0
       }
     ]
   },
@@ -274,92 +240,11 @@
         "id": "animations_enable",
         "label": "Enable animations",
         "default": true
-      },
-      {
-        "type": "checkbox",
-        "id": "parallax_enable",
-        "label": "Enable image parallax",
-        "info": "Some large images will animate movement opposite to the scroll direction.",
-        "default": true
-      },
-      {
-        "type": "range",
-        "id": "parallax_strength",
-        "min": 0,
-        "max": 100,
-        "step": 5,
-        "label": "Parallax strength",
-        "default": 20,
-        "info": "Strong parallax will result in image zooming. Lower strength is recommended."
-      },
-      {
-        "type": "header",
-        "content": "Outlines"
-      },
-      {
-        "type": "checkbox",
-        "id": "product_grid_outline",
-        "label": "Show outlines",
-        "default": true,
-        "info": "For Featured collection, Collection list, Collection carousel and Blog posts."
-      },
-      {
-        "type": "header",
-        "content": "Buttons"
-      },
-      {
-        "type": "select",
-        "id": "button_radius_style",
-        "label": "Button style",
-        "default": "square",
-        "options": [
-          { "label": "Square", "value": "square" },
-          { "label": "Rounded", "value": "rounded" },
-          { "label": "Pill", "value": "pill" }
-        ]
-      },
-      {
-        "type": "checkbox",
-        "id": "show_button_animation",
-        "label": "Show button animation",
-        "info": "Product and cart buttons only",
-        "default": true
-      },
-      {
-        "type": "checkbox",
-        "id": "show_scroll_top_button",
-        "label": "Show \"Scroll to top\" button",
-        "default": false
-      },
-      {
-        "type": "header",
-        "content": "Loading icon",
-        "info": "Icon appears while site is loading"
-      },
-      {
-        "type": "image_picker",
-        "id": "loading_image_1",
-        "label": "Image 1"
-      },
-      {
-        "type": "image_picker",
-        "id": "loading_image_2",
-        "label": "Image 2"
-      },
-      {
-        "type": "range",
-        "id": "loading_image_width",
-        "label": "Width",
-        "unit": "px",
-        "min": 100,
-        "max": 180,
-        "step": 10,
-        "default": 100
       }
     ]
   },
   {
-    "name": "Disqus comments",
+    "name": "Comments & Reviews",
     "settings": [
       {
         "type": "header",
@@ -376,6 +261,30 @@
         "type": "text",
         "id": "disqus_shortname",
         "label": "Disqus shortname"
+      },
+      {
+        "type": "header",
+        "content": "Products"
+      },
+      {
+        "type": "checkbox",
+        "id": "enable_product_reviews",
+        "label": "Enable reviews",
+        "info": "Requires the [Shopify Product Reviews app](https:\/\/apps.shopify.com\/product-reviews).",
+        "default": false
+      },
+      {
+        "type": "checkbox",
+        "id": "enable_yotpo",
+        "label": "Enable Yotpo reviews",
+        "info": "If disabled default reviews will be shown on the product pages.",
+        "default": false
+      },
+      {
+        "type": "text",
+        "id": "yotpo_ID",
+        "label": "Yotpo App Key",
+        "info": "Your Yotpo App Key is in your Yotpo Account Settings.  On the Account setting page locate the Store tab then scroll to API Credentials and copy the App Key."
       }
     ]
   },
@@ -390,67 +299,48 @@
         "type": "text",
         "id": "instagram_link",
         "label": "Instagram",
-        "info": "https://instagram.com/shopify"
+        "info": "https:\/\/instagram.com\/shopify"
       },
       {
         "type": "text",
         "id": "facebook_link",
         "label": "Facebook",
-        "info": "https://facebook.com/shopify"
+        "info": "https:\/\/facebook.com\/shopify"
       },
       {
         "type": "text",
         "id": "twitter_link",
         "label": "Twitter",
-        "info": "https://twitter.com/shopify"
-      },
-      {
-        "type": "text",
-        "id": "tiktok_link",
-        "label": "TikTok",
-        "info": "https://tiktok.com/@shopify"
-      },
-      {
-        "type": "text",
-        "id": "pinterest_link",
-        "label": "Pinterest",
-        "info": "https://pinterest.com/shopify"
-      },
-      {
-        "type": "text",
-        "id": "tumblr_link",
-        "label": "Tumblr",
-        "info": "http://shopify.tumblr.com"
+        "info": "https:\/\/twitter.com\/shopify"
       },
       {
         "type": "text",
         "id": "youtube_link",
         "label": "YouTube",
-        "info": "https://youtube.com/shopify"
+        "info": "https:\/\/youtube.com\/shopify"
       },
       {
         "type": "text",
         "id": "vimeo_link",
         "label": "Vimeo",
-        "info": "https://vimeo.com/shopify"
+        "info": "https:\/\/vimeo.com\/shopify"
       },
       {
         "type": "text",
-        "id": "linkedin_link",
-        "label": "LinkedIn",
-        "info": "https://linkedin.com/company/shopify"
+        "id": "pinterest_link",
+        "label": "Pinterest",
+        "info": "https:\/\/pinterest.com\/shopify"
       },
       {
         "type": "text",
-        "id": "snapchat_link",
-        "label": "Snapchat",
-        "info": "https://snapchat.com/add/shopify"
+        "id": "tumblr_link",
+        "label": "Tumblr",
+        "info": "http:\/\/shopify.tumblr.com"
       },
       {
         "type": "text",
-        "id": "feed_link",
-        "label": "Blog feed",
-        "info": "http://store.myshopify.com/blogs/news.atom"
+        "id": "atom_link",
+        "label": "Blog feed"
       },
       {
         "type": "header",
@@ -480,18 +370,20 @@
     "name": "Product grid",
     "settings": [
       {
-        "type": "paragraph",
-        "content": "For collections, search results, and sections with products in a grid."
+        "type": "checkbox",
+        "id": "color_swatches",
+        "label": "Enable color swatches",
+        "default": true
       },
       {
         "type": "checkbox",
-        "id": "product_grid_center",
-        "label": "Center text",
+        "id": "variant_lines",
+        "label": "Show variants as boxes",
         "default": true
       },
       {
         "type": "header",
-        "content": "Images"
+        "content": "Product images"
       },
       {
         "type": "checkbox",
@@ -512,80 +404,123 @@
       },
       {
         "type": "header",
-        "content": "Sale badges"
+        "content": "Sale tags"
       },
       {
         "type": "checkbox",
         "id": "sale_tags_enable",
-        "label": "Show sale badges",
+        "label": "Show sale tags",
         "default": true
       },
       {
         "type": "color",
-        "id": "sale_bg_color",
-        "label": "Background",
-        "default": "#c84242"
-      },
-      {
-        "type": "color",
-        "id": "sale_text_color",
-        "label": "Text",
-        "default": "#ffffff"
-      },
-      {
-        "type": "header",
-        "content": "Product badges",
-        "info": "Add tag '_preorder' or '_badge_with_custom_text' to a product in order to show the badge"
-      },
-      {
-        "type": "color",
-        "id": "badge_bg_color",
-        "label": "Background",
+        "id": "sale_background_color",
+        "label": "Sale tag background",
         "default": "#444444"
       },
       {
         "type": "color",
-        "id": "badge_text_color",
-        "label": "Text",
+        "id": "sale_text_color",
+        "label": "Sale tag text",
         "default": "#ffffff"
       },
       {
         "type": "header",
-        "content": "Quick add"
+        "content": "Quick view"
       },
       {
         "type": "checkbox",
         "id": "quickview_enable",
-        "label": "Enable quick add. [Learn more](https://invisiblethemes.com/link/broadcast/docs/quickadd)",
+        "label": "Enable quick view",
         "default": true
       },
       {
-        "type": "header",
-        "content": "Reviews",
-        "info": "Requires a product review app like [Shopify Product Reviews](https://apps.shopify.com/product-reviews) to create [standard metafields](https://shopify.dev/apps/metafields/definitions/standard-definitions) for star ratings."
+        "type": "checkbox",
+        "id": "quickview_buybutton_enable",
+        "label": "Show smart checkout button in quick view",
+        "info": "Customers will see their preferred accelerated checkout method.",
+        "default": true
       },
       {
         "type": "checkbox",
-        "id": "product_grid_show_rating",
-        "label": "Enable star rating",
+        "id": "enable_video_looping",
+        "label": "Media: Enable video looping",
+        "info": "Learn more about [media types](https:\/\/help.shopify.com\/manual\/products\/product-media)",
         "default": false
       }
     ]
   },
   {
-    "name": "Product form",
+    "name": "Newsletter popup",
     "settings": [
       {
         "type": "checkbox",
-        "id": "variant_lines",
-        "label": "Show variants as boxes",
-        "default": true
+        "id": "show_promo_modal",
+        "label": "Enable",
+        "info": "Popup will display on the Home page.",
+        "default": false
       },
       {
         "type": "checkbox",
-        "id": "color_swatches",
-        "label": "Enable color swatches",
-        "default": true
+        "id": "promo_dev_mode",
+        "label": "Enable testing mode",
+        "info": "Popup will show ever time the page is refreshed. This setting should not be used once your site is published.",
+        "default": false
+      },
+      {
+        "type": "text",
+        "id": "promo_modal_subtitle",
+        "label": "Subtitle",
+        "default": "Broadcast"
+      },
+      {
+        "type": "text",
+        "id": "promo_modal_title",
+        "label": "Title",
+        "default": "Newsletter"
+      },
+      {
+        "id": "promo_modal_richtext",
+        "type": "richtext",
+        "label": "Description",
+        "default": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>"
+      },
+      {
+        "type": "text",
+        "id": "promo_button_text",
+        "label": "Button text",
+        "default": "Join"
+      },
+      {
+        "type": "image_picker",
+        "id": "promo_image",
+        "label": "Image"
+      },
+      {
+        "type": "header",
+        "content": "Colors"
+      },
+      {
+        "type": "color",
+        "id": "promo_bg_color",
+        "label": "Background",
+        "default": "#fff"
+      },
+      {
+        "type": "select",
+        "id": "promo_text_color",
+        "label": "Text",
+        "default": "dark",
+        "options": [
+          {
+            "value": "light",
+            "label": "Light"
+          },
+          {
+            "value": "dark",
+            "label": "Dark"
+          }
+        ]
       }
     ]
   },
@@ -597,69 +532,6 @@
         "id": "favicon",
         "label": "Favicon image",
         "info": "Will be scaled down to 32 x 32px"
-      }
-    ]
-  },
-  {
-    "name": "Cart",
-    "settings": [
-      {
-        "type": "header",
-        "content": "Cart drawer"
-      },
-      {
-        "type": "checkbox",
-        "id": "enable_cart_dropdown",
-        "label": "Enable cart drawer",
-        "default": true
-      },
-      {
-        "type": "checkbox",
-        "id": "enable_order_notes",
-        "label": "Enable order notes",
-        "default": true
-      },
-      {
-        "type": "checkbox",
-        "id": "enable_gift_notes",
-        "label": "Enable gift notes",
-        "default": true
-      },
-      {
-        "type": "checkbox",
-        "id": "enable_estimate_shipping",
-        "label": "Enable shipping estimates",
-        "default": true
-      },
-      {
-        "type": "checkbox",
-        "id": "enable_additional_buttons",
-        "label": "Enable additional checkout buttons",
-        "default": false
-      },
-      {
-        "type": "header",
-        "content": "Free shipping message"
-      },
-      {
-        "type": "checkbox",
-        "id": "show_free_shipping_message",
-        "label": "Show free shipping message",
-        "default": false
-      },
-      {
-        "type": "textarea",
-        "id": "message",
-        "label": "Message",
-        "info": "Use ||amount|| to display progress towards free shipping.",
-        "default": "Spend ||amount|| more for free shipping."
-      },
-      {
-        "type": "text",
-        "id": "free_shipping_limit",
-        "label": "Minimum spend for free shipping",
-        "default": "100",
-        "info": "Use round numbers. Exclude currency, symbols, and letters. [More info](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/free-shipping-rates#free-shipping-over-a-certain-value)"
       }
     ]
   }
