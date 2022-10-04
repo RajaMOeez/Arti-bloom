@@ -17371,17 +17371,14 @@ body .shopify-email-marketing-confirmation__container a {
   overflow-y: auto;
   list-style-type: none;
   pointer-events: none;
-  transition-property: opacity, transform, visibility;
-  transition-duration: 0.25s, 0.25s, 0s;
-  transition-delay: 0s, 0s, 0.25s;
-  transition-timing-function: ease-out;
+
 }
 
 .popout-list--visible {
   opacity: 1;
   visibility: visible;
   pointer-events: auto;
-  transition-delay: 0s;
+  
 }
 
 .popout-list__item {
@@ -22587,14 +22584,14 @@ ul.tabs--center > li {
   font-size: 0;
   text-decoration: none;
   transform: translateY(-50%);
-  transition: color 0.3s ease;
+  
 }
 .cart-dropdown__close .icon {
   display: block;
   width: 100%;
   height: 100%;
   fill: currentColor;
-  transition: transform 0.3s;
+  
 }
 .cart-dropdown__close:hover {
   color: var(--link-hover);
