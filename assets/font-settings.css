@@ -1,0 +1,68 @@
+@font-face {
+  font-family: Quattrocento;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/quattrocento/quattrocento_n4.1353afc8cc29255df9e3f9bc80461a8d1cd6253c.woff2?h1=YXJ0aWJsb29tLmRl&hmac=27bc3d7044620f9b8c8485be486e0ef3f1079ea4f0d365fb5aa82067746fe09c") format("woff2"),
+       url("https://fonts.shopifycdn.com/quattrocento/quattrocento_n4.a988de05f47f98889baa94e448dbfa1e47832588.woff?h1=YXJ0aWJsb29tLmRl&hmac=c0a3f173f07a82717e50a9db8bb6fef7c366243940e5450cc0031e6e7a5f7737") format("woff");
+}
+
+@font-face {
+  font-family: Asap;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/asap/asap_n4.bbd5a7069d8fda6c6087204fae2b7f4dca87bf11.woff2?h1=YXJ0aWJsb29tLmRl&hmac=a2e79a638c401e9727255ab73be07691d41cbf5cc72ccc35c229d3ff539bfa91") format("woff2"),
+       url("https://fonts.shopifycdn.com/asap/asap_n4.b026277a6ffe301172d58b44f76f4a17a1fcac3a.woff?h1=YXJ0aWJsb29tLmRl&hmac=9fe698c7d25913ca7433d4e903998ea3137901d74e71c8e3fbac17aa4491267a") format("woff");
+}
+
+
+
+  @font-face {
+  font-family: Quattrocento;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/quattrocento/quattrocento_n7.c34357f454fb1e5aa10cabf315b51280b49d34f3.woff2?h1=YXJ0aWJsb29tLmRl&hmac=e7f25955320191c6d7d60bd0c4f2787211a190b3e46bf35f95e7371d4b38fd7c") format("woff2"),
+       url("https://fonts.shopifycdn.com/quattrocento/quattrocento_n7.793660e61e393f68768ed394aa12b282edcf713f.woff?h1=YXJ0aWJsb29tLmRl&hmac=ea8c262f2643034e38889b8556c023e617cb273bc27b801cb5dfb9fdd915c63e") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: Asap;
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/asap/asap_n5.e43840e5b512a2758810281a90dc3274e1ab8c97.woff2?h1=YXJ0aWJsb29tLmRl&hmac=af6a444cd2e619eb8fb70105596c9124373cc19d0a8486b1ec6c4653683c89c3") format("woff2"),
+       url("https://fonts.shopifycdn.com/asap/asap_n5.da154c7c326abf7fff7c145ef9fd5ab1407ae3ae.woff?h1=YXJ0aWJsb29tLmRl&hmac=7e202c3f1c4e92c38bfcb506b16c61df08b7b92e56034b057ce602614a652f7b") format("woff");
+}
+
+
+
+
+
+
+
+  @font-face {
+  font-family: Asap;
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/asap/asap_i4.bc13ea4c17e8bbc85d105173e9e849da88153cef.woff2?h1=YXJ0aWJsb29tLmRl&hmac=2ba4858935f48da0619feed64d8ae27c8d53354664129e0b2aefdd13ae9ff903") format("woff2"),
+       url("https://fonts.shopifycdn.com/asap/asap_i4.922d04686f6fd7a58987f2d7a529faa245774fa3.woff?h1=YXJ0aWJsb29tLmRl&hmac=e63d7b125bd8d9cdad770ed4be1ff2c90066939faf4049fc89681cc49455b1cd") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: Asap;
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/asap/asap_i5.cfbef12f2ce05aad5d669e11d7719e6f4da5c52b.woff2?h1=YXJ0aWJsb29tLmRl&hmac=1c286ca39fd48b49e366499de6c7adf8f9cf730b5535e840bf25eaec32e3b34f") format("woff2"),
+       url("https://fonts.shopifycdn.com/asap/asap_i5.10fd6c11f991cf6d82ae9f2764fb3f76ad492db9.woff?h1=YXJ0aWJsb29tLmRl&hmac=74154c9cbf63826e51ad3f9836505eb053d561e9bef702e1113e95beb42a1f1a") format("woff");
+}
+
