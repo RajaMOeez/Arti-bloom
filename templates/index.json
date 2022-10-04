@@ -2,17 +2,38 @@
   "sections": {
     "166276758655edee4f": {
       "type": "section-slideshow",
+      "disabled": true,
       "settings": {
-        "height": "screen-height-two-thirds",
+        "height": "image-height",
         "transition": "slide",
-        "arrows_style": true,
+        "arrows_style": false,
         "dots_style": "circle",
         "autoplay": false,
         "autoplay_speed": 8
       }
+    },
+    "aa04d330-01f5-4144-8cd5-5a74172dde59": {
+      "type": "section-hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AcrossCrater.jpg",
+        "bg_position": "center-center",
+        "height": "screen-height-one-half",
+        "overlay_opacity": 35,
+        "overlay_color": "#000000",
+        "title": "Mapping Your Special Place",
+        "description": "",
+        "flex_align": "align--middle-center",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "View products",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--large btn--outline caps"
+      }
     }
   },
   "order": [
-    "166276758655edee4f"
+    "166276758655edee4f",
+    "aa04d330-01f5-4144-8cd5-5a74172dde59"
   ]
 }
