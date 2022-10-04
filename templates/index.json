@@ -30,10 +30,27 @@
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--large btn--outline caps"
       }
+    },
+    "dd4284bf-2f48-4443-95aa-39ce0b53c07e": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "Featured collection",
+        "description": "",
+        "text_alignment": "center",
+        "link_text": "",
+        "link_url": "",
+        "button_color": "btn--black",
+        "button_style": "hero__btn btn btn--input btn--outline caps",
+        "featured_collection": "landing-collection",
+        "grid": 4,
+        "rows": 3,
+        "layout_mobile": "carousel"
+      }
     }
   },
   "order": [
     "166276758655edee4f",
-    "aa04d330-01f5-4144-8cd5-5a74172dde59"
+    "aa04d330-01f5-4144-8cd5-5a74172dde59",
+    "dd4284bf-2f48-4443-95aa-39ce0b53c07e"
   ]
 }
