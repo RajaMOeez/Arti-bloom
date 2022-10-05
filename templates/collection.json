@@ -2,7 +2,6 @@
   "sections": {
     "hero": {
       "type": "collection-image-with-title",
-      "disabled": true,
       "settings": {
         "show_title": true,
         "show_description": true,
@@ -27,12 +26,11 @@
     },
     "main": {
       "type": "collection",
-      "disabled": true,
       "settings": {
         "enable_sort": true,
         "enable_filters": true,
         "filter_layout": "slide-out",
-        "grid": 6,
+        "grid": 4,
         "grid_mobile": "2",
         "product_limit": 50
       }
