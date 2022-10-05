@@ -23906,9 +23906,3 @@ ul.tabs--center > li {
     margin: calc(var(--gutter) * 2) 0;
   }
 }
-
-/*! ============ Add any custom styles below this line ================== */
-
-.product__breadcrumbs {
-  display: none;
-}
