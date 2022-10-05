@@ -89,10 +89,11 @@
 <style>
     /*! CSS Used from: https://cdn.shopify.com/s/files/1/0308/6709/5685/t/11/assets/theme.scss.css?v=52682357876516566731664368873 ; media=all */
 @media all{
+.slick-slide img{display:block;}
 .oi[data-glyph]:before{position:relative;top:1px;font-family:Icons;display:inline-block;speak:none;line-height:1;vertical-align:baseline;font-weight:400;font-style:normal;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
 .oi[data-glyph]:empty:before{width:1em;text-align:center;box-sizing:content-box;}
 .oi[data-glyph=double-quote-sans-left]:before{content:"\e054";}
-div,span,p,blockquote{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
+div,span,p,blockquote,img{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
 blockquote{quotes:none;}
 blockquote:before,blockquote:after{content:"";content:none;}
 p{margin:0 0 1em;}
@@ -102,13 +103,31 @@ html:not(.no-js) body:not(.focus-enabled) *:focus{outline:none;}
 html body *{-webkit-font-smoothing:antialiased;}
 p{font-size:1rem;font-weight:400;line-height:1.5;margin:0 0 .5em;}
 strong{font-weight:700;}
+a{text-decoration:none;color:#418383;}
+a:hover{color:#165858;}
 blockquote{padding-left:1.5em;border-left:5px solid #418383;margin:0 0 1.5em 1.25em;}
 @media print{
 p{orphans:3;widows:3;}
 }
+.testimonial{display:flex;align-items:center;min-height:50vw;}
+@media only screen and (min-width: 1400px){
+.testimonial{min-height:725px;}
+}
+@media only screen and (max-width: 749px){
+.testimonial{flex-direction:column-reverse;}
+}
 .tesimonial__quotes{display:block;font-size:40px;margin-bottom:40px;}
 @media only screen and (max-width: 749px){
 .tesimonial__quotes{font-size:32px;margin-bottom:30px;}
+}
+.testimonial__image{align-self:stretch;position:relative;margin-right:75px;width:50%;}
+@media only screen and (max-width: 749px){
+.testimonial__image{width:100%;height:50vh;}
+}
+.testimonial__image-bg{position:absolute;top:0;left:0;right:0;bottom:0;background-position:center center;background-repeat:no-repeat;background-size:cover;}
+.testimonial__button{position:absolute;left:0;bottom:0;width:100%;display:flex;align-items:center;justify-content:center;height:69px;font-size:11px;line-height:normal;text-transform:uppercase;letter-spacing:2px;}
+@media only screen and (max-width: 749px){
+.testimonial__button{height:60px;}
 }
 .testimonial__content{max-width:540px;text-align:left;padding:104px 15px;}
 @media only screen and (max-width: 749px){
