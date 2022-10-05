@@ -79,7 +79,7 @@
         "settings": {
           "header_style": "logo_above",
           "icon_family": "bold",
-          "icon_size": "regular",
+          "icon_size": "large",
           "logo_max_limit": 200,
           "main_menu_linklist": "main-menu",
           "enable_search": true,
