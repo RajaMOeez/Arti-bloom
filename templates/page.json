@@ -9,8 +9,8 @@
         "text_size": 2,
         "align_text": "text-left",
         "height": "margin--small",
-        "width": "wrapper",
-        "text_color": "text-light",
+        "width": "wrapper--narrow",
+        "text_color": "text-dark",
         "bg_color": "#ffffff"
       }
     },
