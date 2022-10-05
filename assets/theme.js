@@ -13418,3 +13418,23 @@
 
 }(themeVendor.BodyScrollLock, themeVendor.themeAddresses, themeVendor.themeCurrency, themeVendor.Sqrl, themeVendor.themeImages, themeVendor.Flickity, themeVendor.FlickityFade, themeVendor.Rellax, themeVendor.AOS));
 //# sourceMappingURL=theme.js.map
+
+   // A11y
+   $('.navigation__wrapper .nav-carat-small').on( 'keyup', function(e) {
+    // 13 = Enter, 9 = TAB, 32 = Spacebar
+    if ( e.keyCode === slate.utils.keyboardKeys.ENTER || e.keyCode === slate.utils.keyboardKeys.SPACE ) {
+      e.preventDefault();
+      
+      var item = $(this).closest('li'),
+          isDropdownVisible = item.hasClass( 'active' ),
+          submenu = $(this).closest('li').find( '.main-menu-dropdown' );
+
+      if ( isDropdownVisible ) {
+        item.removeClass('active');
+      } else {
+        item.addClass('active').siblings().removeClass('active');
+      }
+
+      checkAriaStatus(submenu);
+    }
+  });
