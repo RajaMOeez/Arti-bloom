@@ -36,7 +36,7 @@
     "parallax_strength": 50,
     "product_grid_outline": false,
     "button_radius_style": "pill",
-    "show_scroll_top_button": true,
+    "show_scroll_top_button": false,
     "loading_image_1": "shopify:\/\/shop_images\/Artibloom_Logo.png",
     "instagram_link": "https:\/\/instagram.com\/originmaps?",
     "facebook_link": "https:\/\/facebook.com\/originmaps",
