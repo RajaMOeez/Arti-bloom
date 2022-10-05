@@ -68,10 +68,10 @@
       "settings": {
         "related_products_enable": true,
         "limit": 4,
-        "product_recommendations_heading": "Das könnte dir auch gefallen",
+        "product_recommendations_heading": "Related products",
         "show_recently_viewed": true,
         "product_recently_limit": 4,
-        "product_recently_heading": "Zuletzt angeschaut"
+        "product_recently_heading": "Recently viewed"
       }
     }
   },
