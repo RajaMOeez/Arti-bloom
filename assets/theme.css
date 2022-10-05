@@ -6760,7 +6760,7 @@ button {
   text-align: center;
   vertical-align: middle;
   border: 1px solid var(--btn-bg);
-  border-radius: var(---radius);
+  /* border-radius: var(---radius); */
   font-weight: var(---font-weight-body);
   cursor: pointer;
   background: var(--btn-bg);
