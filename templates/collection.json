@@ -10,7 +10,7 @@
         "transparent": false,
         "show_image": true,
         "banner_layout": "overlay",
-        "height": "screen-height-one-third",
+        "height": "screen-height-one-half",
         "overlay_opacity": 0,
         "overlay_color": "#000000"
       }
