@@ -52,6 +52,7 @@
     <span class="navtext">{{ link.title | strip_html | escape }}</span>
   </a>
   {% if expands %}
+  <span class="nav-carat-small" tabindex="0">{% render 'icon-arrow-right' %}</span>
     <div class="header__dropdown"
       data-hover-disclosure
       id="dropdown-{{ key }}">
@@ -96,7 +97,6 @@
             {% for link in link.links %}
               <a href="{{ link.url }}" data-stagger class="navlink navlink--child{% if link.active %} main-menu--active{% endif %}">
                 <span class="navtext">{{ link.title | strip_html | escape }}</span>
-                <span class="nav-carat-small" tabindex="0">{% render 'icon-arrow-right' %}</span>
               </a>
             {% endfor %} 
           {%- endif -%}
