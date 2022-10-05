@@ -83,7 +83,7 @@
           "logo_max_limit": 200,
           "main_menu_linklist": "main-menu",
           "enable_search": true,
-          "show_social_icons": false,
+          "show_social_icons": true,
           "enable_account": true,
           "header_sticky": "sticky",
           "transparent_home": false,
