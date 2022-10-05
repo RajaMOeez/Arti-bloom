@@ -91,9 +91,9 @@
             "title": "Ali",
             "testimonial": "My wife was shocked when it was delivered, words can’t explain how happy we are with this wonderful artwork.",
             "bio_image": "shopify:\/\/shop_images\/IranMap.jpg",
-            "username": "",
+            "username": "Sydney",
             "tweet_url": "",
-            "product": "",
+            "product": "iran",
             "button_text": "",
             "button_link": ""
           }
@@ -106,6 +106,110 @@
         "testimonials_bg": "#fafafa",
         "button_text_color": "#726d75",
         "button_bg_color": "#e7e7e7"
+      }
+    },
+    "b73d37cd-8ec0-468a-b56b-97c4e46e643d": {
+      "type": "index-testimonial-with-image",
+      "blocks": {
+        "template--15982265106590__b73d37cd-8ec0-468a-b56b-97c4e46e643d-16649469837ed9f934-0": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Renèe",
+            "testimonial": "Love it - so personalised to us! Now we can compare what we see out the window 👌",
+            "username": "Queensland",
+            "tweet_url": "",
+            "product": "custom-topographic-style",
+            "image": "shopify:\/\/shop_images\/QueenslandFarmMap_76264c05-fb0b-48fa-9e26-e7ee4b58e27d.jpg",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15982265106590__b73d37cd-8ec0-468a-b56b-97c4e46e643d-16649469837ed9f934-0"
+      ],
+      "settings": {
+        "testimonials_bg": "#fafafa",
+        "button_text_color": "#726D75",
+        "button_bg_color": "#E7E7E7"
+      }
+    },
+    "678f74cc-7079-46c6-8a37-a66d19d24601": {
+      "type": "index-testimonial-with-image",
+      "blocks": {
+        "template--15982265106590__678f74cc-7079-46c6-8a37-a66d19d24601-16649469837ed9f934-0": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Damon",
+            "testimonial": "Very happy with it mate, so my thanks to you. It’ll take pride of place in my shack now :)",
+            "username": "South Australia",
+            "tweet_url": "",
+            "product": "custom-topographic-style",
+            "image": "shopify:\/\/shop_images\/MarionBay_89b1e908-bcbd-46f9-b81e-4fb452894438.jpg",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15982265106590__678f74cc-7079-46c6-8a37-a66d19d24601-16649469837ed9f934-0"
+      ],
+      "settings": {
+        "testimonials_bg": "#fafafa",
+        "button_text_color": "#726D75",
+        "button_bg_color": "#E7E7E7"
+      }
+    },
+    "b5fa836d-cb5e-4abf-8344-bfc2c3789fbe": {
+      "type": "index-testimonial-with-image",
+      "blocks": {
+        "template--15982265106590__b5fa836d-cb5e-4abf-8344-bfc2c3789fbe-16649469837ed9f934-0": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Fiona",
+            "testimonial": "Looks fantastic, love all the details.",
+            "username": "Ulladulla, New South Wales",
+            "tweet_url": "",
+            "product": "custom-topographic-style",
+            "image": "shopify:\/\/shop_images\/ContourBathymetryMap_30960dd8-7490-4849-af08-71c985b852bf.jpg",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15982265106590__b5fa836d-cb5e-4abf-8344-bfc2c3789fbe-16649469837ed9f934-0"
+      ],
+      "settings": {
+        "testimonials_bg": "#fafafa",
+        "button_text_color": "#726D75",
+        "button_bg_color": "#E7E7E7"
+      }
+    },
+    "04227039-1b03-4246-96bb-50e5326714c8": {
+      "type": "index-testimonial-with-image",
+      "blocks": {
+        "template--15982265106590__04227039-1b03-4246-96bb-50e5326714c8-1664947034f0518c98-0": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Kirsten",
+            "testimonial": "Excellent product. Great communication with Tim. Delivery was fast. I would absolutely recommend this as a special one of a kind gift. Thanks Tim",
+            "username": "Queensland",
+            "tweet_url": "",
+            "product": "custom-topographic-style",
+            "image": "shopify:\/\/shop_images\/KirstenTopoCu.png",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15982265106590__04227039-1b03-4246-96bb-50e5326714c8-1664947034f0518c98-0"
+      ],
+      "settings": {
+        "testimonials_bg": "#fafafa",
+        "button_text_color": "#726D75",
+        "button_bg_color": "#E7E7E7"
       }
     },
     "79e54365-bdb9-4e8f-a205-0679f30f614c": {
@@ -135,6 +239,10 @@
     "8f437138-6964-497e-9d8b-6644c3c6fc82",
     "16649216157b87533d",
     "ad902e55-9582-494f-9052-4f04d2a8e0f0",
+    "b73d37cd-8ec0-468a-b56b-97c4e46e643d",
+    "678f74cc-7079-46c6-8a37-a66d19d24601",
+    "b5fa836d-cb5e-4abf-8344-bfc2c3789fbe",
+    "04227039-1b03-4246-96bb-50e5326714c8",
     "79e54365-bdb9-4e8f-a205-0679f30f614c"
   ]
 }
