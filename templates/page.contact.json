@@ -66,11 +66,11 @@
         "Options-select"
       ],
       "settings": {
-        "title": "KONTAKT",
+        "title": "Contact us",
         "terms": true,
         "height": "margin--small",
         "width": "wrapper--narrow",
-        "text_color": "text-light",
+        "text_color": "text-dark",
         "bg_color": "#f7f7f7"
       }
     }
