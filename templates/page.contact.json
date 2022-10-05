@@ -40,9 +40,8 @@
         },
         "Options-select": {
           "type": "select",
-          "disabled": true,
           "settings": {
-            "title": "Select an option",
+            "title": "How did you hear about us:",
             "label-one": "Other",
             "label-two": "Web search",
             "label-three": "Etsy",
