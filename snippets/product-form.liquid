@@ -213,6 +213,9 @@
     </div>
   {%- endcapture -%}
 
+  {%- capture form_fields -%}
+
+
       <p class="line-item-property__field">
         <label for="central-focus-location">Central focus location</label><br>
         <input required class="required" id="central-focus-location" type="text" name="properties[Central focus location]">
@@ -226,7 +229,6 @@
         <input required id="custom_photo" type="file" name="properties[Photo]">
       </p> 
 
-  {%- capture form_fields -%}
     {% unless product.has_only_default_variant %}
       {%- assign selects_counter = 0 -%}
       <div class="product__selectors">
