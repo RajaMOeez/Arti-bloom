@@ -4,13 +4,13 @@
       "type": "main-page",
       "settings": {
         "subheading": "",
-        "show_title": false,
-        "show_content": false,
+        "show_title": true,
+        "show_content": true,
         "text_size": 2,
         "align_text": "text-center",
         "height": "margin--medium",
         "width": "wrapper",
-        "text_color": "text-light",
+        "text_color": "text-dark",
         "bg_color": "#f7f7f7"
       }
     },
@@ -66,7 +66,7 @@
         "Options-select"
       ],
       "settings": {
-        "title": "Contact us",
+        "title": "",
         "terms": true,
         "height": "margin--small",
         "width": "wrapper--narrow",
