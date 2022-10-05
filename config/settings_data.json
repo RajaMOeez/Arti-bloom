@@ -51,7 +51,7 @@
     "variant_lines": true,
     "color_swatches": true,
     "favicon": "shopify:\/\/shop_images\/favicon-01-01.png",
-    "enable_cart_dropdown": false,
+    "enable_cart_dropdown": true,
     "enable_gift_notes": false,
     "enable_estimate_shipping": false,
     "show_free_shipping_message": false,
