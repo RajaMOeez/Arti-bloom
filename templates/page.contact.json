@@ -73,56 +73,10 @@
         "text_color": "text-light",
         "bg_color": "#f7f7f7"
       }
-    },
-    "faq": {
-      "type": "page-faq",
-      "disabled": true,
-      "blocks": {
-        "heading-0": {
-          "type": "heading",
-          "settings": {
-            "title": "FAQ"
-          }
-        },
-        "question-1": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
-          }
-        },
-        "question-2": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
-          }
-        },
-        "question-3": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading-0",
-        "question-1",
-        "question-2",
-        "question-3"
-      ],
-      "settings": {
-        "width": "wrapper--narrow",
-        "height": "margin--small",
-        "text_color": "text-dark",
-        "bg_color": "#fafafa"
-      }
     }
   },
   "order": [
     "main",
-    "contact",
-    "faq"
+    "contact"
   ]
 }
