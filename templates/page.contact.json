@@ -38,32 +38,17 @@
             "required": true
           }
         },
-        "Optional-text": {
-          "type": "formHeading",
-          "disabled": true,
-          "settings": {
-            "title": "Optional"
-          }
-        },
-        "Urgent-checkbox": {
-          "type": "checkbox",
-          "disabled": true,
-          "settings": {
-            "title": "Es ist dringend",
-            "required": false
-          }
-        },
         "Options-select": {
           "type": "select",
           "disabled": true,
           "settings": {
             "title": "Select an option",
-            "label-one": "- Pick an option -",
-            "label-two": "Option one",
-            "label-three": "Option two",
-            "label-four": "Option three",
-            "label-five": "Option four",
-            "label-six": "Option five"
+            "label-one": "Other",
+            "label-two": "Web search",
+            "label-three": "Etsy",
+            "label-four": "Word of mouth",
+            "label-five": "Instagram",
+            "label-six": "Facebook"
           }
         }
       },
@@ -71,8 +56,6 @@
         "Name",
         "Email",
         "Message",
-        "Optional-text",
-        "Urgent-checkbox",
         "Options-select"
       ],
       "settings": {
