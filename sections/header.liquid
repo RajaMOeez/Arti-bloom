@@ -208,6 +208,7 @@
   <nav class="header__menu{% if settings.type_nav_caps %} caps{% endif %}">
     <div class="header__menu__inner" data-text-items-wrapper>
       {% for link in linklists[main_menu_linklist].links %}
+      <h1>this is test</h1>
         {% render 'nav-item', link: link, section: section, index: forloop.index %}
       {% endfor %}
       <div class="hover__bar"></div>
