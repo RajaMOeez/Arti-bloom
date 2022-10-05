@@ -77,10 +77,10 @@
       "header": {
         "type": "header",
         "settings": {
-          "header_style": "logo_beside",
+          "header_style": "logo_above",
           "icon_family": "bold",
           "icon_size": "regular",
-          "logo_max_limit": 150,
+          "logo_max_limit": 200,
           "main_menu_linklist": "main-menu",
           "enable_search": true,
           "show_social_icons": false,
