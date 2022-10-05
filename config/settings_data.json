@@ -36,7 +36,7 @@
     "parallax_strength": 50,
     "product_grid_outline": false,
     "button_radius_style": "pill",
-    "show_scroll_top_button": true,
+    "show_scroll_top_button": false,
     "loading_image_1": "shopify:\/\/shop_images\/Artibloom_Logo.png",
     "instagram_link": "https:\/\/instagram.com\/originmaps?",
     "facebook_link": "https:\/\/facebook.com\/originmaps",
@@ -77,10 +77,10 @@
       "header": {
         "type": "header",
         "settings": {
-          "header_style": "logo_beside",
+          "header_style": "logo_above",
           "icon_family": "bold",
           "icon_size": "regular",
-          "logo_max_limit": 150,
+          "logo_max_limit": 200,
           "main_menu_linklist": "main-menu",
           "enable_search": true,
           "show_social_icons": false,
