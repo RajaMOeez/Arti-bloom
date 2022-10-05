@@ -17,6 +17,13 @@
     "contact": {
       "type": "contact-form",
       "blocks": {
+        "b915df57-4e99-4f93-a330-eb51cb8154e7": {
+          "type": "textarea",
+          "settings": {
+            "title": "Enquiry or location to be mapped",
+            "required": false
+          }
+        },
         "Name": {
           "type": "text",
           "settings": {
@@ -52,6 +59,7 @@
         }
       },
       "block_order": [
+        "b915df57-4e99-4f93-a330-eb51cb8154e7",
         "Name",
         "Email",
         "Message",
