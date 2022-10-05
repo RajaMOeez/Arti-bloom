@@ -7,7 +7,7 @@
         "show_title": true,
         "show_content": true,
         "text_size": 2,
-        "align_text": "text-left",
+        "align_text": "text-center",
         "height": "margin--small",
         "width": "wrapper--narrow",
         "text_color": "text-dark",
