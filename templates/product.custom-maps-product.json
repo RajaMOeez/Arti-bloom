@@ -1,7 +1,7 @@
 {
   "sections": {
     "main": {
-      "type": "product",
+      "type": "custom-maps-product",
       "blocks": {
         "price_and_title": {
           "type": "price_and_title",
