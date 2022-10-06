@@ -250,7 +250,7 @@
                   {%- endif -%}
 
                   <div data-product-form class="product__form {{ hide_labels_class }}" {{ block.shopify_attributes }}>
-                    {%- render 'product-form', product: product, block: block, unique: unique -%}
+                    {%- render 'product-form-custom-maps', product: product, block: block, unique: unique -%}
                   </div>
                 {%- when 'tab_richtext' -%}
                   <div class="product-description rte" {{ block.shopify_attributes }}>
