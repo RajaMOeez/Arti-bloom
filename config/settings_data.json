@@ -12,7 +12,7 @@
     "header_bg": "#040f0f",
     "header_link": "#ffffff",
     "header_link_hover": "#cfe0d3",
-    "show_logo_bg": false,
+    "show_logo_bg": true,
     "menu_bg_color": "#040f0f",
     "menu_border_color": "#040f0f",
     "menu_link_color": "#ffffff",
@@ -90,7 +90,7 @@
           "transparent_collection": false,
           "transparent_article": false,
           "secondary_menu_linklist": "",
-          "show_currency_selector": false
+          "show_currency_selector": true
         }
       },
       "announcement": {
