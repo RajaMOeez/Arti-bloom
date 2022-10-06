@@ -367,37 +367,19 @@
               <div data-child-takes-space class="header__desktop__bar__r">{{ cart_content }}</div>
             </div>
             <div class="header__desktop__lower" data-takes-space-wrapper>
-                    <!-- /partials/cross-border.liquid -->
+              <div data-child-takes-space class="header__desktop__bar__c">{{ menu }}</div>
+
+
+
+
+
+
+
+                      <!-- /partials/cross-border.liquid -->
 {%- form 'localization', class: 'popout--footer' -%}
-  {%- if section.settings.show_locale_selector and shop.published_locales.size > 1 -%}
-    <div>
-      <h2 class="visually-hidden" id="lang-heading">
-        {{ 'layout.footer.language' | t }}
-      </h2>
-
-      <div class="popout" data-popout>
-        <button type="button" class="popout__toggle" aria-expanded="false" aria-controls="lang-list" aria-describedby="lang-heading" data-popout-toggle>
-          {{ localization.language.endonym_name }}
-        </button>
-
-        <ul id="lang-list" class="popout-list" data-popout-list>
-          {% for language in localization.available_languages %}
-            <li class="popout-list__item {% if language == localization.language %}popout-list__item--current{% endif %}">
-              <a class="popout-list__option" href="#" lang="{{ locale.iso_code }}" {% if language == localization.language %}aria-current="true"{% endif %} data-value="{{ language.iso_code }}" data-popout-option>
-                <span>{{ language.endonym_name }}</span>
-              </a>
-            </li>
-          {%- endfor -%}
-        </ul>
-
-        <input type="hidden" name="language_code" id="LocaleSelector" value="{{ form.current_locale.iso_code }}" data-popout-input/>
-      </div>
-    </div>
-  {%- endif -%}
-
   {%- if section.settings.show_currency_selector and shop.enabled_currencies.size > 1 -%}
     <div>
-      <h2 class="visually-hidden" id="currency-heading">
+      <h2 class="" id="currency-heading">
         {{ 'layout.footer.currency' | t }}
       </h2>
 
@@ -441,7 +423,21 @@
     </div>
   {%- endif -%}
 {%- endform -%}
-              <div data-child-takes-space class="header__desktop__bar__c">{{ menu }}</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             </div>
         {%- endcase -%}
       </div>
