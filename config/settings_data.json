@@ -138,7 +138,7 @@
           "overlay_color": "#ffffff",
           "footer_secondary_linklist": "",
           "footer_payment_enable": false,
-          "show_locale_selector": true,
+          "show_locale_selector": false,
           "show_currency_selector": true,
           "type": "currency"
         }
