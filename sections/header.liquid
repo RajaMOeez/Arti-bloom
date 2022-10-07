@@ -179,7 +179,7 @@
       %}
       {%- if currencies -%}
         {% if localization %}
-              <div class="drawer__bottom__right">
+              <div style="justify-content: right;" class="drawer__bottom__right">
                 {%- form 'localization', class: 'header__drawer__selects', id: 'localization-form-drawer' -%}
                   {%- if languages -%}
                     <div class="popout--drawer">
@@ -426,6 +426,13 @@
     }
   </script>
 {% endif %}
+
+<style>
+.header__logo__text {
+  background: black Im !important;
+  color: white !important;
+}
+</style>
 
 {% schema %}
 {
