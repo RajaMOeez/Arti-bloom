@@ -368,6 +368,13 @@
             </div>
             <div class="header__desktop__lower" data-takes-space-wrapper>
               <div data-child-takes-space class="header__desktop__bar__c">{{ menu }}</div>
+              {% form 'localization' %}
+              {%- if section.settings.show_locale_selector -%}
+              <div class="grid">
+               <div>test</div>
+              </div>
+              {% endif %}
+              {% endform %}
             </div>
         {%- endcase -%}
       </div>
