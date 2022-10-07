@@ -177,20 +177,20 @@
           assign localization = true
         endif
       %}
-        {%- if currencies -%}
+            {%- if currencies -%}
           {% if localization %}
-            <div class="">
-              {%- form 'localization', class: '', id: '' -%}
+            <div class="drawer__bottom__right">
+              {%- form 'localization', class: 'header__drawer__selects', id: 'localization-form-drawer' -%}
                 {%- if languages -%}
-                  <div class="">
-                    <h2 class="" id="">
+                  <div class="popout--drawer">
+                    <h2 class="visually-hidden" id="lang-drawer">
                       {{ 'layout.footer.language' | t }}
                     </h2>
-                    <div class="" data-popout>
+                    <div class="popout" data-popout>
                       <button type="button" class="popout__toggle" aria-expanded="false" aria-controls="lang-list-drawer" aria-describedby="lang-drawer" data-popout-toggle>
                         {{ form.current_locale.endonym_name }}
                       </button>
-                      <ul id="" class="" data-popout-list>
+                      <ul id="lang-list-drawer" class="popout-list" data-popout-list>
                         {% for locale in form.available_locales %}
                           <li class="popout-list__item {% if locale.iso_code == form.current_locale.iso_code %}popout-list__item--current{% endif %}">
                             <a class="popout-list__option" href="#" lang="{{ locale.iso_code }}" {% if locale.iso_code == form.current_locale.iso_code %}aria-current="true"{% endif %} data-value="{{ locale.iso_code }}" data-popout-option>
