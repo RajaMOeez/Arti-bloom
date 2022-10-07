@@ -88,7 +88,7 @@
           endif
         -%}
         <div class="header__logo__text {{ classes }}">
-          <span style="font-size: 28px; capo; font-family: cardo, serif; text-transform: capitalize; letter-spacing: 0.01em;">{{ shop.name }}</span>
+          <span>{{ shop.name }}</span>
         </div>
       {% endif %}
       {% if has_transparent_logo %}
@@ -368,13 +368,6 @@
             </div>
             <div class="header__desktop__lower" data-takes-space-wrapper>
               <div data-child-takes-space class="header__desktop__bar__c">{{ menu }}</div>
-              {% form 'localization' %}
-              {%- if section.settings.show_locale_selector -%}
-              <div class="grid">
-               <div>test</div>
-              </div>
-              {% endif %}
-              {% endform %}
             </div>
         {%- endcase -%}
       </div>
@@ -568,12 +561,6 @@
       "type": "link_list",
       "id": "secondary_menu_linklist",
       "label": "Secondary menu"
-    },
-    {
-      "type": "checkbox",
-      "id": "show_currency_selector",
-      "label": "Show currency selector",
-      "default": true
     }
   ],
   "blocks": [
