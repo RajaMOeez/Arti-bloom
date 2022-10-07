@@ -216,8 +216,7 @@
   </nav>
 {% endcapture %}
 
-{% capture drawer %}
-<h1>THIS IS A TEST</H1>
+
   <div class="drawer__content">
       {% liquid
         if shop.published_locales.size > 1
@@ -286,7 +285,6 @@
       </div>
       {%- endif -%}
   </div>
-{% endcapture %}
 
 {% capture drawer %}
   <nav class="header__drawer{% if settings.type_nav_caps %} caps{% endif %}"
