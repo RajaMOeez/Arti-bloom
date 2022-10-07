@@ -215,9 +215,8 @@
     </div>
   </nav>
 {% endcapture %}
-<h1>this is a test</h1>
-{% capture drawer %}
 
+{% capture drawer %}
   <div class="drawer__content">
       {% liquid
         if shop.published_locales.size > 1
@@ -289,6 +288,7 @@
 {% endcapture %}
 
 {% capture drawer %}
+<h1>THIS IS A TEST</H1>
   <nav class="header__drawer{% if settings.type_nav_caps %} caps{% endif %}"
     data-drawer="hamburger"
     aria-label="{{ 'layout.header.menu' | t }}"
