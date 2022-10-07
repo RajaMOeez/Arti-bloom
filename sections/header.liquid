@@ -217,7 +217,7 @@
 {% endcapture %}
 
 
-  <div class="drawer__content">
+  
       {% liquid
         if shop.published_locales.size > 1
           assign languages = true
@@ -284,7 +284,7 @@
           {% endif %}
       </div>
       {%- endif -%}
-  </div>
+  
 
 {% capture drawer %}
   <nav class="header__drawer{% if settings.type_nav_caps %} caps{% endif %}"
