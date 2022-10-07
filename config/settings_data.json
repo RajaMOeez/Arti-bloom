@@ -89,8 +89,7 @@
           "transparent_home": false,
           "transparent_collection": false,
           "transparent_article": false,
-          "secondary_menu_linklist": "",
-          "show_currency_selector": false
+          "secondary_menu_linklist": ""
         }
       },
       "announcement": {
@@ -140,7 +139,7 @@
           "footer_secondary_linklist": "",
           "footer_payment_enable": false,
           "show_locale_selector": false,
-          "show_currency_selector": false,
+          "show_currency_selector": true,
           "type": "currency"
         }
       },
