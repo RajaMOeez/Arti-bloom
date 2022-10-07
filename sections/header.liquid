@@ -178,6 +178,8 @@
         endif
       %}
             {%- if currencies -%}
+
+
           {% if localization %}
             <div class="drawer__bottom__right">
               {%- form 'localization', class: 'header__drawer__selects', id: 'localization-form-drawer' -%}
@@ -205,7 +207,7 @@
                 {%- endif -%}
 
                 {%- if currencies -%}
-                  <div class="popout--drawer">
+                  <div class="">
                     <h2 class="visually-hidden" id="currency-drawer">
                       {{ 'layout.footer.currency' | t }}
                     </h2>
