@@ -191,7 +191,7 @@
       </div>
     {% endif %}
 
-              {% if localization %}
+           
             <div class="drawer__bottom__right">
               {%- form 'localization', class: 'header__drawer__selects', id: 'localization-form-drawer' -%}
                 {%- if languages -%}
@@ -241,7 +241,7 @@
                 {%- endif -%}
               {%- endform -%}
             </div>
-          {% endif %}
+         
     <div class="header__desktop__button{% if settings.type_nav_caps %} caps{% endif %}">
        
       <a href="{{ routes.cart_url }}" class="navlink navlink--cart{% if icon_family_text == 'text' %} navlink--toplevel{% endif %}" title="{{ 'cart.general.title' | t }}" {% if settings.enable_cart_dropdown and template.name != 'cart' %} data-cart-toggle data-focus-element {% endif %}>
