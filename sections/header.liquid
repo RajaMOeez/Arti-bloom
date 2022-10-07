@@ -168,7 +168,7 @@
 
     </div>
 {% endcapture %}
-
+<div class="drawer__content">
       {% liquid
         if shop.enabled_currencies.size > 1
           assign currencies = true
@@ -177,7 +177,7 @@
           assign localization = true
         endif
       %}
-            {%- if currencies -%}
+      {%- if currencies -%}
 
 
           {% if localization %}
@@ -231,9 +231,9 @@
               {%- endform -%}
             </div>
           {% endif %}
-        </div>
+       
       {% endif %}
-
+</div>
 {% capture cart_content %}
   <div class="header__desktop__buttons header__desktop__buttons--icons">
 
