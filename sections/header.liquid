@@ -192,9 +192,9 @@
     {% endif %}
 
     <div class="header__desktop__button{% if settings.type_nav_caps %} caps{% endif %}">
+       <h1>this is a test</h1>
       <a href="{{ routes.cart_url }}" class="navlink navlink--cart{% if icon_family_text == 'text' %} navlink--toplevel{% endif %}" title="{{ 'cart.general.title' | t }}" {% if settings.enable_cart_dropdown and template.name != 'cart' %} data-cart-toggle data-focus-element {% endif %}>
         <div class="cart__icon__content{% if icon_family_text == 'text' %} cart__icon__content--text{% elsif icon_family_text == 'modern' %} cart__icon__content--modern{% endif %}">
-         <h1>this is a test</h1>
          {% render 'header-icon', filename: icon_string_cart %}
           <span class="{% if icon_family_text == 'text' %}navtext{% else %}visually-hidden{% endif %}">{{ 'layout.header.cart' | t }}</span>
           {{ cart_status }}
