@@ -1,6 +1,34 @@
 <!doctype html>
 <html class="no-js no-touch supports-no-cookies" lang="{{ request.locale.iso_code }}">
 <head>
+
+  {% form 'currency' %} 
+  <select name="currency"> 
+    {% for currency in shop.enabled_currencies %} 
+    {% if currency == cart.currency %} 
+    <option selected="true">
+      {{currency.iso_code}} 
+      {{currency.symbol}}
+    </option> 
+    {% else %} 
+    <option>
+      {{currency.iso_code}}
+    </option> 
+    {% endif %} 
+    {% endfor %} 
+    </select> 
+    {% endform %}
+
+    <script>
+        function currencyFormSubmit(event) {
+    event.target.form.submit();
+  }
+
+  document.querySelectorAll('.shopify-currency-form select').forEach(function(element) {
+    element.addEventListener('change', currencyFormSubmit);
+  });
+    </script>
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="{{ settings.accent_secondary }}">
