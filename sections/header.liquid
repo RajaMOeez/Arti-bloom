@@ -364,7 +364,27 @@
                 {%- endif -%}
               </div>
               <div data-child-takes-space class="header__desktop__bar__c">{{ logos }}</div>
-              <div data-child-takes-space class="header__desktop__bar__r">test{{ cart_content }}</div>
+              <div data-child-takes-space class="header__desktop__bar__r"> 
+              <span>
+                {% form 'currency' %} 
+                <select name="currency"> 
+                {% for currency in shop.enabled_currencies %} 
+                {% if currency == cart.currency %} 
+                <option selected="true">
+                {{currency.iso_code}} 
+                {{currency.symbol}}
+                </option> 
+                {% else %} 
+                <option>
+                {{currency.iso_code}}
+                </option> 
+                {% endif %} 
+                {% endfor %} 
+                </select> 
+                {% endform %}
+              </span> 
+              {{ cart_content }}
+              </div>
             </div>
             <div class="header__desktop__lower" data-takes-space-wrapper>
               <div data-child-takes-space class="header__desktop__bar__c">{{ menu }}</div>
