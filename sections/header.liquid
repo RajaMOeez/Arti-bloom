@@ -365,9 +365,9 @@
               </div>
               <div data-child-takes-space class="header__desktop__bar__c">{{ logos }}</div>
               <div data-child-takes-space class="header__desktop__bar__r"> 
-              <span style="background: white; margin-top: 18px;">
+              <span style="margin-top: 18px;">
                 {% form 'currency' %} 
-                <select name="currency"> 
+                <select style="background: white;" name="currency"> 
                 {% for currency in shop.enabled_currencies %} 
                 {% if currency == cart.currency %} 
                 <option selected="true">
