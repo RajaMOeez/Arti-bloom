@@ -367,7 +367,8 @@
               <div data-child-takes-space class="header__desktop__bar__r"> 
               <span style="margin-top: 18px;">
                 {% form 'currency' %} 
-                <select class="arrow-cs" name="currency"> 
+                <select class="arrow-cs" name="currency">  
+                <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd"><path d="M23.245 4l-11.245 14.374-11.219-14.374-.781.619 12 15.381 12-15.391-.755-.609z"/></svg>
                 {% for currency in shop.enabled_currencies %} 
                 {% if currency == cart.currency %} 
                 <option selected="true">
