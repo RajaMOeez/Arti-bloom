@@ -139,7 +139,7 @@
           "footer_secondary_linklist": "",
           "footer_payment_enable": false,
           "show_locale_selector": true,
-          "show_currency_selector": true,
+          "show_currency_selector": false,
           "type": "currency"
         }
       },
