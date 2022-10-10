@@ -7536,6 +7536,7 @@ select, .popout__toggle {
   text-indent: 0.01px;
   text-overflow: "";
   cursor: pointer;
+  color: white !important;
 }
 
 select::-ms-expand, .popout__toggle::-ms-expand {
