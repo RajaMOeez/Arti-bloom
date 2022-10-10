@@ -371,17 +371,17 @@
                 {% for currency in shop.enabled_currencies %} 
                 {% if currency == cart.currency %} 
                 <option style="background: black !important;" selected="true">
-                <li>
+             
                 {{currency.iso_code}} 
                 {{currency.symbol}}
-                </li>
+              
                 </option> 
                 {% else %} 
                 <option style="background: black !important;">
-                <li>
+              
                 {{currency.iso_code}}
-                {{currency.symbol}}
-                </li>
+                
+             
                 </option> 
                 {% endif %} 
                 {% endfor %} 
