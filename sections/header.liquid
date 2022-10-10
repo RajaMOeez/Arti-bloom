@@ -365,7 +365,7 @@
               </div>
               <div data-child-takes-space class="header__desktop__bar__c">{{ logos }}</div>
               <div data-child-takes-space class="header__desktop__bar__r"> 
-            
+            <br>
                 {% form 'currency' %} 
                 <select name="currency"> 
                 {% for currency in shop.enabled_currencies %} 
@@ -380,7 +380,7 @@
                 <option style="background: black !important;">
               
                 {{currency.iso_code}}
-                
+                {{currency.symbol}}
              
                 </option> 
                 {% endif %} 
