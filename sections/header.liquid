@@ -1,3 +1,30 @@
+            {% if localization.available_countries.size > 1 %}
+  <localization-form>
+    {% form 'localization' %}
+      <div class="disclosure">
+        <button type="button" class="disclosure__button" aria-expanded="false" aria-controls="CountryList">
+          {{ localization.country.name }} ({{ localization.country.currency.iso_code }} {{ localization.country.currency.symbol }})
+
+          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+          </svg>
+        </button>
+
+        <ul id="CountryList" role="list" class="disclosure__list" hidden>
+          {% for country in localization.available_countries %}
+            <li class="disclosure__item" tabindex="-1">
+              <a href="#"{% if country.iso_code == localization.country.iso_code %} aria-current="true"{% endif %} data-value="{{ country.iso_code }}">
+                {{ country.name }} ({{ country.currency.iso_code }} {{ country.currency.symbol }})
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+
+        <input type="hidden" name="country_code" value="{{ localization.country.iso_code }}">
+      </div>
+    {% endform %}
+  </localization-form>
+{% endif %}
 {%- liquid
   assign transparent_header = false
   if template contains 'collection' and collection.image and section.settings.transparent_collection
@@ -365,56 +392,6 @@
               </div>
               <div data-child-takes-space class="header__desktop__bar__c">{{ logos }}</div>
               <div data-child-takes-space class="header__desktop__bar__r"> 
-             {% comment %}
-            <div style="margin-top: 12px;">
-                {% form 'currency' %} 
-                  <select name="currency"> 
-                  {% for currency in form.available_currencies %} 
-                    {% if currency == cart.currency %} 
-                      <option style="background: black !important;" selected="true">
-                        {{currency.iso_code}} 
-                        {{currency.symbol}}
-                      </option> 
-                    {% else %} 
-                      <option style="background: black !important;">
-                      {{currency.iso_code}}
-                      </option> 
-                    {% endif %} 
-                  {% endfor %} 
-                  </select> 
-                {% endform %}
-          </div>
-          {% endcomment %}
-
-
-            {% if localization.available_countries.size > 1 %}
-  <localization-form>
-    {% form 'localization' %}
-      <div class="disclosure">
-        <button type="button" class="disclosure__button" aria-expanded="false" aria-controls="CountryList">
-          {{ localization.country.name }} ({{ localization.country.currency.iso_code }} {{ localization.country.currency.symbol }})
-
-          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
-            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
-          </svg>
-        </button>
-
-        <ul id="CountryList" role="list" class="disclosure__list" hidden>
-          {% for country in localization.available_countries %}
-            <li class="disclosure__item" tabindex="-1">
-              <a href="#"{% if country.iso_code == localization.country.iso_code %} aria-current="true"{% endif %} data-value="{{ country.iso_code }}">
-                {{ country.name }} ({{ country.currency.iso_code }} {{ country.currency.symbol }})
-              </a>
-            </li>
-          {% endfor %}
-        </ul>
-
-        <input type="hidden" name="country_code" value="{{ localization.country.iso_code }}">
-      </div>
-    {% endform %}
-  </localization-form>
-{% endif %}
-
 
               {{ cart_content }}
               </div>
