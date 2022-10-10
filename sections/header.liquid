@@ -1,3 +1,14 @@
+
+<script>
+      function currencyFormSubmit(event) {
+        event.target.form.submit();
+        } 
+
+      document.querySelectorAll('.shopify-currency-form select').forEach(function(element) {
+        element.addEventListener('change', currencyFormSubmit);
+        });
+</script>
+
 {%- liquid
   assign transparent_header = false
   if template contains 'collection' and collection.image and section.settings.transparent_collection
@@ -365,9 +376,9 @@
               </div>
               <div data-child-takes-space class="header__desktop__bar__c">{{ logos }}</div>
               <div data-child-takes-space class="header__desktop__bar__r"> 
-              <span style="margin-top: 12px;">
+              <span style="margin-top: 18px;">
                 {% form 'currency' %} 
-                <select style="background: black; color: white;"> 
+                <select style="background: white;" name="currency"> 
                 {% for currency in shop.enabled_currencies %} 
                 {% if currency == cart.currency %} 
                 <option selected="true">
@@ -403,17 +414,6 @@
 <div data-cart-popover-container class="cart-popover"></div>
 
 {% render 'header-search-popdown', icon_string_search: icon_string_search, icon_family_text: icon_family_text %}
-
-<script>
-      function currencyFormSubmit(event) {
-        event.target.form.submit();
-        } 
-
-      document.querySelectorAll('.shopify-currency-form select').forEach(function(element) {
-        element.addEventListener('change', currencyFormSubmit);
-        });
-</script>
-
 
 <script type="application/ld+json">
 {
