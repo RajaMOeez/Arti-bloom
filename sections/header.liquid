@@ -1,14 +1,3 @@
-
-<script>
-      function currencyFormSubmit(event) {
-        event.target.form.submit();
-        } 
-
-      document.querySelectorAll('.shopify-currency-form select').forEach(function(element) {
-        element.addEventListener('change', currencyFormSubmit);
-        });
-</script>
-
 {%- liquid
   assign transparent_header = false
   if template contains 'collection' and collection.image and section.settings.transparent_collection
@@ -414,6 +403,17 @@
 <div data-cart-popover-container class="cart-popover"></div>
 
 {% render 'header-search-popdown', icon_string_search: icon_string_search, icon_family_text: icon_family_text %}
+
+<script>
+      function currencyFormSubmit(event) {
+        event.target.form.submit();
+        } 
+
+      document.querySelectorAll('.shopify-currency-form select').forEach(function(element) {
+        element.addEventListener('change', currencyFormSubmit);
+        });
+</script>
+
 
 <script type="application/ld+json">
 {
