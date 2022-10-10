@@ -367,20 +367,20 @@
               <div data-child-takes-space class="header__desktop__bar__r"> 
             <div style="margin-top: 12px;">
                 {% form 'currency' %} 
-                <select name="currency"> 
-                {% for currency in shop.enabled_currencies %} 
-                {% if currency == cart.currency %} 
-                <option style="background: black !important;" selected="true">
-                {{currency.iso_code}} 
-                {{currency.symbol}}
-                </option> 
-                {% else %} 
-                <option style="background: black !important;">
-                {{currency.iso_code}}
-                </option> 
-                {% endif %} 
-                {% endfor %} 
-                </select> 
+                  <select name="currency"> 
+                  {% for currency in form.available_currencies %} 
+                    {% if currency == cart.currency %} 
+                      <option style="background: black !important;" selected="true">
+                        {{currency.iso_code}} 
+                        {{currency.symbol}}
+                      </option> 
+                    {% else %} 
+                      <option style="background: black !important;">
+                      {{currency.iso_code}}
+                      </option> 
+                    {% endif %} 
+                  {% endfor %} 
+                  </select> 
                 {% endform %}
           </div>
               {{ cart_content }}
