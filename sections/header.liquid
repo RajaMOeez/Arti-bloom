@@ -371,10 +371,8 @@
                 {% for currency in shop.enabled_currencies %} 
                 {% if currency == cart.currency %} 
                 <option style="background: black !important;" selected="true">
-             
                 {{currency.iso_code}} 
                 {{currency.symbol}}
-              
                 </option> 
                 {% else %} 
                 <option style="background: black !important;">
