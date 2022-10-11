@@ -1,4 +1,7 @@
       {% liquid
+        if shop.published_locales.size > 1
+          assign languages = true
+        endif
         if shop.enabled_currencies.size > 1
           assign currencies = true
         endif
