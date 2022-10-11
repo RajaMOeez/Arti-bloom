@@ -18,7 +18,18 @@
                       <button type="button" class="popout__toggle" aria-expanded="false" aria-controls="currency-list-drawer" aria-describedby="currency-drawer" data-popout-toggle>
                         {{ form.current_currency.iso_code }} {%- if form.current_currency.symbol -%}{{ form.current_currency.symbol }}{%- endif -%}
                       </button>
-                      <ul id="currency-list-drawer" class="popout-list" data-popout-list>
+                      <ul id="currency-list-drawer" style="
+                                position: absolute;
+                                opacity: 0;
+                                visibility: hidden;
+                                margin: 0;
+                                padding: 15px;
+                                min-height: 30px;
+                                pointer-events: none;
+                                transition-property: opacity,transform,visibility;
+                                transition-duration: .25s,.25s,0s;
+                                transition-delay: 0s,0s,.25s;
+                                transition-timing-function: ease-out;" data-popout-list>
                         {% for currency in form.available_currencies %}
                           <li class="popout-list__item {% if currency.iso_code == form.current_currency.iso_code %}popout-list__item--current{% endif %}">
                             <a class="popout-list__option" href="#" {% if currency.iso_code == form.current_currency.iso_code %}aria-current="true"{% endif %} data-value="{{ currency.iso_code }}" data-popout-option>
