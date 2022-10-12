@@ -140,7 +140,7 @@
           "footer_payment_enable": false,
           "show_locale_selector": false,
           "show_currency_selector": true,
-          "type": "currency"
+          "type": "country"
         }
       },
       "popups": {
