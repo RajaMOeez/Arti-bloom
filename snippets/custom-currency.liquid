@@ -9,9 +9,40 @@
           assign localization = true
         endif
       %}
+    {%- if social or languages or currencies -%}
+        <div class="drawer__bottom">
+          {%- if social -%}
+            <div class="{% if localization %}drawer__bottom__left{% else %}drawer__bottom__center{% endif %}">
+              {% render 'social' %}
+            </div>
+          {%- endif -%}
+
           {% if localization %}
-            <div class="">
-              {%- form 'localization' -%}
+            <div class="drawer__bottom__right">
+              {%- form 'localization', class: 'header__drawer__selects', id: 'localization-form-drawer' -%}
+                {%- if languages -%}
+                  <div class="popout--drawer">
+                    <h2 class="visually-hidden" id="lang-drawer">
+                      {{ 'layout.footer.language' | t }}
+                    </h2>
+                    <div class="popout" data-popout>
+                      <button type="button" class="popout__toggle" aria-expanded="false" aria-controls="lang-list-drawer" aria-describedby="lang-drawer" data-popout-toggle>
+                        {{ form.current_locale.endonym_name }}
+                      </button>
+                      <ul id="lang-list-drawer" class="popout-list" data-popout-list>
+                        {% for locale in form.available_locales %}
+                          <li class="popout-list__item {% if locale.iso_code == form.current_locale.iso_code %}popout-list__item--current{% endif %}">
+                            <a class="popout-list__option" href="#" lang="{{ locale.iso_code }}" {% if locale.iso_code == form.current_locale.iso_code %}aria-current="true"{% endif %} data-value="{{ locale.iso_code }}" data-popout-option>
+                              <span>{{ locale.endonym_name }}</span>
+                            </a>
+                          </li>
+                        {%- endfor -%}
+                      </ul>
+                      <input type="hidden" name="locale_code" id="LocaleSelectorDrawer" value="{{ form.current_locale.iso_code }}" data-popout-input/>
+                    </div>
+                  </div>
+                {%- endif -%}
+
                 {%- if currencies -%}
                   <div class="popout--drawer">
                     <h2 class="visually-hidden" id="currency-drawer">
@@ -37,3 +68,5 @@
               {%- endform -%}
             </div>
           {% endif %}
+        </div>
+      {% endif %}
