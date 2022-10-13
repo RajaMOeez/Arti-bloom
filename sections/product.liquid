@@ -277,7 +277,7 @@
   <div class="product-description__content__holder" {{ truncated_holder }}>
     <div class="product-description__content__inner">
       <div class="product-description__content__entry" data-truncated-content="product-description__content__entry--truncate">
-        {{ product_description_content }}
+        {% capture easytabs_product_description_content %}{{ product_description_content }}{% endcapture %}{% render 'product-description-tabs' with easytabs_product_description_content %}
       </div>
     </div>
 
