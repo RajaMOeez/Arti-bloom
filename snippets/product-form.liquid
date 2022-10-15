@@ -415,7 +415,7 @@
 
      <p class="line-item-property__field">
   <label for="other-areas-to-include-or-any-other-information-optional">Personal message to be engraved on the legend or markers to include (optional)</label>
-  <input style="    width: 100%;" id="other-areas-to-include-or-any-other-information-optional" type="text" name="properties[Other areas to include or any other information (optional)]">
+  <textarea style="    width: 100%;" id="other-areas-to-include-or-any-other-information-optional" type="text" name="properties[Other areas to include or any other information (optional)]"></textarea>
 </p>
 
   <div class="product__submit{% if buybutton_setting %} product__submit--spb{% endif %}" data-product-id="{{ product.id }}">
@@ -490,3 +490,9 @@
     </script>
   </div>
 {% endform %}
+<style>
+  textarea {
+    min-height: 0px !important;
+    padding: 0px !important;
+  }
+</style>
