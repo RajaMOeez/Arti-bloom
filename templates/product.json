@@ -48,7 +48,7 @@
       ],
       "settings": {
         "product_sticky_enable": true,
-        "image_layout": "grid",
+        "image_layout": "stacked",
         "image_size": "normal",
         "show_cart_bar": true,
         "enable_zoom": true,
