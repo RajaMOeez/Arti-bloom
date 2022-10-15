@@ -20530,7 +20530,7 @@ ul.tabs--center > li {
 }
 .product-tabs ul.tabs > li {
   padding-bottom: 0;
-  border-bottom-width: 3px solid #248232;
+  border-bottom-width: 3px;
   white-space: normal;
   margin-right: -4px;
   padding: 20px;
