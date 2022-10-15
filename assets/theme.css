@@ -20531,6 +20531,9 @@ ul.tabs--center > li {
   padding-bottom: 0;
   border-bottom-width: 1px;
   white-space: normal;
+  margin-right: -4px;
+  padding: 20px;
+  background: var(--border) !important;
 }
 .product-tabs ul.tabs > li:last-child {
   margin-right: 0;
