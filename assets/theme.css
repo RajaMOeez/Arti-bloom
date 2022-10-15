@@ -20411,6 +20411,7 @@ body.is-focused .sidebar__item input:focus ~ label {
   background-color: var(---color-bg);
   box-shadow: none;
   transition: all 0.2s;
+  display: none;
 }
 .tabs__arrow:before {
   position: absolute;
