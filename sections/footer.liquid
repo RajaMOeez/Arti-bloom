@@ -125,7 +125,7 @@
           {{ localization.language.endonym_name }}
         </button>
 
-        <ul id="lang-list" class="popout-list-custom" data-popout-list>
+        <ul id="lang-list" class="popout-list" data-popout-list>
           {% for language in localization.available_languages %}
             <li class="popout-list__item {% if language == localization.language %}popout-list__item--current{% endif %}">
               <a class="popout-list__option" href="#" lang="{{ locale.iso_code }}" {% if language == localization.language %}aria-current="true"{% endif %} data-value="{{ language.iso_code }}" data-popout-option>
@@ -152,7 +152,7 @@
             {{ form.current_currency.iso_code }} {%- if form.current_currency.symbol -%}{{ form.current_currency.symbol }}{%- endif -%}
           </button>
 
-          <ul id="currency-list" class="popout-list-custom" data-popout-list>
+          <ul id="currency-list" class="popout-list" data-popout-list>
             {% for currency in form.available_currencies %}
               <li class="popout-list__item {% if currency.iso_code == form.current_currency.iso_code %}popout-list__item--current{% endif %}">
                 <a class="popout-list__option" href="#" {% if currency.iso_code == form.current_currency.iso_code %}aria-current="true"{% endif %} data-value="{{ currency.iso_code }}" data-popout-option>
@@ -170,7 +170,7 @@
             {{ localization.country }} ({{ localization.country.iso_code }}) - {{ localization.country.currency.symbol }}
           </button>
 
-          <ul id="currency-list" class="popout-list-custom" data-popout-list>
+          <ul id="currency-list" class="popout-list" data-popout-list>
             {% for country in localization.available_countries %}
               <li class="popout-list__item {% if country == localization.country %}popout-list__item--current{% endif %}">
                 <a class="popout-list__option" href="#" {% if country == localization.country %}aria-current="true"{% endif %} data-value="{{ country.iso_code }}" data-popout-option>
@@ -237,35 +237,6 @@
     <div class="image-overlay" style="background-color:{{ section.settings.overlay_color }} !important; opacity:{{ overlay_opacity }};"></div>
   {% endif %}
 </footer>
-
-<style>
-  .popout-list-custom {
-    background-color: var(--bg);
-    border: 1px solid var(--border);
-    z-index: 1000;
-    max-height: 90vh;
-    top: initial;
-    left: 0;
-    background-color: var(---color-bg);
-    border: 1px solid var(---color-border-hairline);
-    position: absolute;
-    opacity: 0;
-    visibility: hidden;
-    margin: 0;
-    padding: 15px;
-    min-height: 30px;
-    max-height: 300px;
-    max-width: 100vw;
-    z-index: 100;
-    overflow-y: auto;
-    list-style-type: none;
-    pointer-events: none;
-    transition-property: opacity,transform,visibility;
-    transition-duration: .25s,.25s,0s;
-    transition-delay: 0s,0s,.25s;
-    transition-timing-function: ease-out;
-  }
-</style>
 
 {% schema %}
 {
