@@ -44,6 +44,7 @@
     "tiktok_link": "",
     "linkedin_link": "",
     "product_grid_center": true,
+    "image_hover_enable": false,
     "product_grid_aspect_ratio": 0.9,
     "sale_bg_color": "#444444",
     "sale_text_color": "#ffffff",
