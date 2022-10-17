@@ -13815,7 +13815,7 @@ body {
 .product__grid__title {
   font-weight: var(---font-weight-body);
   font-size: calc(1rem*var(---font-adjust-body));
-  color: var(--text-dark);
+  color: var(--text-dark) !important;
   margin: 7px 0 0 0;
   transition: color 0.3s;
 }
