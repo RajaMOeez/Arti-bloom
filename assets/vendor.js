@@ -1639,7 +1639,7 @@ var themeVendor = (function (exports) {
     cellAlign: 'center',
     // cellSelector: undefined,
     // contain: false,
-    freeScrollFriction: 0.075, // friction when free-scrolling
+    freeScrollFriction: 0.28, // friction when free-scrolling
     friction: 0.28, // friction when selecting
     namespaceJQueryEvents: true,
     // initialIndex: 0,
