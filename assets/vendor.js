@@ -3071,7 +3071,7 @@ var themeVendor = (function (exports) {
 
   utils.extend( Flickity.defaults, {
     draggable: '>1',
-    dragThreshold: 3,
+    dragThreshold: 1,
   });
 
   // ----- create ----- //
