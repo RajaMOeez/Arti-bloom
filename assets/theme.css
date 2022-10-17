@@ -14040,7 +14040,7 @@ body {
   }
   .product-grid--mobile-slider:not(.flickity-slider--default) .collection-item,
 .product-grid--mobile-slider:not(.flickity-slider--default) .product-item {
-    width: calc(100% - 50px);
+    width: calc(100% - 150px);
   }
   .product-grid--mobile-slider:not(.flickity-slider--default) .collection-item:first-child:last-child,
 .product-grid--mobile-slider:not(.flickity-slider--default) .product-item:first-child:last-child {
