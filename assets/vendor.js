@@ -4758,7 +4758,7 @@ var themeVendor = (function (exports) {
     // adaptiveHeight: false,
     cellAlign: 'center',
     // cellSelector: undefined,
-    // contain: false,
+    contain: false,
     freeScrollFriction: 0.28, // friction when free-scrolling
     friction: 0.28, // friction when selecting
     namespaceJQueryEvents: true,
@@ -4768,8 +4768,8 @@ var themeVendor = (function (exports) {
     selectedAttraction: 0.025,
     setGallerySize: true,
     freeScroll: false,
-    prevNextButtons: true,
-    
+    prevNextButtons: true
+
     // watchCSS: false,
     // wrapAround: false
   };
