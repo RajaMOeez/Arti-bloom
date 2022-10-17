@@ -23685,6 +23685,7 @@ ul.tabs--center > li {
   left: 50%;
   background-color: var(---color-primary);
   transform: translate(-50%, -50%);
+  display: none !important;
 }
 .quick-add-button:before {
   width: 14px;
