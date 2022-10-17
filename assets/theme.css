@@ -13994,7 +13994,7 @@ body {
     overflow: hidden;
   }
   .product-grid-outer .product-grid--mobile-slider:not(.flickity-slider--default) {
-    padding-bottom: 30px;
+    padding-bottom: 0px;
     margin-top: 0;
     margin-bottom: -30px;
   }
