@@ -180,7 +180,7 @@
           {% endif %}
         </div>
         {% if double_img %}
-         
+          <div class="product-item__bg__under lazyload" data-bgset="{% render 'bgset', image: product.media[1].preview_image %}">&nbsp;</div>
         {% endif %}
       {% else %}
         {%- comment -%} Show "No image" if product has no media {%- endcomment -%}
