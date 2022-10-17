@@ -121,7 +121,7 @@
       </h2>
 
       <div class="popout" data-popout>
-        <button type="button" class="popout__toggle" aria-expanded="false" aria-controls="lang-list" aria-describedby="lang-heading" data-popout-toggle>
+        <button type="button" class="popout__toggle-cus" aria-expanded="false" aria-controls="lang-list" aria-describedby="lang-heading" data-popout-toggle>
           {{ localization.language.endonym_name }}
         </button>
 
@@ -237,7 +237,15 @@
     <div class="image-overlay" style="background-color:{{ section.settings.overlay_color }} !important; opacity:{{ overlay_opacity }};"></div>
   {% endif %}
 </footer>
-
+<style>
+  .popout__toggle-cus {
+    touch-action: manipulation;
+    margin: 10px 0;
+    white-space: nowrap;
+    padding: 14px 16px;
+    background-image: none;
+}
+</style>
 {% schema %}
 {
   "name": "Footer",
