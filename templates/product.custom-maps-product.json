@@ -50,7 +50,7 @@
         "product_sticky_enable": true,
         "image_layout": "stacked",
         "image_size": "normal",
-        "show_cart_bar": true,
+        "show_cart_bar": false,
         "enable_zoom": true,
         "enable_video_looping": false
       }
