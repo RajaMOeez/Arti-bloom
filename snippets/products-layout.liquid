@@ -113,47 +113,5 @@
         {%- endif -%}
       </div>
     </div>
-
-    <div class="product-grid-outer-mobile">
-      <div   data-flickity='{ "freeScroll": false, "contain": true, "prevNextButtons": false, "pageDots": false }' class="product-grid {{ mobile_slider }} {{ layout_grid_classes }} {% unless settings.product_grid_outline %} product-grid--borderless{% endunless %}" {{ layout_grid_attributes }}>
-        {%- if featured_collection != blank and featured_collection.products.size > 0 -%}
-          {%- for product in featured_collection.products limit: limit_products -%}
-            {%- assign animation_delay = forloop.index0 | times: 1 -%}
-            {%- if section.settings.grid != blank -%}
-              {%- assign grid_int = section.settings.grid | times: 1 -%}
-              {%- assign animation_delay = forloop.index0 | modulo: grid_int | times: 1 -%}
-            {%- endif -%}
-            {%- assign layout_slide_attributes = 'data-slide="' | append: forloop.index0 | append: '" data-slide-index="' | append: forloop.index0 | append: '"' -%}
-            {%- render 'product-grid-item', product: product, grid_strings: grid_strings, animation_delay: animation_delay, additional_attributes: layout_slide_attributes, index: forloop.index -%}
-          {%- endfor -%}
-        {%- else -%}
-          {%- for i in (1..limit_onboarding) -%}
-            {%- assign layout_slide_attributes = 'data-slide="' | append: forloop.index0 | append: '" data-slide-index="' | append: forloop.index0 | append: '"' -%}
-            {%- render 'onboarding-product-grid-item', grid_strings: grid_strings, additional_attributes: layout_slide_attributes, index: forloop.index, placeholder_root: 'product-' -%}
-          {%- endfor -%} 
-        {%- endif -%}
-      </div>
-    </div>
-
   </div>
 </section>
-<style>
-  @media (min-width: 220px) and (max-width: 750px) {
-    .product-grid-outer {
-      display: none;
-    }
-    .product-grid-outer-mobile {
-      display: block;
-      overflow-x: hidden !important;
-    }
-}
-  @media (min-width: 750px) and (max-width: 8096px) {
-    .product-grid-outer {
-      display: block;
-    }
-    .product-grid-outer-mobile {
-      display: none;
-    }
-}
-
-</style>
