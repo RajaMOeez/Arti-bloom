@@ -94,7 +94,7 @@
     {%- endif -%}
     
     <div class="product-grid-outer">
-      <div class="product-grid {{ mobile_slider }} {{ layout_grid_classes }} {% unless settings.product_grid_outline %} product-grid--borderless{% endunless %}" {{ layout_grid_attributes }}>
+      <div data-flickity='{ "freeScroll": false, "contain": true, "prevNextButtons": true, "pageDots": false }' class="product-grid {{ mobile_slider }} {{ layout_grid_classes }} {% unless settings.product_grid_outline %} product-grid--borderless{% endunless %}" {{ layout_grid_attributes }}>
         {%- if featured_collection != blank and featured_collection.products.size > 0 -%}
           {%- for product in featured_collection.products limit: limit_products -%}
             {%- assign animation_delay = forloop.index0 | times: 1 -%}
