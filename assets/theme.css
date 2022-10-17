@@ -6025,7 +6025,7 @@ body.is-focused .deferred-media__poster.focus-visible .deferred-media__poster-bu
  * Layout
  */
 :root {
-  --gutter: 32px;
+  --gutter: 15px;
   --outer: 50px;
   --inner: 20px;
   --base: 16;
