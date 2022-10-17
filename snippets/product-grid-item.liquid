@@ -179,9 +179,11 @@
             &nbsp;
           {% endif %}
         </div>
+        <div class="desk-show">
         {% if double_img %}
-          <div class="desk-show product-item__bg__under lazyload" data-bgset="{% render 'bgset', image: product.media[1].preview_image %}">&nbsp;</div>
+          <div class="product-item__bg__under lazyload" data-bgset="{% render 'bgset', image: product.media[1].preview_image %}">&nbsp;</div>
         {% endif %}
+        </div>
       {% else %}
         {%- comment -%} Show "No image" if product has no media {%- endcomment -%}
         {%- assign image_url_pattern = product.featured_image | img_url: '540x' | replace: '_540x.', '_{width}x.' -%}
