@@ -180,7 +180,8 @@
           {% endif %}
         </div>
         {% if double_img %}
-          <div class="product-item__bg__under lazyload" data-bgset="{% render 'bgset', image: product.media[0].preview_image %}">&nbsp;</div>
+          <div class="desk-show product-item__bg__under lazyload" data-bgset="{% render 'bgset', image: product.media[1].preview_image %}">&nbsp;</div>
+          <div class="mob-show product-item__bg__under lazyload" data-bgset="{% render 'bgset', image: product.media[0].preview_image %}">&nbsp;</div>
         {% endif %}
       {% else %}
         {%- comment -%} Show "No image" if product has no media {%- endcomment -%}
@@ -283,3 +284,21 @@
     </a>
   </div>
 </div>
+<style>
+  @media (min-width: 200px) and (max-width: 600px) {  
+  .desk-show {
+    display: hide;
+  }
+    .mob-show {
+        display: block;
+   }
+}
+@media (min-width: 601px) and (max-width: 8096px) {  
+  .desk-show {
+    display: block;
+  }
+    .mob-show {
+        display: hide;
+   }
+  }
+</style>
