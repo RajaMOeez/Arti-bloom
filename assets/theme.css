@@ -23676,14 +23676,13 @@ ul.tabs--center > li {
   width: 38px;
   height: 38px;
   border-radius: 50%;
-  background-color: var(---color-bg);
+
 }
 .quick-add-button:before, .quick-add-button:after {
   content: "";
   position: absolute;
   top: 50%;
   left: 50%;
-  background-color: var(---color-primary);
   transform: translate(-50%, -50%);
   display: none !important;
 }
