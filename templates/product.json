@@ -29,7 +29,7 @@
             "show_read_more": true,
             "style": "tabs",
             "title_1": "Shipping",
-            "raw_content_1": "<p>this tab is for shipping<\/p>",
+            "raw_content_1": "<p>this tab is for shipping good sir<\/p>",
             "title_2": "Returns",
             "raw_content_2": "<p>This tab is for returns<\/p>",
             "title_3": "Framing",
@@ -50,7 +50,7 @@
         "product_sticky_enable": true,
         "image_layout": "stacked",
         "image_size": "normal",
-        "show_cart_bar": true,
+        "show_cart_bar": false,
         "enable_zoom": true,
         "enable_video_looping": false
       }
