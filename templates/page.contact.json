@@ -8,75 +8,67 @@
         "show_content": true,
         "text_size": 2,
         "align_text": "text-center",
-        "height": "margin--medium",
+        "height": "margin--small",
         "width": "wrapper",
         "text_color": "text-dark",
-        "bg_color": "#f7f7f7"
+        "bg_color": "#ffffff"
       }
     },
-    "contact": {
+    "420bd2e8-494c-4822-a4b2-b4d4b963efe3": {
       "type": "contact-form",
       "blocks": {
-        "b915df57-4e99-4f93-a330-eb51cb8154e7": {
-          "type": "textarea",
-          "settings": {
-            "title": "Enquiry or location to be mapped",
-            "required": false
-          }
-        },
-        "Name": {
+        "template--15982264844446__420bd2e8-494c-4822-a4b2-b4d4b963efe3-1666064264f15a3e45-0": {
           "type": "text",
           "settings": {
             "title": "Name",
-            "required": false
+            "required": true
           }
         },
-        "Email": {
+        "template--15982264844446__420bd2e8-494c-4822-a4b2-b4d4b963efe3-1666064264f15a3e45-1": {
           "type": "email",
           "settings": {
             "title": "Email",
             "required": true
           }
         },
-        "Message": {
+        "template--15982264844446__420bd2e8-494c-4822-a4b2-b4d4b963efe3-1666064264f15a3e45-2": {
           "type": "body",
           "settings": {
-            "title": "Nachricht",
+            "title": "Enquiry or location to be mapped",
             "required": true
           }
         },
-        "Options-select": {
+        "template--15982264844446__420bd2e8-494c-4822-a4b2-b4d4b963efe3-1666064264f15a3e45-5": {
           "type": "select",
           "settings": {
-            "title": "How did you hear about us:",
+            "title": "How did you hear about Origin Maps?",
             "label-one": "Other",
             "label-two": "Web search",
             "label-three": "Etsy",
             "label-four": "Word of mouth",
             "label-five": "Instagram",
-            "label-six": "Facebook"
+            "label-six": "Faceook"
           }
         }
       },
       "block_order": [
-        "b915df57-4e99-4f93-a330-eb51cb8154e7",
-        "Name",
-        "Email",
-        "Message",
-        "Options-select"
+        "template--15982264844446__420bd2e8-494c-4822-a4b2-b4d4b963efe3-1666064264f15a3e45-0",
+        "template--15982264844446__420bd2e8-494c-4822-a4b2-b4d4b963efe3-1666064264f15a3e45-1",
+        "template--15982264844446__420bd2e8-494c-4822-a4b2-b4d4b963efe3-1666064264f15a3e45-2",
+        "template--15982264844446__420bd2e8-494c-4822-a4b2-b4d4b963efe3-1666064264f15a3e45-5"
       ],
       "settings": {
-        "title": "",
+        "title": "Contact us",
         "terms": true,
         "height": "margin--small",
         "width": "wrapper--narrow",
         "text_color": "text-dark",
-        "bg_color": "#f7f7f7"
+        "bg_color": "#ffffff"
       }
     }
   },
   "order": [
     "main",
-    "contact"
+    "420bd2e8-494c-4822-a4b2-b4d4b963efe3"
   ]
 }

@@ -94,7 +94,7 @@
         "desktop_height": "screen-height-one-third",
         "mobile_height": "screen-height-one-third--mobile",
         "overlay_opacity": 25,
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "title": "",
         "description": "October 2022 - Looking Back At How Things Started",
         "flex_align": "align--middle-center",
