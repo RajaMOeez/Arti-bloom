@@ -1,13 +1,13 @@
 <!-- /sections/section-hero.liquid -->
-
+{%if page.handle contains 'about-us'%}
 <div class="section-video wide-image js-overflow-container {{ section.settings.text_color }}"
   data-section-id="{{ section.id }}"
   data-section-type="featured-video"
   data-overlay-header>
   {% render 'video' section: section %}
 </div>
-
-{% schema %}
+{% endif %}
+{% schema %}  
 {
   "name": "Video",
   "class": "section-fullscreen",
