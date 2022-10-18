@@ -286,7 +286,7 @@
                             <a style="color: white !important;" class="popout-list__option" href="#" lang="{{ locale.iso_code }}" {% if locale.iso_code == form.current_locale.iso_code %}aria-current="true"{% endif %} data-value="{{ locale.iso_code }}" data-popout-option>
                               <span>{{ locale.endonym_name }}</span>
                             </a>    
-                          </li>
+                          </li> 
                         {%- endfor -%}
                       </ul>
                       <input type="hidden" name="locale_code" id="LocaleSelectorDrawer" value="{{ form.current_locale.iso_code }}" data-popout-input/>
