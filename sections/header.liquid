@@ -303,7 +303,7 @@
                       <button type="button" class="popout__toggle" aria-expanded="false" aria-controls="currency-list-drawer" aria-describedby="currency-drawer" data-popout-toggle>
                         {{ form.current_currency.iso_code }} {%- if form.current_currency.symbol -%}{{ form.current_currency.symbol }}{%- endif -%}
                       </button>
-                      <ul id="currency-list-drawer" style="bottom: 100%;" class="popout-list" data-popout-list>
+                      <ul id="currency-list-drawer" style="color: black !important; bottom: 100%;" class="popout-list" data-popout-list>
                         {% for currency in form.available_currencies %}
                           <li class="popout-list__item {% if currency.iso_code == form.current_currency.iso_code %}popout-list__item--current{% endif %}">
                             <a class="popout-list__option" href="#" {% if currency.iso_code == form.current_currency.iso_code %}aria-current="true"{% endif %} data-value="{{ currency.iso_code }}" data-popout-option>
