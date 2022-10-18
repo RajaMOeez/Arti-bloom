@@ -17357,8 +17357,6 @@ body .shopify-email-marketing-confirmation__container a {
 }
 
 .popout-list {
-  background-color: var(---color-bg);
-  border: 1px solid var(---color-border-hairline);
   
   position: absolute;
   opacity: 0;
