@@ -282,7 +282,7 @@
                       </button>
                       <ul id="lang-list-drawer" class="popout-list" data-popout-list>
                         {% for locale in form.available_locales %}
-                          <li class="popout-list__item {% if locale.iso_code == form.current_locale.iso_code %}popout-list__item--current{% endif %}">
+                          <li class="pop-cus popout-list__item {% if locale.iso_code == form.current_locale.iso_code %}popout-list__item--current{% endif %}">
                             <a style="color: white !important;" class="popout-list__option" href="#" lang="{{ locale.iso_code }}" {% if locale.iso_code == form.current_locale.iso_code %}aria-current="true"{% endif %} data-value="{{ locale.iso_code }}" data-popout-option>
                               <span>{{ locale.endonym_name }}</span>
                             </a>    
@@ -305,7 +305,7 @@
                       </button>
                       <ul id="currency-list-drawer" style="color: white !important; bottom: 100%;" class="popout-list" data-popout-list>
                         {% for currency in form.available_currencies %}
-                          <li class="popout-list__item {% if currency.iso_code == form.current_currency.iso_code %}popout-list__item--current{% endif %}">
+                          <li class="pop-cus popout-list__item {% if currency.iso_code == form.current_currency.iso_code %}popout-list__item--current{% endif %}">
                             <a style="color: white !important;" class="popout-list__option" href="#" {% if currency.iso_code == form.current_currency.iso_code %}aria-current="true"{% endif %} data-value="{{ currency.iso_code }}" data-popout-option>
                               <span>{{ currency.iso_code }} {%- if currency.symbol -%}{{ currency.symbol }}{%- endif -%}</span>
                             </a>
@@ -433,6 +433,9 @@
 {% endif %}
 
 <style>
+.pop-cus {
+  color: white !important;
+}
 .header__logo__text {
   background: black !important;
   color: white !important;
