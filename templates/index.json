@@ -251,6 +251,27 @@
         "lat": "",
         "long": ""
       }
+    },
+    "2893b0c6-7011-4012-98d5-f37dc6ed0383": {
+      "type": "section-video",
+      "settings": {
+        "video_link_bg": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/e6a1b70829004b33ba2840387ad896d8.mp4",
+        "video_link": "",
+        "bg_position": "center-center",
+        "desktop_height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "overlay_opacity": 15,
+        "overlay_color": "#000",
+        "title": "Handcrafted By Passionate Artisans",
+        "description": "",
+        "flex_align": "align--bottom-center",
+        "text_color": "text-light",
+        "transparent": false,
+        "link_text": "Find Your Masterpiece",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--input btn--outline caps"
+      }
     }
   },
   "order": [
@@ -265,6 +286,7 @@
     "678f74cc-7079-46c6-8a37-a66d19d24601",
     "b5fa836d-cb5e-4abf-8344-bfc2c3789fbe",
     "04227039-1b03-4246-96bb-50e5326714c8",
-    "79e54365-bdb9-4e8f-a205-0679f30f614c"
+    "79e54365-bdb9-4e8f-a205-0679f30f614c",
+    "2893b0c6-7011-4012-98d5-f37dc6ed0383"
   ]
 }
