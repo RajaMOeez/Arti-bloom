@@ -93,7 +93,7 @@
         "overlay_opacity": 50,
         "overlay_color": "#000000",
         "title": "Handcrafted By Passionate Artisans",
-        "description": "",
+        "description": "Every detail, passionately designed and crafted in our workshop by master craftsmen",
         "flex_align": "align--bottom-left",
         "text_color": "text-light",
         "transparent": false,
@@ -238,7 +238,7 @@
       "settings": {
         "height": "screen-height-one-half",
         "title": "The Workshop",
-        "address": "<p>58 Mountain St, Ultimo, NSW<\/p>",
+        "address": "<p>58 Mountain St, Ultimo, NSW<\/p><p><em>By Appointment Only<\/em><\/p>",
         "button": "Directions",
         "text_color": "text-dark",
         "bg_color": "#fbfbfb",
