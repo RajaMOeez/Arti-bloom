@@ -51,7 +51,7 @@
       "type": "section-collection",
       "settings": {
         "heading": "Challenge Us",
-        "description": "<p> <\/p><p>Custom Maps Of Any Location - Here at Origin Maps we take pride in being the most detailed topographic wooden maps in the world <\/p>",
+        "description": "<p> <\/p><p>At Origin Maps we take pride in offering the world's most detailed topographic wooden maps,<\/p><p>Challenge us with a custom map of any location, down to every river, creek, canyon and crevice.<\/p>",
         "text_alignment": "center",
         "link_text": "",
         "link_url": "",
@@ -91,7 +91,7 @@
         "desktop_height": "screen-height-three-quarters",
         "mobile_height": "screen-height-three-quarters--mobile",
         "overlay_opacity": 50,
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "title": "Handcrafted By Passionate Artisans",
         "description": "",
         "flex_align": "align--bottom-left",
