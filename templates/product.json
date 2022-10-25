@@ -29,7 +29,7 @@
             "show_read_more": true,
             "style": "tabs",
             "title_1": "Shipping",
-            "raw_content_1": "<p>this tab is for shipping good sir<\/p>",
+            "raw_content_1": "<p><strong>AU<\/strong> Express (E) - 1 to 3 business days<\/p><p><strong>AU<\/strong> Standard (S) - 2 to 8 business days<\/p><p>S - 15 (E) \/ 12 (S)<\/p><p>M - 25 (E) \/ 15 (S)<\/p><p>L \/ XL - 52 (E) \/ 25 (S)<\/p><p>(AUD)<\/p><p>.<\/p><p>.<\/p><p><strong>US<\/strong>  - 7 to 10 business days<\/p><p><strong>CA<\/strong> \/ <strong>EU<\/strong> \/ <strong>Other<\/strong> - 7 to 15 business days<\/p><p>S - 32<\/p><p>M - 39<\/p><p>L \/ XL - 50<\/p><p>(USD)<\/p><p>.<\/p><p>.<\/p><p><strong>NZ <\/strong>- 7 to 10 business days<\/p><p>S - 43<\/p><p>M - 48<\/p><p>L \/ XL - 55<\/p><p>(NZD)<\/p>",
             "title_2": "Returns",
             "raw_content_2": "<p>This tab is for returns<\/p>",
             "title_3": "Framing",
