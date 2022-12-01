@@ -17,12 +17,6 @@
     "faq-first": {
       "type": "page-faq",
       "blocks": {
-        "faq-heading": {
-          "type": "heading",
-          "settings": {
-            "title": "FAQ"
-          }
-        },
         "faq-0": {
           "type": "question",
           "settings": {
@@ -34,118 +28,29 @@
           "type": "question",
           "settings": {
             "title": "Returns Policy",
-            "content": "<p><strong>100% damage free guarantee<\/strong><\/p><p>If your map is damaged during transit we will send you a full replacement at no extra cost, or the piece can be reframed at a store local to you and we will fully reimburse you for the reframing cost.<\/p><p>.<\/p><p><strong>100% satisfaction guarantee<\/strong><\/p><p>If you're not satisfied with your map, simply return it within 30 days and once the map has returned to our workshop, a full refund will be remitted. Origin Maps does not cover the return postage cost.<\/p><p>.<\/p><p>Whether you live in the affable and auspicious areas of Adelaide, or the amazing and awe-inspiring alps of Alaska, Origin Maps is committed to giving you a beautiful and unique map that can be a talking piece and source of pride in your home.<\/p>"
+            "content": "<p><strong>100% satisfaction guarantee<\/strong><\/p><p>If you're not satisfied with your map, simply return it within 30 days and once the map has returned to our workshop, a full refund will be remitted. Origin Maps does not cover the return postage cost.<\/p>"
           }
         },
         "faq-2": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+            "title": "What If My Map Arrives Damaged?",
+            "content": "<p><strong>100% damage free guarantee<\/strong><\/p><p>In the unlikely event that your map arrives damaged please take pictures and get in contact with us. We will then send you a full replacement at no extra cost.<\/p><p>If it's just the frame that is damaged we can alternatively find a framing store that is local to you and fully reimburse you for the reframing cost.<\/p><p>Whether you live in Adelaide or Alaska, Origin Maps is committed to giving you a beautiful and unique map that can be a talking piece and source of pride in your home.<\/p><p><\/p>"
           }
         },
         "64cacd1b-65df-4980-8696-ae8cf9290d79": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+            "title": "Processing Times",
+            "content": "<p>All maps are made to order<\/p><p><strong>From the collection - <\/strong>2 business days<\/p><p><strong>Custom - <\/strong>5 business days - this includes 2 business days for the digital draft, then once you have approved this draft, physical fabrication will take 3 business days. <a href=\"https:\/\/originmaps.com\/collections\/custom\" title=\"CustomTopographicWoodenMapArt\">See custom maps<\/a><\/p><p>.<\/p><p><strong>XL <\/strong>fabrication may take longer, we will clarify this with you over email.<\/p>"
           }
         }
       },
       "block_order": [
-        "faq-heading",
         "faq-0",
         "faq-1",
         "faq-2",
         "64cacd1b-65df-4980-8696-ae8cf9290d79"
-      ],
-      "settings": {
-        "width": "wrapper--narrow",
-        "height": "margin--small",
-        "text_color": "text-dark",
-        "bg_color": "#ffffff"
-      }
-    },
-    "faq-second": {
-      "type": "page-faq",
-      "blocks": {
-        "heading-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Shipping questions"
-          }
-        },
-        "question-1": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
-          }
-        },
-        "question-2": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
-          }
-        },
-        "question-3": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading-0",
-        "question-1",
-        "question-2",
-        "question-3"
-      ],
-      "settings": {
-        "width": "wrapper--narrow",
-        "height": "margin--small",
-        "text_color": "text-dark",
-        "bg_color": "#fafafa"
-      }
-    },
-    "faq-third": {
-      "type": "page-faq",
-      "blocks": {
-        "heading-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Returns questions"
-          }
-        },
-        "question-1": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
-          }
-        },
-        "question-2": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
-          }
-        },
-        "question-3": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading-0",
-        "question-1",
-        "question-2",
-        "question-3"
       ],
       "settings": {
         "width": "wrapper--narrow",
@@ -204,8 +109,6 @@
   "order": [
     "main",
     "faq-first",
-    "faq-second",
-    "faq-third",
     "icons"
   ]
 }
