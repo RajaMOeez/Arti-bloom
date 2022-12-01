@@ -1,26 +1,14 @@
 {
   "sections": {
-    "166276758655edee4f": {
-      "type": "section-slideshow",
-      "disabled": true,
-      "settings": {
-        "height": "image-height",
-        "transition": "slide",
-        "arrows_style": false,
-        "dots_style": "circle",
-        "autoplay": false,
-        "autoplay_speed": 8
-      }
-    },
     "aa04d330-01f5-4144-8cd5-5a74172dde59": {
       "type": "section-hero",
       "settings": {
-        "image": "shopify:\/\/shop_images\/AcrossCrater.jpg",
+        "image": "shopify:\/\/shop_images\/DetailClarksville_abd596ec-3b74-4eba-9e38-6e7fbcf23f5f.jpg",
         "bg_position": "center-center",
         "height": "screen-height-one-half",
-        "overlay_opacity": 35,
+        "overlay_opacity": 45,
         "overlay_color": "#000000",
-        "title": "Unique Map Art For Special Moments",
+        "title": "Unique Maps For Special Moments",
         "description": "",
         "flex_align": "align--middle-center",
         "text_color": "text-light",
@@ -254,7 +242,6 @@
     }
   },
   "order": [
-    "166276758655edee4f",
     "aa04d330-01f5-4144-8cd5-5a74172dde59",
     "dd4284bf-2f48-4443-95aa-39ce0b53c07e",
     "8f437138-6964-497e-9d8b-6644c3c6fc82",
