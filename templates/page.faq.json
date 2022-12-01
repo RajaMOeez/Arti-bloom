@@ -51,6 +51,13 @@
             "title": "Sizes",
             "content": "<p><strong>S<\/strong>- 30 x 38cm  -  12 x 15\" <em>(including frame)<\/em><\/p><p><strong>M<\/strong>- 33 x 45cm  -  13 x 18\" <em>(including frame)<\/em><\/p><p><strong>L<\/strong>- 45 x 60cm  -  18 x 24\" <em>(including frame)<\/em><\/p><p><strong>XL<\/strong>- 50 x 66cm  -  20 x 26\" (<em><strong>unframed, <\/strong><\/em>please let us know if you intend on framing the piece or not, and we will then design the border of your map accordingly)<\/p>"
           }
+        },
+        "b7f39779-f4bb-4b2f-beea-02595bfad36b": {
+          "type": "question",
+          "settings": {
+            "title": "Mounting & Hanging",
+            "content": "<p><strong>S<\/strong> - Stand and a hook for the wall<\/p><p><strong>M & L <\/strong>- Hook for the wall<\/p><p><strong>XL <\/strong>- Unframed, we recommend you have it framed locally at your own expense. However if you don't intend on framing it we will include a hook on the back - just let us know.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -58,7 +65,8 @@
         "faq-1",
         "faq-2",
         "64cacd1b-65df-4980-8696-ae8cf9290d79",
-        "fd3012d4-c85d-42a5-9322-76374ce80ebc"
+        "fd3012d4-c85d-42a5-9322-76374ce80ebc",
+        "b7f39779-f4bb-4b2f-beea-02595bfad36b"
       ],
       "settings": {
         "width": "wrapper--narrow",
