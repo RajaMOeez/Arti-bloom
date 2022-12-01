@@ -4,6 +4,7 @@
       "type": "section-hero",
       "settings": {
         "image": "shopify:\/\/shop_images\/DetailClarksville_abd596ec-3b74-4eba-9e38-6e7fbcf23f5f.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/DetailMountains2.jpg",
         "bg_position": "center-center",
         "height": "screen-height-one-half",
         "overlay_opacity": 45,
