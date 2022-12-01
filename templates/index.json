@@ -100,7 +100,7 @@
           "settings": {
             "title": "Anne",
             "testimonial": "Can't describe how much she loves it, thank you for your work bringing us joy.",
-            "username": "Fiji",
+            "username": "Sydney",
             "tweet_url": "",
             "product": "fiji",
             "image": "shopify:\/\/shop_images\/FijiDaycare.jpg",
@@ -126,7 +126,7 @@
           "settings": {
             "title": "Luke",
             "testimonial": "Kevin absolutely loved his map btw!",
-            "username": "Custom Topographic",
+            "username": "Melbourne",
             "tweet_url": "",
             "product": "custom-topographic-style",
             "image": "shopify:\/\/shop_images\/PNGMap_455b8b5e-17d9-4d7d-b3bb-972db2112daf.jpg",
@@ -140,8 +140,8 @@
       ],
       "settings": {
         "testimonials_bg": "#fafafa",
-        "button_text_color": "#726D75",
-        "button_bg_color": "#E7E7E7"
+        "button_text_color": "#726d75",
+        "button_bg_color": "#e7e7e7"
       }
     },
     "b73d37cd-8ec0-468a-b56b-97c4e46e643d": {
@@ -205,7 +205,7 @@
           "settings": {
             "title": "Kai",
             "testimonial": "Thanks Tim, looks amazing! I'll get some more pictures for sure, and leave a good review.",
-            "username": "Custom Topographic",
+            "username": "Los Angeles",
             "tweet_url": "",
             "product": "custom-topographic-style",
             "image": "shopify:\/\/shop_images\/USWestCoastKai2.jpg",
@@ -219,8 +219,8 @@
       ],
       "settings": {
         "testimonials_bg": "#fafafa",
-        "button_text_color": "#726D75",
-        "button_bg_color": "#E7E7E7"
+        "button_text_color": "#726d75",
+        "button_bg_color": "#e7e7e7"
       }
     },
     "678f74cc-7079-46c6-8a37-a66d19d24601": {
@@ -277,6 +277,7 @@
     },
     "79e54365-bdb9-4e8f-a205-0679f30f614c": {
       "type": "section-map",
+      "disabled": true,
       "settings": {
         "height": "screen-height-one-half",
         "title": "The Workshop",
