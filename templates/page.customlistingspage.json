@@ -73,7 +73,7 @@
         "text_color": "text-light",
         "transparent": true,
         "link_text": "The Classic - From $250",
-        "link": "",
+        "link": "shopify:\/\/products\/custom-classic-style",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--large caps"
       }
