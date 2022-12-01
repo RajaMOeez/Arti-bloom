@@ -51,6 +51,7 @@
     "badge_bg_color": "#ffffff",
     "badge_text_color": "#212121",
     "quickview_enable": false,
+    "product_grid_show_rating": false,
     "variant_lines": true,
     "color_swatches": false,
     "favicon": "shopify:\/\/shop_images\/favicon-01-01.png",

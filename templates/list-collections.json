@@ -1,1 +1,111 @@
-{"sections":{"main":{"type":"list-collections","settings":{}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "list-collections",
+      "blocks": {
+        "a239cdaa-f841-4c52-a7a9-8f5402e1c519": {
+          "type": "collection",
+          "settings": {
+            "collection": "cities",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "74af93d1-dd90-43da-9f72-ee425065750c": {
+          "type": "collection",
+          "settings": {
+            "collection": "national-parks",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "66252a4c-edba-4633-a39d-8c10e092c5d4": {
+          "type": "collection",
+          "settings": {
+            "collection": "states",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "6f6ade95-81cb-498f-870d-ecaf81cea3d9": {
+          "type": "collection",
+          "settings": {
+            "collection": "countries",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "d16bfda0-0fb7-407c-8de3-762c9a78bce3": {
+          "type": "collection",
+          "settings": {
+            "collection": "all-maps",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "68becf62-0439-4349-be43-652894cbcd7a": {
+          "type": "collection",
+          "settings": {
+            "collection": "custom",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "f8999784-ecaa-414f-87ba-a7ea5e992851": {
+          "type": "collection",
+          "settings": {
+            "collection": "national-parks-topographic-style",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "98f12790-9356-4bf6-b687-b26c84cda41c": {
+          "type": "collection",
+          "settings": {
+            "collection": "classic-city-maps",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "491242b8-c34e-4eaa-8f0b-31fe19d54b00": {
+          "type": "collection",
+          "settings": {
+            "collection": "ski-resorts",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "52365f2e-d364-42c5-b0af-c9060eaacf39": {
+          "type": "collection",
+          "settings": {
+            "collection": "fantasy",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "a239cdaa-f841-4c52-a7a9-8f5402e1c519",
+        "74af93d1-dd90-43da-9f72-ee425065750c",
+        "66252a4c-edba-4633-a39d-8c10e092c5d4",
+        "6f6ade95-81cb-498f-870d-ecaf81cea3d9",
+        "d16bfda0-0fb7-407c-8de3-762c9a78bce3",
+        "68becf62-0439-4349-be43-652894cbcd7a",
+        "f8999784-ecaa-414f-87ba-a7ea5e992851",
+        "98f12790-9356-4bf6-b687-b26c84cda41c",
+        "491242b8-c34e-4eaa-8f0b-31fe19d54b00",
+        "52365f2e-d364-42c5-b0af-c9060eaacf39"
+      ],
+      "settings": {
+        "display_type": "selected",
+        "title": "Collections",
+        "grid": 4,
+        "rows": 1,
+        "layout_mobile": "carousel"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
