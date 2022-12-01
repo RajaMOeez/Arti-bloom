@@ -58,6 +58,13 @@
             "title": "Mounting & Hanging",
             "content": "<p><strong>S<\/strong> - Stand and a hook for the wall<\/p><p><strong>M & L <\/strong>- Hook for the wall<\/p><p><strong>XL <\/strong>- Unframed, we recommend you have it framed locally at your own expense. However if you don't intend on framing it we will include a hook on the back - just let us know.<\/p>"
           }
+        },
+        "62a0e74e-5473-4d77-86c1-6addd1017b77": {
+          "type": "question",
+          "settings": {
+            "title": "Materials",
+            "content": "<p>Our artisanal maps are crafted from responsibly sourced Double-A grade fine-grained Basswood<\/p>"
+          }
         }
       },
       "block_order": [
@@ -66,7 +73,8 @@
         "faq-2",
         "64cacd1b-65df-4980-8696-ae8cf9290d79",
         "fd3012d4-c85d-42a5-9322-76374ce80ebc",
-        "b7f39779-f4bb-4b2f-beea-02595bfad36b"
+        "b7f39779-f4bb-4b2f-beea-02595bfad36b",
+        "62a0e74e-5473-4d77-86c1-6addd1017b77"
       ],
       "settings": {
         "width": "wrapper--narrow",
