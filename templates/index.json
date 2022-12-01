@@ -267,6 +267,32 @@
         "lat": "",
         "long": ""
       }
+    },
+    "258297eb-ebe7-4319-9c9f-a2c23ce558ba": {
+      "type": "index-testimonial-with-image",
+      "blocks": {
+        "template--15982265106590__258297eb-ebe7-4319-9c9f-a2c23ce558ba-16698910101e4ee994-0": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Kai",
+            "testimonial": "Thanks Tim, looks amazing! I'll get some more pictures for sure, and leave a good review.",
+            "username": "Custom Topographic",
+            "tweet_url": "",
+            "product": "custom-topographic-style",
+            "image": "shopify:\/\/shop_images\/USWestCoastKai2.jpg",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15982265106590__258297eb-ebe7-4319-9c9f-a2c23ce558ba-16698910101e4ee994-0"
+      ],
+      "settings": {
+        "testimonials_bg": "#fafafa",
+        "button_text_color": "#726D75",
+        "button_bg_color": "#E7E7E7"
+      }
     }
   },
   "order": [
@@ -281,6 +307,7 @@
     "678f74cc-7079-46c6-8a37-a66d19d24601",
     "b5fa836d-cb5e-4abf-8344-bfc2c3789fbe",
     "04227039-1b03-4246-96bb-50e5326714c8",
-    "79e54365-bdb9-4e8f-a205-0679f30f614c"
+    "79e54365-bdb9-4e8f-a205-0679f30f614c",
+    "258297eb-ebe7-4319-9c9f-a2c23ce558ba"
   ]
 }
