@@ -92,6 +92,32 @@
         "include_margins": false
       }
     },
+    "17dca42c-b830-4790-bdfe-a510f3e76540": {
+      "type": "index-testimonial-with-image",
+      "blocks": {
+        "template--15982265106590__17dca42c-b830-4790-bdfe-a510f3e76540-16698910101e4ee994-0": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Luke",
+            "testimonial": "Kevin absolutely loved his map btw!",
+            "username": "Custom Topographic",
+            "tweet_url": "",
+            "product": "custom-topographic-style",
+            "image": "shopify:\/\/shop_images\/PNGMap_455b8b5e-17d9-4d7d-b3bb-972db2112daf.jpg",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15982265106590__17dca42c-b830-4790-bdfe-a510f3e76540-16698910101e4ee994-0"
+      ],
+      "settings": {
+        "testimonials_bg": "#fafafa",
+        "button_text_color": "#726D75",
+        "button_bg_color": "#E7E7E7"
+      }
+    },
     "ad902e55-9582-494f-9052-4f04d2a8e0f0": {
       "type": "index-testimonial-with-image",
       "blocks": {
@@ -100,10 +126,11 @@
           "settings": {
             "title": "Ali",
             "testimonial": "My wife was shocked when it was delivered, words can’t explain how happy we are with this wonderful artwork.",
-            "bio_image": "shopify:\/\/shop_images\/IranMap.jpg",
+            "bio_image": "shopify:\/\/shop_images\/IranMap_72a0038c-77fa-4ba2-8217-a065f3f7c865.jpg",
             "username": "Sydney",
             "tweet_url": "",
             "product": "iran",
+            "image": "shopify:\/\/shop_images\/IranMap_72a0038c-77fa-4ba2-8217-a065f3f7c865.jpg",
             "button_text": "",
             "button_link": ""
           }
@@ -248,6 +275,7 @@
     "8f437138-6964-497e-9d8b-6644c3c6fc82",
     "2893b0c6-7011-4012-98d5-f37dc6ed0383",
     "16649216157b87533d",
+    "17dca42c-b830-4790-bdfe-a510f3e76540",
     "ad902e55-9582-494f-9052-4f04d2a8e0f0",
     "b73d37cd-8ec0-468a-b56b-97c4e46e643d",
     "678f74cc-7079-46c6-8a37-a66d19d24601",
