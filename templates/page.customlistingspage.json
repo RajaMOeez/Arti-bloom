@@ -77,12 +77,32 @@
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--large caps"
       }
+    },
+    "d8413d0d-20ce-4d6d-85fc-b8935641f272": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text": "<p>At Origin Maps we take pride in being able to source data for any location in the world. Whether it's the pleasing plains of the Pilbara, or the picturesque peaks of Pennsylvania, we'll deliver!<\/p><p><\/p><p>Still not sure? Enquire about your specific location to tim@originmaps.com<\/p><p>Or give me a call on (+61) 466 494 899 for a free consultation.<\/p><p> <\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--medium",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
     }
   },
   "order": [
     "main",
     "06e93819-8b55-4a8c-a7ab-cc3138672979",
     "5b8a6f61-0747-4351-a798-880567aeeb99",
-    "8e66199a-b72e-4f45-9e12-13ea671f7855"
+    "8e66199a-b72e-4f45-9e12-13ea671f7855",
+    "d8413d0d-20ce-4d6d-85fc-b8935641f272"
   ]
 }
