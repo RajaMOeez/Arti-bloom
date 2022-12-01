@@ -2,6 +2,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "subheading": "",
         "show_title": true,
@@ -13,9 +14,75 @@
         "text_color": "text-dark",
         "bg_color": "#ffffff"
       }
+    },
+    "06e93819-8b55-4a8c-a7ab-cc3138672979": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Your Handcrafted Custom Map Of Any Location",
+        "text": "<p>Our maps don't just mark places, they tell stories.<\/p><p>Mapped to your heart's intent, our custom pieces invoke that warm, nostalgic feeling of your most special moments in life. From the time you asked your special someone \"Will you marry me?\", to the time camping by the lake under a star filled sky. Our maps capture the stories of your most treasured memories with the people closest to your heart.<\/p><p><\/p><p><span style=\"text-decoration:underline\"><strong>We Offer Two Styles:<\/strong><\/span><\/p><p><em><strong>The Origin <\/strong><\/em>- A sophisticated representation of your special place in a contoured 3D topographic form. Accurately highlighting every peak and valley. Best suited for rugged or rural areas.<\/p><p><em><strong>The Classic <\/strong><\/em>- A simple yet captivating representation in 2D, accentuating the landscape and built environment. Best suited for urban or less rugged areas.<\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--medium",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "5b8a6f61-0747-4351-a798-880567aeeb99": {
+      "type": "section-split-hero",
+      "settings": {
+        "image_height": "five-fifty-height-hero",
+        "mobile_layout": "stacked",
+        "image_desktop_left": "shopify:\/\/shop_images\/DetailMountains2.jpg",
+        "bg_position_left": "center-center",
+        "image_desktop_right": "shopify:\/\/shop_images\/DetailClarksville_abd596ec-3b74-4eba-9e38-6e7fbcf23f5f.jpg",
+        "bg_position_right": "center-center",
+        "overlay_color": "#000",
+        "overlay_opacity": 0,
+        "title": "",
+        "description": "",
+        "flex_align": "align--middle-center",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "The Origin - from $550",
+        "link": "",
+        "button_color": "btn--black",
+        "button_style": "hero__btn btn btn--large caps"
+      }
+    },
+    "8e66199a-b72e-4f45-9e12-13ea671f7855": {
+      "type": "section-split-hero",
+      "settings": {
+        "image_height": "five-fifty-height-hero",
+        "mobile_layout": "stacked",
+        "image_desktop_left": "shopify:\/\/shop_images\/Across1RussellIsland.jpg",
+        "bg_position_left": "center-center",
+        "image_desktop_right": "shopify:\/\/shop_images\/AcrossLegendSydney.jpg",
+        "bg_position_right": "center-center",
+        "overlay_color": "#000",
+        "overlay_opacity": 0,
+        "title": "",
+        "description": "",
+        "flex_align": "align--middle-center",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "The Classic - From $250",
+        "link": "",
+        "button_color": "btn--black",
+        "button_style": "hero__btn btn btn--large caps"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "06e93819-8b55-4a8c-a7ab-cc3138672979",
+    "5b8a6f61-0747-4351-a798-880567aeeb99",
+    "8e66199a-b72e-4f45-9e12-13ea671f7855"
   ]
 }
