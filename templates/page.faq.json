@@ -27,7 +27,7 @@
           "type": "question",
           "settings": {
             "title": "Shipping",
-            "content": "<p><strong>AU<\/strong> Standard  -  2 to 8 business days<strong>AU<\/strong>Express  -  1 to 3 business daysS -$12\/ $17M -$19 \/ $26L \/ XL -$25 \/ $52<strong>(AUD)US<\/strong> - 7 to 10 business days<strong>CA<\/strong>\/<strong>EU<\/strong>\/<strong>Other<\/strong> - 7 to 15 business daysS - $32M - $39L \/ XL - $50<strong>(USD)NZ<\/strong> - 7 to 10 business daysS - $43M - $48L \/ XL - $55<strong>(NZD)<\/strong><\/p>"
+            "content": "<p><strong>AUS <\/strong>Express - 1 to 3 business days<\/p><p>S - $17<\/p><p>M - $26<\/p><p>L \/ XL - $52<\/p><p><strong>AUS<\/strong> Standard  -  2 to 8 business days<\/p><p>S -$12<\/p><p>M -$19 <\/p><p>L \/ XL -$25  <\/p><p><strong>(AUD)<\/strong><\/p><p>.<\/p><p><strong>USA<\/strong> - 7 to 11 business days<\/p><p><strong>CA<\/strong>\/<strong>EU<\/strong>\/<strong>Other<\/strong> - 7 to 15 business days<\/p><p>S - $32<\/p><p>M - $39<\/p><p>L \/ XL - $50<\/p><p><strong>(USD)<\/strong><\/p><p>.<\/p><p><strong>NZ<\/strong> - 7 to 10 business days<\/p><p>S - $43<\/p><p>M - $48<\/p><p>L \/ XL - $55<\/p><p><strong>(NZD)<\/strong><\/p>"
           }
         },
         "faq-1": {
@@ -43,13 +43,21 @@
             "title": "Frequently asked question",
             "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
           }
+        },
+        "64cacd1b-65df-4980-8696-ae8cf9290d79": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
         }
       },
       "block_order": [
         "faq-heading",
         "faq-0",
         "faq-1",
-        "faq-2"
+        "faq-2",
+        "64cacd1b-65df-4980-8696-ae8cf9290d79"
       ],
       "settings": {
         "width": "wrapper--narrow",
