@@ -246,7 +246,6 @@
         "map_address": "58 Mountain St, Ultimo, NSW 2007",
         "zoom": 11,
         "style": "white_label",
-        "image": "shopify:\/\/shop_images\/DetailBotanyBay.jpg",
         "bg_position": "center-center",
         "enable_latlong": false,
         "lat": "",
