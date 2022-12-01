@@ -44,13 +44,21 @@
             "title": "Processing Times",
             "content": "<p>All maps are made to order<\/p><p><strong>From the collection - <\/strong>2 business days. <a href=\"\/collections\" title=\"All collections\">See the collection<\/a><\/p><p><strong>Custom - <\/strong>5 business days - this includes 2 business days for the digital draft, then once you have approved this draft, physical fabrication will take 3 business days. <a href=\"https:\/\/originmaps.com\/collections\/custom\" title=\"CustomTopographicWoodenMapArt\">See custom maps<\/a><\/p><p>.<\/p><p><strong>XL <\/strong>fabrication may take longer, we will clarify this with you over email.<\/p>"
           }
+        },
+        "fd3012d4-c85d-42a5-9322-76374ce80ebc": {
+          "type": "question",
+          "settings": {
+            "title": "Sizes",
+            "content": "<p><strong>S<\/strong>- 30 x 38cm  -  12 x 15\" <em>(including frame)<\/em><\/p><p><strong>M<\/strong>- 33 x 45cm  -  13 x 18\" <em>(including frame)<\/em><\/p><p><strong>L<\/strong>- 45 x 60cm  -  18 x 24\" <em>(including frame)<\/em><\/p><p><strong>XL<\/strong>- 50 x 66cm  -  20 x 26\" (<em><strong>unframed, <\/strong><\/em>please let us know if you intend on framing the piece or not, and we will then design the border of your map accordingly)<\/p>"
+          }
         }
       },
       "block_order": [
         "faq-0",
         "faq-1",
         "faq-2",
-        "64cacd1b-65df-4980-8696-ae8cf9290d79"
+        "64cacd1b-65df-4980-8696-ae8cf9290d79",
+        "fd3012d4-c85d-42a5-9322-76374ce80ebc"
       ],
       "settings": {
         "width": "wrapper--narrow",
