@@ -92,25 +92,25 @@
         "include_margins": false
       }
     },
-    "04227039-1b03-4246-96bb-50e5326714c8": {
+    "b73d37cd-8ec0-468a-b56b-97c4e46e643d": {
       "type": "index-testimonial-with-image",
       "blocks": {
-        "template--15982265106590__04227039-1b03-4246-96bb-50e5326714c8-1664947034f0518c98-0": {
+        "template--15982265106590__b73d37cd-8ec0-468a-b56b-97c4e46e643d-16649469837ed9f934-0": {
           "type": "testimonial",
           "settings": {
-            "title": "Anne",
-            "testimonial": "Can't describe how much she loves it, thank you for your work bringing us joy.",
-            "username": "Sydney",
+            "title": "Renèe",
+            "testimonial": "Love it - so personalised to us! Now we can compare what we see out the window 👌",
+            "username": "Queensland",
             "tweet_url": "",
-            "product": "fiji",
-            "image": "shopify:\/\/shop_images\/FijiDaycare.jpg",
+            "product": "custom-origin-style",
+            "image": "shopify:\/\/shop_images\/QueenslandFarmMap_76264c05-fb0b-48fa-9e26-e7ee4b58e27d.jpg",
             "button_text": "",
             "button_link": ""
           }
         }
       },
       "block_order": [
-        "template--15982265106590__04227039-1b03-4246-96bb-50e5326714c8-1664947034f0518c98-0"
+        "template--15982265106590__b73d37cd-8ec0-468a-b56b-97c4e46e643d-16649469837ed9f934-0"
       ],
       "settings": {
         "testimonials_bg": "#fafafa",
@@ -144,25 +144,25 @@
         "button_bg_color": "#e7e7e7"
       }
     },
-    "b73d37cd-8ec0-468a-b56b-97c4e46e643d": {
+    "04227039-1b03-4246-96bb-50e5326714c8": {
       "type": "index-testimonial-with-image",
       "blocks": {
-        "template--15982265106590__b73d37cd-8ec0-468a-b56b-97c4e46e643d-16649469837ed9f934-0": {
+        "template--15982265106590__04227039-1b03-4246-96bb-50e5326714c8-1664947034f0518c98-0": {
           "type": "testimonial",
           "settings": {
-            "title": "Renèe",
-            "testimonial": "Love it - so personalised to us! Now we can compare what we see out the window 👌",
-            "username": "Queensland",
+            "title": "Anne",
+            "testimonial": "Can't describe how much she loves it, thank you for your work bringing us joy.",
+            "username": "Sydney",
             "tweet_url": "",
-            "product": "custom-origin-style",
-            "image": "shopify:\/\/shop_images\/QueenslandFarmMap_76264c05-fb0b-48fa-9e26-e7ee4b58e27d.jpg",
+            "product": "fiji",
+            "image": "shopify:\/\/shop_images\/FijiDaycare.jpg",
             "button_text": "",
             "button_link": ""
           }
         }
       },
       "block_order": [
-        "template--15982265106590__b73d37cd-8ec0-468a-b56b-97c4e46e643d-16649469837ed9f934-0"
+        "template--15982265106590__04227039-1b03-4246-96bb-50e5326714c8-1664947034f0518c98-0"
       ],
       "settings": {
         "testimonials_bg": "#fafafa",
@@ -301,9 +301,9 @@
     "8f437138-6964-497e-9d8b-6644c3c6fc82",
     "2893b0c6-7011-4012-98d5-f37dc6ed0383",
     "16649216157b87533d",
-    "04227039-1b03-4246-96bb-50e5326714c8",
-    "17dca42c-b830-4790-bdfe-a510f3e76540",
     "b73d37cd-8ec0-468a-b56b-97c4e46e643d",
+    "17dca42c-b830-4790-bdfe-a510f3e76540",
+    "04227039-1b03-4246-96bb-50e5326714c8",
     "ad902e55-9582-494f-9052-4f04d2a8e0f0",
     "258297eb-ebe7-4319-9c9f-a2c23ce558ba",
     "678f74cc-7079-46c6-8a37-a66d19d24601",
