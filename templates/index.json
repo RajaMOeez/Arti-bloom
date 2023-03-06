@@ -94,6 +94,7 @@
     },
     "b73d37cd-8ec0-468a-b56b-97c4e46e643d": {
       "type": "index-testimonial-with-image",
+      "disabled": true,
       "blocks": {
         "template--15982265106590__b73d37cd-8ec0-468a-b56b-97c4e46e643d-16649469837ed9f934-0": {
           "type": "testimonial",
@@ -120,6 +121,7 @@
     },
     "17dca42c-b830-4790-bdfe-a510f3e76540": {
       "type": "index-testimonial-with-image",
+      "disabled": true,
       "blocks": {
         "template--15982265106590__17dca42c-b830-4790-bdfe-a510f3e76540-16698910101e4ee994-0": {
           "type": "testimonial",
@@ -146,6 +148,7 @@
     },
     "04227039-1b03-4246-96bb-50e5326714c8": {
       "type": "index-testimonial-with-image",
+      "disabled": true,
       "blocks": {
         "template--15982265106590__04227039-1b03-4246-96bb-50e5326714c8-1664947034f0518c98-0": {
           "type": "testimonial",
@@ -172,6 +175,7 @@
     },
     "ad902e55-9582-494f-9052-4f04d2a8e0f0": {
       "type": "index-testimonial-with-image",
+      "disabled": true,
       "blocks": {
         "template--15982265106590__ad902e55-9582-494f-9052-4f04d2a8e0f0-16649223068cc5d850-0": {
           "type": "testimonial",
@@ -198,6 +202,7 @@
     },
     "258297eb-ebe7-4319-9c9f-a2c23ce558ba": {
       "type": "index-testimonial-with-image",
+      "disabled": true,
       "blocks": {
         "template--15982265106590__258297eb-ebe7-4319-9c9f-a2c23ce558ba-16698910101e4ee994-0": {
           "type": "testimonial",
@@ -224,6 +229,7 @@
     },
     "678f74cc-7079-46c6-8a37-a66d19d24601": {
       "type": "index-testimonial-with-image",
+      "disabled": true,
       "blocks": {
         "template--15982265106590__678f74cc-7079-46c6-8a37-a66d19d24601-16649469837ed9f934-0": {
           "type": "testimonial",
@@ -250,6 +256,7 @@
     },
     "b5fa836d-cb5e-4abf-8344-bfc2c3789fbe": {
       "type": "index-testimonial-with-image",
+      "disabled": true,
       "blocks": {
         "template--15982265106590__b5fa836d-cb5e-4abf-8344-bfc2c3789fbe-16649469837ed9f934-0": {
           "type": "testimonial",
