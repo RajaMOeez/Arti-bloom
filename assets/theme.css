@@ -23908,3 +23908,22 @@ ul.tabs--center > li {
     margin: calc(var(--gutter) * 2) 0;
   }
 }
+
+
+/* copied from GPT4 for the new gallery */
+.gallery-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(2000px, 1fr));
+  gap: 1rem;
+}
+@media (min-width: 768px) {
+  .gallery-container {
+    grid-template-columns: repeat(2, minmax(2000px, 1fr));
+  }
+}
+
+.gallery-item img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
