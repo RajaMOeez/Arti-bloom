@@ -1,0 +1,12 @@
+{% section 'page-content' %}
+
+<div class="gallery-container">
+  {% assign gallery_images = page.content | split: '<div class="gallery-image">' %}
+  {% for gallery_image in gallery_images %}
+    {% if gallery_image contains '<img' %}
+      <div class="gallery-item">
+        {{ gallery_image | strip | remove: '</div>' }}
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
