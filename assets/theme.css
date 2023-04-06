@@ -23913,12 +23913,12 @@ ul.tabs--center > li {
 /* copied from GPT4 for the new gallery */
 .gallery-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(2000px, 1fr));
+  grid-template-columns: 1fr;
   gap: 1rem;
 }
 @media (min-width: 768px) {
   .gallery-container {
-    grid-template-columns: repeat(2, minmax(2000px, 1fr));
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 
@@ -23927,3 +23927,4 @@ ul.tabs--center > li {
   height: auto;
   object-fit: cover;
 }
+
