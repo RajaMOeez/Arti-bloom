@@ -1,12 +1,30 @@
-{% section 'page-content' %}
+{% comment %}
+  This template is used to display a gallery page with a responsive grid layout.
+{% endcomment %}
 
-<div class="gallery-container">
-  {% assign gallery_images = page.content | split: '<div class="gallery-image">' %}
-  {% for gallery_image in gallery_images %}
-    {% if gallery_image contains '<img' %}
-      <div class="gallery-item">
-        {{ gallery_image | strip | remove: '</div>' }}
+{% include 'page-header' %}
+
+<div class="page-width">
+  <div class="grid">
+    <div class="grid__item medium-up--five-sixths medium-up--push-one-twelfth">
+      <div class="section-header text-center">
+        <h1 class="section-header__title h2">{{ page.title }}</h1>
       </div>
-    {% endif %}
-  {% endfor %}
+      
+      <div class="rte">
+        <div class="gallery-container">
+          {% assign gallery_images = page.content | split: '<div class="gallery-image">' %}
+          {% for gallery_image in gallery_images %}
+            {% if gallery_image contains '<img' %}
+              <div class="gallery-item">
+                {{ gallery_image | strip | remove: '</div>' }}
+              </div>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
+
+{% include 'page-footer' %}
