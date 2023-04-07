@@ -280,6 +280,25 @@
         "button_text_color": "#726d75",
         "button_bg_color": "#e7e7e7"
       }
+    },
+    "bad05730-1545-4e96-bb85-e7018736a854": {
+      "type": "section-map",
+      "settings": {
+        "height": "screen-height-one-half",
+        "title": "The Workshop",
+        "address": "<p>58 Mountain St.<br\/>Ultimo, NSW, Australia<\/p><p>Mon - Sat, 7am - 6pm<br\/><\/p><p><em><strong>By Appointment Only<\/strong><\/em><\/p>",
+        "button": "Directions",
+        "text_color": "text-dark",
+        "bg_color": "#FBFBFB",
+        "api_key": "AIzaSyAqMxtA6L_Z1yP0mtzxlNjldcC8zS87Rn4",
+        "map_address": "58 Mountain St, Ultimo, NSW",
+        "zoom": 11,
+        "style": "light",
+        "bg_position": "center-center",
+        "enable_latlong": false,
+        "lat": "",
+        "long": ""
+      }
     }
   },
   "order": [
@@ -294,6 +313,7 @@
     "ad902e55-9582-494f-9052-4f04d2a8e0f0",
     "258297eb-ebe7-4319-9c9f-a2c23ce558ba",
     "678f74cc-7079-46c6-8a37-a66d19d24601",
-    "b5fa836d-cb5e-4abf-8344-bfc2c3789fbe"
+    "b5fa836d-cb5e-4abf-8344-bfc2c3789fbe",
+    "bad05730-1545-4e96-bb85-e7018736a854"
   ]
 }
