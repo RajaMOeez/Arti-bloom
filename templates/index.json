@@ -283,7 +283,6 @@
     },
     "79e54365-bdb9-4e8f-a205-0679f30f614c": {
       "type": "section-map",
-      "disabled": true,
       "settings": {
         "height": "screen-height-one-half",
         "title": "The Workshop",
@@ -291,10 +290,10 @@
         "button": "Directions",
         "text_color": "text-dark",
         "bg_color": "#fbfbfb",
-        "api_key": "AIzaSyAqMxtA6L_Z1yP0mtzxlNjldcC8zS87Rn4",
+        "api_key": "AIzaSyBRWVgMzkUtBacyyBe5ksgMXStEq768rAQ",
         "map_address": "58 Mountain St, Ultimo, NSW 2007",
-        "zoom": 11,
-        "style": "white_label",
+        "zoom": 12,
+        "style": "default",
         "bg_position": "center-center",
         "enable_latlong": false,
         "lat": "",
