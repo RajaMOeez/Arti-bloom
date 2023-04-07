@@ -112,7 +112,7 @@
           "52ea786b-a8c9-46ae-9f02-769e6e8f8d35": {
             "type": "newsletter",
             "settings": {
-              "richtext": "<p>Subscribe to hear about the latest maps, and any special offers.<\/p>",
+              "richtext": "<p>Subscribe to hear about the latest maps and special offers.<\/p>",
               "enable_name": true
             }
           },
