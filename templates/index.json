@@ -92,195 +92,6 @@
         "include_margins": false
       }
     },
-    "b73d37cd-8ec0-468a-b56b-97c4e46e643d": {
-      "type": "index-testimonial-with-image",
-      "disabled": true,
-      "blocks": {
-        "template--15982265106590__b73d37cd-8ec0-468a-b56b-97c4e46e643d-16649469837ed9f934-0": {
-          "type": "testimonial",
-          "settings": {
-            "title": "Renèe",
-            "testimonial": "Love it - so personalised to us! Now we can compare what we see out the window 👌",
-            "username": "Queensland",
-            "tweet_url": "",
-            "product": "custom-origin-style",
-            "image": "shopify:\/\/shop_images\/QueenslandFarmMap_76264c05-fb0b-48fa-9e26-e7ee4b58e27d.jpg",
-            "button_text": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15982265106590__b73d37cd-8ec0-468a-b56b-97c4e46e643d-16649469837ed9f934-0"
-      ],
-      "settings": {
-        "testimonials_bg": "#fafafa",
-        "button_text_color": "#726d75",
-        "button_bg_color": "#e7e7e7"
-      }
-    },
-    "17dca42c-b830-4790-bdfe-a510f3e76540": {
-      "type": "index-testimonial-with-image",
-      "disabled": true,
-      "blocks": {
-        "template--15982265106590__17dca42c-b830-4790-bdfe-a510f3e76540-16698910101e4ee994-0": {
-          "type": "testimonial",
-          "settings": {
-            "title": "Luke",
-            "testimonial": "Kevin absolutely loved his map btw!",
-            "username": "Melbourne",
-            "tweet_url": "",
-            "product": "custom-origin-style",
-            "image": "shopify:\/\/shop_images\/PNGMap_455b8b5e-17d9-4d7d-b3bb-972db2112daf.jpg",
-            "button_text": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15982265106590__17dca42c-b830-4790-bdfe-a510f3e76540-16698910101e4ee994-0"
-      ],
-      "settings": {
-        "testimonials_bg": "#fafafa",
-        "button_text_color": "#726d75",
-        "button_bg_color": "#e7e7e7"
-      }
-    },
-    "04227039-1b03-4246-96bb-50e5326714c8": {
-      "type": "index-testimonial-with-image",
-      "disabled": true,
-      "blocks": {
-        "template--15982265106590__04227039-1b03-4246-96bb-50e5326714c8-1664947034f0518c98-0": {
-          "type": "testimonial",
-          "settings": {
-            "title": "Anne",
-            "testimonial": "Can't describe how much she loves it, thank you for your work bringing us joy.",
-            "username": "Sydney",
-            "tweet_url": "",
-            "product": "fiji",
-            "image": "shopify:\/\/shop_images\/FijiDaycare.jpg",
-            "button_text": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15982265106590__04227039-1b03-4246-96bb-50e5326714c8-1664947034f0518c98-0"
-      ],
-      "settings": {
-        "testimonials_bg": "#fafafa",
-        "button_text_color": "#726d75",
-        "button_bg_color": "#e7e7e7"
-      }
-    },
-    "ad902e55-9582-494f-9052-4f04d2a8e0f0": {
-      "type": "index-testimonial-with-image",
-      "disabled": true,
-      "blocks": {
-        "template--15982265106590__ad902e55-9582-494f-9052-4f04d2a8e0f0-16649223068cc5d850-0": {
-          "type": "testimonial",
-          "settings": {
-            "title": "Ali",
-            "testimonial": "My wife was shocked when it was delivered, words can’t explain how happy we are with this wonderful artwork.",
-            "username": "Sydney",
-            "tweet_url": "",
-            "product": "iran",
-            "image": "shopify:\/\/shop_images\/IranMap_72a0038c-77fa-4ba2-8217-a065f3f7c865.jpg",
-            "button_text": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15982265106590__ad902e55-9582-494f-9052-4f04d2a8e0f0-16649223068cc5d850-0"
-      ],
-      "settings": {
-        "testimonials_bg": "#fafafa",
-        "button_text_color": "#726d75",
-        "button_bg_color": "#e7e7e7"
-      }
-    },
-    "258297eb-ebe7-4319-9c9f-a2c23ce558ba": {
-      "type": "index-testimonial-with-image",
-      "disabled": true,
-      "blocks": {
-        "template--15982265106590__258297eb-ebe7-4319-9c9f-a2c23ce558ba-16698910101e4ee994-0": {
-          "type": "testimonial",
-          "settings": {
-            "title": "Kai",
-            "testimonial": "Thanks Tim, looks amazing! I'll get some more pictures for sure, and leave a good review.",
-            "username": "Los Angeles",
-            "tweet_url": "",
-            "product": "custom-origin-style",
-            "image": "shopify:\/\/shop_images\/USWestCoastKai2.jpg",
-            "button_text": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15982265106590__258297eb-ebe7-4319-9c9f-a2c23ce558ba-16698910101e4ee994-0"
-      ],
-      "settings": {
-        "testimonials_bg": "#fafafa",
-        "button_text_color": "#726d75",
-        "button_bg_color": "#e7e7e7"
-      }
-    },
-    "678f74cc-7079-46c6-8a37-a66d19d24601": {
-      "type": "index-testimonial-with-image",
-      "disabled": true,
-      "blocks": {
-        "template--15982265106590__678f74cc-7079-46c6-8a37-a66d19d24601-16649469837ed9f934-0": {
-          "type": "testimonial",
-          "settings": {
-            "title": "Damon",
-            "testimonial": "Very happy with it mate, so my thanks to you. It’ll take pride of place in my shack now :)",
-            "username": "South Australia",
-            "tweet_url": "",
-            "product": "custom-origin-style",
-            "image": "shopify:\/\/shop_images\/MarionBay_89b1e908-bcbd-46f9-b81e-4fb452894438.jpg",
-            "button_text": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15982265106590__678f74cc-7079-46c6-8a37-a66d19d24601-16649469837ed9f934-0"
-      ],
-      "settings": {
-        "testimonials_bg": "#fafafa",
-        "button_text_color": "#726d75",
-        "button_bg_color": "#e7e7e7"
-      }
-    },
-    "b5fa836d-cb5e-4abf-8344-bfc2c3789fbe": {
-      "type": "index-testimonial-with-image",
-      "disabled": true,
-      "blocks": {
-        "template--15982265106590__b5fa836d-cb5e-4abf-8344-bfc2c3789fbe-16649469837ed9f934-0": {
-          "type": "testimonial",
-          "settings": {
-            "title": "Fiona",
-            "testimonial": "Looks fantastic, love all the details.",
-            "username": "Ulladulla, New South Wales",
-            "tweet_url": "",
-            "product": "custom-origin-style",
-            "image": "shopify:\/\/shop_images\/ContourBathymetryMap_30960dd8-7490-4849-af08-71c985b852bf.jpg",
-            "button_text": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15982265106590__b5fa836d-cb5e-4abf-8344-bfc2c3789fbe-16649469837ed9f934-0"
-      ],
-      "settings": {
-        "testimonials_bg": "#fafafa",
-        "button_text_color": "#726d75",
-        "button_bg_color": "#e7e7e7"
-      }
-    },
     "bad05730-1545-4e96-bb85-e7018736a854": {
       "type": "section-map",
       "settings": {
@@ -289,7 +100,7 @@
         "address": "<p>58 Mountain St.<br\/>Ultimo, NSW, Australia<\/p><p>Mon - Sat, 7am - 6pm<br\/><\/p><p><em><strong>By Appointment Only<\/strong><\/em><\/p>",
         "button": "Directions",
         "text_color": "text-dark",
-        "bg_color": "#FBFBFB",
+        "bg_color": "#fbfbfb",
         "api_key": "AIzaSyAqMxtA6L_Z1yP0mtzxlNjldcC8zS87Rn4",
         "map_address": "58 Mountain St, Ultimo, NSW",
         "zoom": 11,
@@ -307,13 +118,6 @@
     "8f437138-6964-497e-9d8b-6644c3c6fc82",
     "2893b0c6-7011-4012-98d5-f37dc6ed0383",
     "16649216157b87533d",
-    "b73d37cd-8ec0-468a-b56b-97c4e46e643d",
-    "17dca42c-b830-4790-bdfe-a510f3e76540",
-    "04227039-1b03-4246-96bb-50e5326714c8",
-    "ad902e55-9582-494f-9052-4f04d2a8e0f0",
-    "258297eb-ebe7-4319-9c9f-a2c23ce558ba",
-    "678f74cc-7079-46c6-8a37-a66d19d24601",
-    "b5fa836d-cb5e-4abf-8344-bfc2c3789fbe",
     "bad05730-1545-4e96-bb85-e7018736a854"
   ]
 }
