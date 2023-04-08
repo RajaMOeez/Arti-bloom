@@ -23931,6 +23931,28 @@ ul.tabs--center > li {
 
 /* copied from GPT4 for new customer pics collage gallery */
 
+
+.collage-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  max-height: 50vh;
+  overflow: hidden;
+}
+
+.collage-gallery-item {
+  flex: 1;
+  padding: 5px;
+  box-sizing: border-box;
+  height: 50vh; /* Set the height of the collage-gallery-item to the same max-height as collage-gallery */
+}
+
+.collage-gallery-item img {
+  width: auto;
+  height: 100%;
+  object-fit: cover;
+}
+
+
 .collage-gallery {
   display: flex;
   flex-wrap: wrap;
