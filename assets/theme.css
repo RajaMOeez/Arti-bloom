@@ -23931,23 +23931,20 @@ ul.tabs--center > li {
 
 /* copied from GPT4 for new customer pics collage gallery */
 
-
 .collage-gallery {
-  display: flex;
-  flex-wrap: wrap;
-  max-height: 50vh;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  grid-auto-rows: 50vh;
+  grid-gap: 5px;
   overflow: hidden;
 }
 
 .collage-gallery-item {
-  flex: auto; /* Change this from flex: 1 to flex: auto */
-  padding: 5px;
   box-sizing: border-box;
-  height: 50vh; /* Set the height of the collage-gallery-item to the same max-height as collage-gallery */
 }
 
 .collage-gallery-item img {
-  width: auto;
+  width: 100%;
   height: 100%;
   object-fit: cover;
 }
