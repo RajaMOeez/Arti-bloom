@@ -22,21 +22,11 @@
             "show_payment_button": true,
             "subscriptions_enable_selectors": true
           }
-        },
-        "tabs": {
-          "type": "tab_richtext",
-          "settings": {
-            "show_read_more": true,
-            "style": "tabs",
-            "title_5": "",
-            "raw_content_5": ""
-          }
         }
       },
       "block_order": [
         "price_and_title",
-        "form",
-        "tabs"
+        "form"
       ],
       "settings": {
         "product_sticky_enable": true,
