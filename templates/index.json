@@ -75,59 +75,6 @@
     },
     "collage-gallery-section": {
       "type": "collage-gallery",
-      "blocks": {
-        "e4354259-41f3-43b8-94b9-ef3279c79d3b": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Iceland.jpg"
-          }
-        },
-        "e2d24f9e-fda4-45f5-a402-133b3b154259": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/GrandTetonReframed.jpg"
-          }
-        },
-        "181c9a07-4b2a-4671-a26e-ab336706056e": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/LebanonDanny.jpg"
-          }
-        },
-        "762a9322-e714-40c5-8a60-055556d35dfd": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/QueenslandFarmMap_ffe23aa0-a633-46e3-8fed-08a2d77012c9.jpg"
-          }
-        },
-        "25565dbc-88cf-4318-85f6-dd6efd34db53": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/PNGMap_a20b74cf-4a62-432e-8ebe-edcf0ec862f9.jpg"
-          }
-        },
-        "a7aa4405-dff9-4638-ad46-2bdad6e3b891": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FijiDaycare_fe6d9f3a-7021-459b-b092-ad3b080428e7.jpg"
-          }
-        },
-        "99277b0e-02a4-46cc-84bc-131c7ee22169": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/QLD.png"
-          }
-        }
-      },
-      "block_order": [
-        "e4354259-41f3-43b8-94b9-ef3279c79d3b",
-        "e2d24f9e-fda4-45f5-a402-133b3b154259",
-        "181c9a07-4b2a-4671-a26e-ab336706056e",
-        "762a9322-e714-40c5-8a60-055556d35dfd",
-        "25565dbc-88cf-4318-85f6-dd6efd34db53",
-        "a7aa4405-dff9-4638-ad46-2bdad6e3b891",
-        "99277b0e-02a4-46cc-84bc-131c7ee22169"
-      ],
       "custom_css": [
 
       ],
