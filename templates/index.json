@@ -73,14 +73,6 @@
         "button_style": "hero__btn btn btn--input btn--outline caps"
       }
     },
-    "collage-gallery-section": {
-      "type": "collage-gallery",
-      "custom_css": [
-
-      ],
-      "settings": {
-      }
-    },
     "16649216157b87533d": {
       "type": "apps",
       "blocks": {
@@ -125,7 +117,6 @@
     "dd4284bf-2f48-4443-95aa-39ce0b53c07e",
     "8f437138-6964-497e-9d8b-6644c3c6fc82",
     "2893b0c6-7011-4012-98d5-f37dc6ed0383",
-    "collage-gallery-section",
     "16649216157b87533d",
     "bad05730-1545-4e96-bb85-e7018736a854"
   ]
