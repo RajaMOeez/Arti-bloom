@@ -23928,3 +23928,19 @@ ul.tabs--center > li {
   object-fit: cover;
 }
 
+/* copied from GPT4 for new customer pics collage gallery */
+.collage-gallery {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.collage-gallery-item {
+  flex: 1;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.collage-gallery-item img {
+  width: 100%;
+  height: auto;
+}
