@@ -73,6 +73,29 @@
         "button_style": "hero__btn btn btn--input btn--outline caps"
       }
     },
+    "collage-gallery-section": {
+      "type": "collage-gallery",
+      "blocks": {
+        "bf46860d-5fa2-41d8-92a5-2bd434acc8b4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SantaBarbaraDeniseSmile_83f97b9f-fd74-461a-b7c0-b0f4c4e5cce6.jpg"
+          }
+        },
+        "e4354259-41f3-43b8-94b9-ef3279c79d3b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "bf46860d-5fa2-41d8-92a5-2bd434acc8b4",
+        "e4354259-41f3-43b8-94b9-ef3279c79d3b"
+      ],
+      "settings": {
+      }
+    },
     "16649216157b87533d": {
       "type": "apps",
       "blocks": {
@@ -90,11 +113,6 @@
       ],
       "settings": {
         "include_margins": false
-      }
-    },
-    "collage-gallery-section": {
-      "type": "collage-gallery",
-      "settings": {
       }
     },
     "bad05730-1545-4e96-bb85-e7018736a854": {
