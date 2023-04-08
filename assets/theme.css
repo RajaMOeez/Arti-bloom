@@ -23940,7 +23940,7 @@ ul.tabs--center > li {
 }
 
 .collage-gallery-item {
-  flex: 1;
+  flex: auto; /* Change this from flex: 1 to flex: auto */
   padding: 5px;
   box-sizing: border-box;
   height: 50vh; /* Set the height of the collage-gallery-item to the same max-height as collage-gallery */
@@ -23951,6 +23951,7 @@ ul.tabs--center > li {
   height: 100%;
   object-fit: cover;
 }
+
 
 
 /* .collage-gallery {
