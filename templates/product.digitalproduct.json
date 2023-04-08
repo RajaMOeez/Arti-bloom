@@ -1,0 +1,83 @@
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "price_and_title": {
+          "type": "price_and_title",
+          "settings": {
+            "subheading_option": "breadcrumb",
+            "show_rating": true,
+            "enable_star_rating": true,
+            "show_rating_count": false
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "info_page": "",
+            "show_labels": false,
+            "show_quantity": true,
+            "show_remaining": true,
+            "show_payment_button": true,
+            "subscriptions_enable_selectors": true
+          }
+        },
+        "tabs": {
+          "type": "tab_richtext",
+          "settings": {
+            "show_read_more": true,
+            "style": "tabs",
+            "title_1": "Shipping",
+            "raw_content_1": "<p><strong>AU<\/strong> - 1 to 3 business days<\/p><p><strong>S<\/strong> - 15<\/p><p><strong>M<\/strong> - 25 <\/p><p><strong>L & XL<\/strong> - 52 <\/p><p>(AUD)<\/p><p>.<\/p><p><strong>US<\/strong>  - 7 to 10 business days<\/p><p><strong>CA<\/strong> \/ <strong>EU<\/strong> \/ <strong>Other<\/strong> - 7 to 15 business days<\/p><p><strong>S<\/strong> - 32<\/p><p><strong>M<\/strong> - 39<\/p><p><strong>L & XL<\/strong> - 50<\/p><p>(USD)<\/p><p>.<\/p><p><strong>NZ <\/strong>- 7 to 10 business days<\/p><p><strong>S<\/strong> - 43<\/p><p><strong>M<\/strong> - 48<\/p><p><strong>L & XL<\/strong> - 55<\/p><p>(NZD)<\/p><p>.<\/p><p>All maps are made to order, fabrication takes two business days or less.<\/p>",
+            "title_2": "Returns",
+            "raw_content_2": "<p><strong>100% satisfaction guarantee<\/strong><\/p><p>If you're not satisfied with your map, simply return it within 30 days and once the map has returned to our workshop, a full refund will be remitted. No questions asked.<\/p><p><strong>100% damage free guarantee<\/strong><\/p><p>If your map is damaged during transit we will send you a full replacement at no extra cost, or the piece can be reframed at a store local to you and we will fully reimburse you for the reframing cost.<\/p>",
+            "title_3": "Framing",
+            "raw_content_3": "<p><strong>S, M & L <\/strong>- all framed ready for presentation<\/p><p><strong>S<\/strong> - has a stand for a desk or shelf  and a hook for the wall<\/p><p><strong>M & L <\/strong>- have a hook for the wall<\/p><p><strong>XL <\/strong>- due to shipping constraints it is unframed, we recommend you have it framed locally at your own expense. However if you don't intend on framing the piece that's fine we will alter the design to include a minimalist frame and hook on the back. Just let us know by email.<\/p>",
+            "title_4": "FAQ",
+            "raw_content_4": "<p><span style=\"text-decoration:underline\"><strong>Processing Time<\/strong><\/span><\/p><p>2 business days or less - all maps are made to order<\/p><p> <\/p><p> <\/p><p><span style=\"text-decoration:underline\"><strong>Materials<\/strong><\/span><\/p><p>All maps are made from basswood ply that is 1.5mm thick<\/p><p> <\/p><p> <\/p><p><span style=\"text-decoration:underline\"><strong>Taxes & Import Duties<\/strong><\/span><\/p><p>AU - nil, no extra fees<\/p><p>US \/ CA \/ EU \/ NZ - These may be levied by your state, they will be payable upon delivery of your map<\/p>",
+            "title_5": "",
+            "raw_content_5": ""
+          }
+        }
+      },
+      "block_order": [
+        "price_and_title",
+        "form",
+        "tabs"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "stacked",
+        "image_size": "normal",
+        "show_cart_bar": false,
+        "enable_zoom": true,
+        "enable_video_looping": false
+      }
+    },
+    "reviews": {
+      "type": "reviews",
+      "disabled": true,
+      "settings": {
+        "enable_product_reviews": false,
+        "enable_accordion": true
+      }
+    },
+    "related": {
+      "type": "related",
+      "settings": {
+        "related_products_enable": true,
+        "limit": 4,
+        "product_recommendations_heading": "Related products",
+        "show_recently_viewed": true,
+        "product_recently_limit": 4,
+        "product_recently_heading": "Recently viewed"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "reviews",
+    "related"
+  ]
+}
