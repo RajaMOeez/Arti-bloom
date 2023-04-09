@@ -53,7 +53,6 @@
   </div>
 </script>
 
-{% raw %}
 {% assign border_class = '' -%}
 {%- if settings.product_grid_outline == false -%}
   {% assign border_class = 'product-item--borderless' -%}
@@ -63,34 +62,37 @@
 {%- if settings.product_grid_center == true -%}
   {% assign alignment_class = 'product-item--centered' -%}
 {%- endif -%}
-{% endraw %}
 
 <script product-grid-item-template type="text/x-template">
-  <div class="product-item {% if settings.product_grid_outline == false -%}product-item--borderless{%- endif -%} {% if settings.product_grid_center == true -%}product-item--centered{%- endif -%}">
+  <div class="product-item {{ border_class }} {{ alignment_class }}">
+    {% raw %}
       <a href="{{ it.product.url }}" class="product-link" aria-label='{{ it.product.title }}'>
         <div class="product-item__image {{it.product.double_class}}">
           <div class="product-item__bg" 
             aria-label="{{ it.product.image.alt }}" 
             style="background-image: url('{{ it.product.image.thumb }}');"></div>
-          {% if it.product.secondImage %}
+          {{@if(it.product.secondImage)}}
             <div class="product-item__bg__under" 
               aria-label="{{ it.product.secondImage.alt }}" 
               style="background-image: url('{{ it.product.secondImage.thumb }}');"></div>
-          {% endif %}
+          {{/if}}
         </div>
         <div class="product-information">
           <p class="product__grid__title">{{ it.product.title }}</p>
           <span class="price {{ it.product.classes }}">
-            {% if it.product.available %}
+            {{@if(it.product.available)}}
               <span class="new-price">{{ it.product.price_with_from | safe }}</span>
-              {% if it.product.compare_at_price > it.product.price %}
+              {{@if(it.product.compare_at_price > it.product.price)}}
                 <span class="old-price">{{ it.product.compare_at_price | safe }}</span>
-              {% endif %}
-            {% else %}
+              {{/if}}
+            {{#else}}
               <br /><em>{{ it.product.sold_out_translation }}</em>
-            {% endif %}
+            {{/if}}
           </span>
         </div>
       </a>
+    {% endraw %}
   </div>
 </script>
+
+
