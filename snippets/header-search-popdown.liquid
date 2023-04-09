@@ -65,9 +65,8 @@
 {%- endif -%}
 {% endraw %}
 
-{% raw %}
 <script product-grid-item-template type="text/x-template">
-  <div class="product-item {{ border_class }} {{ alignment_class }}">
+  <div class="product-item {% if settings.product_grid_outline == false -%}product-item--borderless{%- endif -%} {% if settings.product_grid_center == true -%}product-item--centered{%- endif -%}">
       <a href="{{ it.product.url }}" class="product-link" aria-label='{{ it.product.title }}'>
         <div class="product-item__image {{it.product.double_class}}">
           <div class="product-item__bg" 
@@ -95,4 +94,3 @@
       </a>
   </div>
 </script>
-{% endraw %}
