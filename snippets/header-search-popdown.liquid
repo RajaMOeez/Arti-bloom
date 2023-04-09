@@ -53,6 +53,7 @@
   </div>
 </script>
 
+{% raw %}
 {% assign border_class = '' -%}
 {%- if settings.product_grid_outline == false -%}
   {% assign border_class = 'product-item--borderless' -%}
@@ -62,6 +63,7 @@
 {%- if settings.product_grid_center == true -%}
   {% assign alignment_class = 'product-item--centered' -%}
 {%- endif -%}
+{% endraw %}
 
 <script product-grid-item-template type="text/x-template">
   <div class="product-item {{ border_class }} {{ alignment_class }}">
