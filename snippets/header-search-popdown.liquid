@@ -72,23 +72,23 @@
           <div class="product-item__bg" 
             aria-label="{{ it.product.image.alt }}" 
             style="background-image: url('{{ it.product.image.thumb }}');"></div>
-          {{@if(it.product.secondImage)}}
+          {% if it.product.secondImage %}
             <div class="product-item__bg__under" 
               aria-label="{{ it.product.secondImage.alt }}" 
               style="background-image: url('{{ it.product.secondImage.thumb }}');"></div>
-          {{/if}}
+          {% endif %}
         </div>
         <div class="product-information">
           <p class="product__grid__title">{{ it.product.title }}</p>
           <span class="price {{ it.product.classes }}">
-            {{@if(it.product.available)}}
+            {% if it.product.available %}
               <span class="new-price">{{ it.product.price_with_from | safe }}</span>
-              {{@if(it.product.compare_at_price > it.product.price)}}
+              {% if it.product.compare_at_price > it.product.price %}
                 <span class="old-price">{{ it.product.compare_at_price | safe }}</span>
-              {{/if}}
-            {{#else}}
+              {% endif %}
+            {% else %}
               <br /><em>{{ it.product.sold_out_translation }}</em>
-            {{/if}}
+            {% endif %}
           </span>
         </div>
       </a>
