@@ -120,7 +120,7 @@
             {%- else -%}
               {%- for product in search.results -%}
                 {%- if product.object_type == 'product' -%}
-                  {% render 'product-grid-item', product: product, grid_strings: grid_strings, index: forloop.index, show_title: true %}
+                  {% render 'product-grid-item', product: product, grid_strings: grid_strings, index: forloop.index %}
                 {%- endif -%}
               {%- endfor -%}
             {% endif %}
