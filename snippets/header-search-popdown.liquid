@@ -65,10 +65,9 @@
 {%- endif -%}
 {% endraw %}
 
-
+{% raw %}
 <script product-grid-item-template type="text/x-template">
   <div class="product-item {{ border_class }} {{ alignment_class }}">
-    {% raw %}
       <a href="{{ it.product.url }}" class="product-link" aria-label='{{ it.product.title }}'>
         <div class="product-item__image {{it.product.double_class}}">
           <div class="product-item__bg" 
@@ -94,6 +93,6 @@
           </span>
         </div>
       </a>
-    {% endraw %}
   </div>
 </script>
+{% endraw %}
