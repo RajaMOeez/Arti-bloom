@@ -9,7 +9,7 @@
         "height": "screen-height-one-half",
         "overlay_opacity": 55,
         "overlay_color": "#000000",
-        "title": "Tired of Ordinary Gifts?",
+        "title": "The Perfect Gift For Your Loved One",
         "description": "Celebrate Life's Milestones with Unique Handcrafted Topographic Maps",
         "flex_align": "align--middle-center",
         "text_color": "text-light",
@@ -77,7 +77,7 @@
       "type": "apps",
       "blocks": {
         "7817e7aa-c292-4fbc-96aa-5f3251669cdf": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "heading_size": 20,
             "feed_width": 100,
