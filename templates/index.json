@@ -1,5 +1,71 @@
 {
   "sections": {
+    "984ba4d1-071d-4a5e-9ac4-533685ae1d83": {
+      "type": "section-announcement",
+      "blocks": {
+        "template--15982265106590__984ba4d1-071d-4a5e-9ac4-533685ae1d83-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Origin Maps is expanding to a bigger workshop<\/strong><\/p><p>Production will be reduced from the 1st - 10th of October. All maps ordered will be fabricated and dispatched after that date, order today to secure your spot!<\/p>",
+            "target_url_enabled": false,
+            "target_url": "",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        },
+        "template--15982265106590__984ba4d1-071d-4a5e-9ac4-533685ae1d83-text-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Create a free shipping countdown<\/strong><\/p>",
+            "target_url_enabled": false,
+            "target_url": "",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        },
+        "template--15982265106590__984ba4d1-071d-4a5e-9ac4-533685ae1d83-message-1": {
+          "type": "message",
+          "settings": {
+            "show_wheel": false,
+            "message": "Spend ||amount|| more for free shipping.",
+            "target_url_enabled": false,
+            "target_url": "",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        },
+        "template--15982265106590__984ba4d1-071d-4a5e-9ac4-533685ae1d83-text-3": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Create a scrolling marquee or a simple announcement<\/strong><\/p>",
+            "target_url_enabled": false,
+            "target_url": "",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        }
+      },
+      "block_order": [
+        "template--15982265106590__984ba4d1-071d-4a5e-9ac4-533685ae1d83-text-1",
+        "template--15982265106590__984ba4d1-071d-4a5e-9ac4-533685ae1d83-text-2",
+        "template--15982265106590__984ba4d1-071d-4a5e-9ac4-533685ae1d83-message-1",
+        "template--15982265106590__984ba4d1-071d-4a5e-9ac4-533685ae1d83-text-3"
+      ],
+      "settings": {
+        "bg_color": "#f7f7f7",
+        "color": "#545454",
+        "layout": "slider",
+        "speed": 5
+      }
+    },
     "aa04d330-01f5-4144-8cd5-5a74172dde59": {
       "type": "section-hero",
       "settings": {
@@ -113,6 +179,7 @@
     }
   },
   "order": [
+    "984ba4d1-071d-4a5e-9ac4-533685ae1d83",
     "aa04d330-01f5-4144-8cd5-5a74172dde59",
     "dd4284bf-2f48-4443-95aa-39ce0b53c07e",
     "8f437138-6964-497e-9d8b-6644c3c6fc82",
