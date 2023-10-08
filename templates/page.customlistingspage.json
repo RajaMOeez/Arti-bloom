@@ -50,7 +50,7 @@
         "flex_align": "align--middle-center",
         "text_color": "text-light",
         "transparent": true,
-        "link_text": "The Origin - from $580",
+        "link_text": "The Origin - from $740",
         "link": "shopify:\/\/products\/custom-origin-style",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--large caps"
@@ -72,7 +72,7 @@
         "flex_align": "align--middle-center",
         "text_color": "text-light",
         "transparent": true,
-        "link_text": "The Classic - From $260",
+        "link_text": "The Classic - From $375",
         "link": "shopify:\/\/products\/custom-classic-style",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--large caps"
