@@ -94,7 +94,7 @@
         "text_color": "text-light",
         "transparent": false,
         "link_text": "Find Your Masterpiece",
-        "link": "shopify:\/\/collections\/all-maps",
+        "link": "shopify:\/\/collections\/new",
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--input btn--outline caps"
       }
