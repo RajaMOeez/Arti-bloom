@@ -6,7 +6,7 @@
         "template--15982265106590__984ba4d1-071d-4a5e-9ac4-533685ae1d83-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Free Shipping to Australia & USA <\/strong>- <a href=\"\/pages\/faq\" title=\"FAQ\">click for more details<\/a><\/p>",
+            "text": "<p><strong>Free Shipping to Australia & USA <\/strong>- <a href=\"\/pages\/faq\" title=\"FAQ\">click for shipping times<\/a><\/p>",
             "target_url_enabled": false,
             "target_url": "",
             "target_referrer_enabled": false,
@@ -105,8 +105,6 @@
         "7817e7aa-c292-4fbc-96aa-5f3251669cdf": {
           "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_size": 20,
-            "feed_width": 100,
             "html_area": ""
           }
         }
