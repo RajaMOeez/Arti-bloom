@@ -50,7 +50,7 @@
         "flex_align": "align--middle-center",
         "text_color": "text-light",
         "transparent": true,
-        "link_text": "Topographic - from $740",
+        "link_text": "Topographic Style - $740",
         "link": "shopify:\/\/products\/custom-topographic-style",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--large caps"
@@ -72,7 +72,7 @@
         "flex_align": "align--middle-center",
         "text_color": "text-light",
         "transparent": true,
-        "link_text": "Relief - From $375",
+        "link_text": "Relief Style - $375",
         "link": "shopify:\/\/products\/custom-relief-style",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--large caps"
