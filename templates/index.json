@@ -121,7 +121,7 @@
       "settings": {
         "height": "screen-height-one-half",
         "title": "The Workshop",
-        "address": "<p>82 Botany Rd.<br\/>Alexandria, NSW, Australia<\/p><p>Mon - Sat, 10am - 4pm<br\/><\/p><p><em><strong>By Appointment Only<\/strong><\/em><\/p>",
+        "address": "<p>82 Botany Rd.<br\/>Alexandria, NSW, Australia<\/p><p>Mon - Sat, 10am - 4pm<\/p>",
         "button": "Directions",
         "text_color": "text-dark",
         "bg_color": "#fbfbfb",
