@@ -127,7 +127,7 @@
         "bg_color": "#fbfbfb",
         "api_key": "AIzaSyAqMxtA6L_Z1yP0mtzxlNjldcC8zS87Rn4",
         "map_address": "82 Botany Rd, Alexandria, NSW",
-        "zoom": 13,
+        "zoom": 12,
         "style": "light",
         "bg_position": "center-center",
         "enable_latlong": false,
