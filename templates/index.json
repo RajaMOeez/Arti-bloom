@@ -19,6 +19,7 @@
       "block_order": [
         "template--15982265106590__984ba4d1-071d-4a5e-9ac4-533685ae1d83-text-1"
       ],
+      "disabled": true,
       "settings": {
         "bg_color": "#f7f7f7",
         "color": "#545454",
