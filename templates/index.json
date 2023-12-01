@@ -6,7 +6,7 @@
         "template--15982265106590__984ba4d1-071d-4a5e-9ac4-533685ae1d83-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>BLACK FRIDAY CYBER MONDAY - 30% off M & L maps, 15% off small - - - Free Shipping to Australia & USA <\/strong>- <a href=\"\/pages\/faq\" title=\"FAQ\">click for shipping times<\/a><\/p>",
+            "text": "<p><strong>Order before December 8th for guaranteed delivery Australia and US wide in time for Christmas '23. Free Shipping to Australia & USA <\/strong>- <a href=\"\/pages\/faq\" title=\"FAQ\">click for shipping times<\/a><\/p>",
             "target_url_enabled": false,
             "target_url": "",
             "target_referrer_enabled": false,
@@ -19,7 +19,6 @@
       "block_order": [
         "template--15982265106590__984ba4d1-071d-4a5e-9ac4-533685ae1d83-text-1"
       ],
-      "disabled": true,
       "settings": {
         "bg_color": "#f7f7f7",
         "color": "#545454",
