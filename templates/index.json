@@ -1,31 +1,5 @@
 {
   "sections": {
-    "984ba4d1-071d-4a5e-9ac4-533685ae1d83": {
-      "type": "section-announcement",
-      "blocks": {
-        "template--15982265106590__984ba4d1-071d-4a5e-9ac4-533685ae1d83-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Order before December 19th for guaranteed delivery Australia wide in time for Christmas '23. Free Shipping to Australia & USA <\/strong>- <a href=\"\/pages\/faq\" title=\"FAQ\">click for shipping times<\/a><\/p>",
-            "target_url_enabled": false,
-            "target_url": "",
-            "target_referrer_enabled": false,
-            "target_referrer": "",
-            "target_device_enabled": false,
-            "target_device": "mobile"
-          }
-        }
-      },
-      "block_order": [
-        "template--15982265106590__984ba4d1-071d-4a5e-9ac4-533685ae1d83-text-1"
-      ],
-      "settings": {
-        "bg_color": "#f7f7f7",
-        "color": "#545454",
-        "layout": "slider",
-        "speed": 5
-      }
-    },
     "aa04d330-01f5-4144-8cd5-5a74172dde59": {
       "type": "section-hero",
       "settings": {
@@ -140,7 +114,6 @@
     }
   },
   "order": [
-    "984ba4d1-071d-4a5e-9ac4-533685ae1d83",
     "aa04d330-01f5-4144-8cd5-5a74172dde59",
     "dd4284bf-2f48-4443-95aa-39ce0b53c07e",
     "8f437138-6964-497e-9d8b-6644c3c6fc82",
