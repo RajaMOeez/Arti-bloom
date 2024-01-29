@@ -87,10 +87,16 @@
             "alignment": "center",
             "html_area": ""
           }
+        },
+        "google_reviews_plus_app_block_MbUzAr": {
+          "type": "shopify:\/\/apps\/google-reviews-plus\/blocks\/app-block\/d11c8893-a181-4aff-a280-7446d42cec3b",
+          "settings": {
+          }
         }
       },
       "block_order": [
-        "7817e7aa-c292-4fbc-96aa-5f3251669cdf"
+        "7817e7aa-c292-4fbc-96aa-5f3251669cdf",
+        "google_reviews_plus_app_block_MbUzAr"
       ],
       "settings": {
         "include_margins": false
