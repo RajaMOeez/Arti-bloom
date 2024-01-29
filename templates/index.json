@@ -22,12 +22,15 @@
     },
     "dd4284bf-2f48-4443-95aa-39ce0b53c07e": {
       "type": "section-collection",
+      "custom_css": [
+        "div {border: solid #fff 2px;}"
+      ],
       "settings": {
         "heading": "Featured collection",
         "description": "",
         "text_alignment": "center",
-        "link_text": "",
-        "link_url": "",
+        "link_text": "Browse All Maps",
+        "link_url": "shopify:\/\/collections\/all-maps",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--input btn--outline caps",
         "featured_collection": "landing-collection",
