@@ -80,23 +80,6 @@
     "sections": {
       "header": {
         "type": "header",
-        "blocks": {
-          "image_LAcFPd": {
-            "type": "image",
-            "settings": {
-              "position": "1",
-              "aspect_ratio": 0.5,
-              "wide_image": true,
-              "bg_position": "center-center",
-              "title": "",
-              "link_text": "",
-              "link": ""
-            }
-          }
-        },
-        "block_order": [
-          "image_LAcFPd"
-        ],
         "settings": {
           "header_style": "logo_above",
           "icon_family": "bold",
