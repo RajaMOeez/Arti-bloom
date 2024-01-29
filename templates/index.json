@@ -26,10 +26,10 @@
         "div {border: solid #fff 2px;}"
       ],
       "settings": {
-        "heading": "Featured collection",
+        "heading": "Collection Best Sellers",
         "description": "",
         "text_alignment": "center",
-        "link_text": "Browse All Maps",
+        "link_text": "SHOP NOW - Browse All Maps",
         "link_url": "shopify:\/\/collections\/all-maps",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--input btn--outline caps",
