@@ -114,6 +114,23 @@
         "lat": "",
         "long": ""
       }
+    },
+    "170650075617a8850a": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_H3Ly9x": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "Wabw2y"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_H3Ly9x"
+      ],
+      "settings": {
+        "include_margins": false
+      }
     }
   },
   "order": [
@@ -122,6 +139,7 @@
     "8f437138-6964-497e-9d8b-6644c3c6fc82",
     "2893b0c6-7011-4012-98d5-f37dc6ed0383",
     "16649216157b87533d",
-    "bad05730-1545-4e96-bb85-e7018736a854"
+    "bad05730-1545-4e96-bb85-e7018736a854",
+    "170650075617a8850a"
   ]
 }

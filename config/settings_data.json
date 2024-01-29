@@ -109,40 +109,40 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "52ea786b-a8c9-46ae-9f02-769e6e8f8d35": {
-            "type": "newsletter",
-            "settings": {
-              "richtext": "<p>Subscribe to hear about the latest maps and special offers.<\/p>",
-              "enable_name": true
-            }
-          },
           "footer-0": {
             "type": "linklist",
             "settings": {
               "linklist": "footer",
-              "title": "MAPS"
+              "title": "WOODEN MAPS"
             }
           },
           "2dd9f7f4-54d2-49f4-9e61-adaac1b3a8e8": {
             "type": "linklist",
             "settings": {
               "linklist": "footer-about",
-              "title": ""
+              "title": "MORE INFO"
             }
           },
           "08a9a4fa-f083-47b2-abed-096760a210dd": {
             "type": "text",
             "settings": {
               "title": "GET IN TOUCH",
-              "text": "<p>tim@originmaps.com<\/p><p>0466 494 899<\/p><p>Mon-Fri 12pm-5pm<br\/>Sat 12pm-3pm<\/p><p>The Nest - 76\/82 Botany Rd, Alexandria NSW 2015 Australia<\/p>"
+              "text": "<p>tim@originmaps.com<\/p><p>0466 494 899<\/p><p>Mon-Fri 12pm-5pm<br\/>Sat 12pm-3pm<\/p><p>The Nest - 82 Botany Rd Alexandria, NSW 2015 Australia<\/p>"
+            }
+          },
+          "newsletter_yPJFEx": {
+            "type": "newsletter",
+            "settings": {
+              "richtext": "<p>Be the first to discover our latest map creations and enjoy access to special offers designed just for our subscribers.<\/p>",
+              "enable_name": true
             }
           }
         },
         "block_order": [
-          "52ea786b-a8c9-46ae-9f02-769e6e8f8d35",
           "footer-0",
           "2dd9f7f4-54d2-49f4-9e61-adaac1b3a8e8",
-          "08a9a4fa-f083-47b2-abed-096760a210dd"
+          "08a9a4fa-f083-47b2-abed-096760a210dd",
+          "newsletter_yPJFEx"
         ],
         "settings": {
           "logo_image_width": 150,
