@@ -66,12 +66,12 @@
         "overlay_opacity": 40,
         "overlay_color": "#000000",
         "title": "",
-        "description": "Every detail meticulously designed and expertly crafted in our Sydney workshop.",
+        "description": "Every detail meticulously designed and hand crafted in our Sydney workshop.",
         "flex_align": "align--bottom-left",
         "text_color": "text-light",
         "transparent": false,
-        "link_text": "Find Your Masterpiece",
-        "link": "shopify:\/\/collections\/new",
+        "link_text": "Find The Perfect Gift",
+        "link": "shopify:\/\/collections\/all-maps",
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--input btn--outline caps"
       }
