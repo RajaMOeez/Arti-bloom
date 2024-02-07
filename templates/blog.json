@@ -2,6 +2,9 @@
   "sections": {
     "main": {
       "type": "blog",
+      "custom_css": [
+        "article.article.grid__item.large-up--one-third.medium--one-third.small--one-whole {padding: 5px;}"
+      ],
       "settings": {
         "show_title": true,
         "show_rss": false,
