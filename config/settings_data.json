@@ -35,7 +35,7 @@
     "animations_enable": false,
     "parallax_enable": true,
     "parallax_strength": 100,
-    "product_grid_outline": false,
+    "product_grid_outline": true,
     "button_radius_style": "square",
     "show_scroll_top_button": false,
     "loading_image_1": "shopify:\/\/shop_images\/Artibloom_Logo.png",
