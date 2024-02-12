@@ -85,7 +85,7 @@
             "image": "shopify:\/\/shop_images\/JacketLookingSide.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 0,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "title": "",
             "description": "",
             "flex_align": "align--middle-center",
@@ -102,7 +102,7 @@
           "settings": {
             "subheading": "Compass Conversations with Tim",
             "title": "Let's Jump on a Call",
-            "text": "<p>Dreaming of a bespoke wooden map that perfectly captures your favorite landscapes, cities, or memories? Now's your chance to bring those dreams to life! Schedule a <a href=\"https:\/\/Calendly.com\/originmaps\" target=\"_blank\" title=\"https:\/\/Calendly.com\/originmaps\">Compass Conversations with Tim<\/a> today and dive into a personalised consultation where your ideas meet our craftsmanship. <\/p><p>Whether it's a place that holds your heart or a dream destination you've yet to explore, Tim is ready to guide you through the crafting of your bespoke wooden map. With expert insights, personal stories, and a passion for cartography, each conversation is a step closer to creating a piece that's uniquely yours. Don't just dream about the perfect map—make it a reality. <\/p><p>Schedule your Compass Conversation today<\/p>",
+            "text": "<p>Dreaming of a bespoke wooden map that perfectly captures your favourite landscapes, cities, or memories? Now's your chance to bring those dreams to life! Schedule a <a href=\"https:\/\/Calendly.com\/originmaps\" target=\"_blank\" title=\"https:\/\/Calendly.com\/originmaps\">Compass Conversations with Tim<\/a> today and dive into a personalised consultation where your ideas meet our craftsmanship. <\/p><p>Whether it's a place that holds your heart or a dream destination you've yet to explore, Tim is ready to guide you through the crafting of your bespoke wooden map. With expert insights, personal stories, and a passion for cartography, each conversation is a step closer to creating a piece that's uniquely yours. Don't just dream about the perfect map—make it a reality. <\/p><p>Schedule your Compass Conversation today<\/p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
