@@ -67,7 +67,7 @@
             "text_color": "text-dark",
             "bg_color": "#ffffff",
             "button_text": "Book Your Free Compass Conversations with Tim",
-            "button_url": "https:\/\/calendly.com\/originmaps",
+            "button_url": "https:\/\/calendly.com\/originmaps\/30min",
             "button_color": "btn--neutral",
             "button_style": "hero__btn btn btn--large btn--outline caps"
           }
