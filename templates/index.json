@@ -23,7 +23,7 @@
     "dd4284bf-2f48-4443-95aa-39ce0b53c07e": {
       "type": "section-collection",
       "custom_css": [
-        "div {border: solid #fff 2px;}"
+        "div {border: solid #fff 0px;}"
       ],
       "settings": {
         "heading": "Collection Best Sellers",
