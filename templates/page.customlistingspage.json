@@ -34,56 +34,6 @@
         "bg_color": "#ffffff"
       }
     },
-    "section_custom_content_bFKjpV": {
-      "type": "section-custom-content",
-      "blocks": {
-        "image_xc6g6c": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/JacketLookingSide.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "overlay_color": "#000",
-            "title": "",
-            "description": "",
-            "flex_align": "align--middle-center",
-            "text_color": "text-light",
-            "transparent": true,
-            "link_text": "",
-            "link": "",
-            "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        },
-        "text_LMQfXT": {
-          "type": "text",
-          "settings": {
-            "subheading": "Compass Conversations with Tim",
-            "title": "Let's Jump on a Call",
-            "text": "<p>Dreaming of a bespoke wooden map that perfectly captures your favourite landscapes, cities, or memories? Now's your chance to bring those dreams to life! Schedule a <a href=\"https:\/\/Calendly.com\/originmaps\" target=\"_blank\" title=\"https:\/\/Calendly.com\/originmaps\">Compass Conversations with Tim<\/a> today and dive into a personalised consultation where your ideas meet our craftsmanship. <\/p><p>Whether it's a place that holds your heart or a dream destination you've yet to explore, Tim is ready to guide you through the crafting of your bespoke wooden map. With expert insights, personal stories, and a passion for cartography, each conversation is a step closer to creating a piece that's uniquely yours. Don't just dream about the perfect map—make it a reality. <\/p><p>Schedule your Compass Conversation today<\/p>",
-            "text_size": 2,
-            "text_columns": 1,
-            "align_text": "text-left",
-            "text_color": "text-dark",
-            "bg_color": "#ffffff",
-            "button_text": "Book Your Free Compass Conversations with Tim",
-            "button_url": "https:\/\/calendly.com\/originmaps\/30min",
-            "button_color": "btn--neutral",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        }
-      },
-      "block_order": [
-        "image_xc6g6c",
-        "text_LMQfXT"
-      ],
-      "settings": {
-        "height": "screen-height-one-half",
-        "padding": false,
-        "borders": false,
-        "wrapper": false
-      }
-    },
     "5b8a6f61-0747-4351-a798-880567aeeb99": {
       "type": "section-split-hero",
       "settings": {
@@ -128,8 +78,59 @@
         "button_style": "hero__btn btn btn--large caps"
       }
     },
+    "section_custom_content_bFKjpV": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image_xc6g6c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/JacketLookingSide.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "text_LMQfXT": {
+          "type": "text",
+          "settings": {
+            "subheading": "Compass Conversations with Tim",
+            "title": "Let's Jump on a Call",
+            "text": "<p>Dreaming of a bespoke wooden map that perfectly captures your favourite landscapes, cities, or memories? Now's your chance to bring those dreams to life! Schedule a <a href=\"https:\/\/Calendly.com\/originmaps\" target=\"_blank\" title=\"https:\/\/Calendly.com\/originmaps\">Compass Conversations with Tim<\/a> today and dive into a personalised consultation where your ideas meet our craftsmanship. <\/p><p>Whether it's a place that holds your heart or a dream destination you've yet to explore, Tim is ready to guide you through the crafting of your bespoke wooden map. With expert insights, personal stories, and a passion for cartography, each conversation is a step closer to creating a piece that's uniquely yours. Don't just dream about the perfect map—make it a reality. <\/p><p>Schedule your Compass Conversation today<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "Book Your Free Compass Conversations with Tim",
+            "button_url": "https:\/\/calendly.com\/originmaps\/30min",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "image_xc6g6c",
+        "text_LMQfXT"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
     "d8413d0d-20ce-4d6d-85fc-b8935641f272": {
       "type": "section-rich-text",
+      "disabled": true,
       "settings": {
         "subheading": "",
         "title": "",
@@ -151,9 +152,9 @@
   "order": [
     "main",
     "06e93819-8b55-4a8c-a7ab-cc3138672979",
-    "section_custom_content_bFKjpV",
     "5b8a6f61-0747-4351-a798-880567aeeb99",
     "8e66199a-b72e-4f45-9e12-13ea671f7855",
+    "section_custom_content_bFKjpV",
     "d8413d0d-20ce-4d6d-85fc-b8935641f272"
   ]
 }
