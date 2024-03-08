@@ -175,33 +175,6 @@
       },
       "popups": {
         "type": "popups",
-        "blocks": {
-          "popup_XDyMma": {
-            "type": "popup",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/QLD.png",
-              "subheading": "First Time Order - $20 Off Coupon",
-              "title": "Unlock Your $20.00",
-              "text": "<p>Fill out our form now to claim your first order coupon and dive into the world of handmade map art.<\/p>",
-              "button_text": "Claim",
-              "button_color": "btn--black",
-              "bg_color": "#ceba9d",
-              "text_color": "dark",
-              "newsletter_enable": true,
-              "enable_name": true,
-              "trigger": "delayed_10",
-              "target_url_enabled": false,
-              "target_url": "",
-              "target_referrer_enabled": false,
-              "target_referrer": "",
-              "target_device_enabled": false,
-              "target_device": "mobile"
-            }
-          }
-        },
-        "block_order": [
-          "popup_XDyMma"
-        ],
         "settings": {
         }
       }
