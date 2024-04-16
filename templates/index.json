@@ -7,7 +7,7 @@
         "description": "<p>Celebrate life's milestones with a blend of art and geography<\/p>",
         "text_alignment": "inline",
         "link_text": "Shop All",
-        "link_url": "",
+        "link_url": "shopify:\/\/collections\/all-maps",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--input btn--outline caps",
         "featured_collection": "landing-collection"
@@ -47,7 +47,7 @@
         "link_url": "shopify:\/\/collections\/new",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--input btn--outline caps",
-        "featured_collection": "land-collection-new"
+        "featured_collection": "new"
       }
     },
     "aa04d330-01f5-4144-8cd5-5a74172dde59": {
