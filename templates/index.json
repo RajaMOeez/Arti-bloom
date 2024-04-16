@@ -1,5 +1,55 @@
 {
   "sections": {
+    "section_collection_carousel_kJKL9n": {
+      "type": "section-collection-carousel",
+      "settings": {
+        "heading": "New Maps",
+        "description": "",
+        "text_alignment": "inline",
+        "link_text": "Shop All",
+        "link_url": "",
+        "button_color": "btn--black",
+        "button_style": "hero__btn btn btn--input btn--outline caps",
+        "featured_collection": "all-maps"
+      }
+    },
+    "170650075617a8850a": {
+      "type": "apps",
+      "blocks": {
+        "google_reviews_plus_app_block_Vtw4YU": {
+          "type": "shopify:\/\/apps\/google-reviews-plus\/blocks\/app-block\/d11c8893-a181-4aff-a280-7446d42cec3b",
+          "settings": {
+          }
+        },
+        "klaviyo_email_marketing_sms_form_embed_block_H3Ly9x": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "disabled": true,
+          "settings": {
+            "formId": "VRZCAV"
+          }
+        }
+      },
+      "block_order": [
+        "google_reviews_plus_app_block_Vtw4YU",
+        "klaviyo_email_marketing_sms_form_embed_block_H3Ly9x"
+      ],
+      "settings": {
+        "include_margins": false
+      }
+    },
+    "section_collection_carousel_YXydg4": {
+      "type": "section-collection-carousel",
+      "settings": {
+        "heading": "Best Sellers",
+        "description": "",
+        "text_alignment": "inline",
+        "link_text": "Shop All",
+        "link_url": "",
+        "button_color": "btn--black",
+        "button_style": "hero__btn btn btn--input btn--outline caps",
+        "featured_collection": "new"
+      }
+    },
     "aa04d330-01f5-4144-8cd5-5a74172dde59": {
       "type": "section-hero",
       "disabled": true,
@@ -19,25 +69,6 @@
         "link": "",
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--large btn--outline caps"
-      }
-    },
-    "dd4284bf-2f48-4443-95aa-39ce0b53c07e": {
-      "type": "section-collection",
-      "custom_css": [
-        "div {border: solid #fff 2px;}"
-      ],
-      "settings": {
-        "heading": "Wooden Topographic Maps",
-        "description": "<p>Celebrate Life's Milestones with a Blend of Art & Geography<\/p>",
-        "text_alignment": "center",
-        "link_text": "",
-        "link_url": "shopify:\/\/collections\/all-maps",
-        "button_color": "btn--black",
-        "button_style": "hero__btn btn btn--input btn--outline caps",
-        "featured_collection": "landing-collection",
-        "grid": 4,
-        "rows": 1,
-        "layout_mobile": "2"
       }
     },
     "8f437138-6964-497e-9d8b-6644c3c6fc82": {
@@ -166,40 +197,17 @@
         "lat": "",
         "long": ""
       }
-    },
-    "170650075617a8850a": {
-      "type": "apps",
-      "blocks": {
-        "klaviyo_email_marketing_sms_form_embed_block_H3Ly9x": {
-          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
-          "disabled": true,
-          "settings": {
-            "formId": "VRZCAV"
-          }
-        },
-        "google_reviews_plus_app_block_Vtw4YU": {
-          "type": "shopify:\/\/apps\/google-reviews-plus\/blocks\/app-block\/d11c8893-a181-4aff-a280-7446d42cec3b",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "klaviyo_email_marketing_sms_form_embed_block_H3Ly9x",
-        "google_reviews_plus_app_block_Vtw4YU"
-      ],
-      "settings": {
-        "include_margins": false
-      }
     }
   },
   "order": [
+    "section_collection_carousel_kJKL9n",
+    "170650075617a8850a",
+    "section_collection_carousel_YXydg4",
     "aa04d330-01f5-4144-8cd5-5a74172dde59",
-    "dd4284bf-2f48-4443-95aa-39ce0b53c07e",
     "8f437138-6964-497e-9d8b-6644c3c6fc82",
     "2893b0c6-7011-4012-98d5-f37dc6ed0383",
     "section_custom_content_E68hDm",
     "16649216157b87533d",
-    "bad05730-1545-4e96-bb85-e7018736a854",
-    "170650075617a8850a"
+    "bad05730-1545-4e96-bb85-e7018736a854"
   ]
 }
