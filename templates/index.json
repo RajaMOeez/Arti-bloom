@@ -2,6 +2,7 @@
   "sections": {
     "aa04d330-01f5-4144-8cd5-5a74172dde59": {
       "type": "section-hero",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/DetailClarksville_1de3932f-9691-4751-bb30-2d2056e34870.jpg",
         "mobile_image": "shopify:\/\/shop_images\/Mountain-Peaks-Wooden-Contour-Map_876bf85d-de56-4a79-9f7f-0d47eba5c3db.png",
@@ -26,16 +27,16 @@
         "div {border: solid #fff 2px;}"
       ],
       "settings": {
-        "heading": "Collection Best Sellers",
-        "description": "",
+        "heading": "Wooden Topographic Maps",
+        "description": "<p>Celebrate Life's Milestones with a Blend of Art & Geography<\/p>",
         "text_alignment": "center",
-        "link_text": "SHOP NOW - Browse All Maps",
+        "link_text": "",
         "link_url": "shopify:\/\/collections\/all-maps",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--input btn--outline caps",
         "featured_collection": "landing-collection",
         "grid": 4,
-        "rows": 3,
+        "rows": 1,
         "layout_mobile": "2"
       }
     },
