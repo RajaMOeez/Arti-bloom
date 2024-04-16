@@ -3,8 +3,8 @@
     "hero": {
       "type": "collection-image-with-title",
       "settings": {
-        "show_title": false,
-        "show_description": false,
+        "show_title": true,
+        "show_description": true,
         "text_color": "text-dark",
         "flex_align": "align--middle-left",
         "transparent": false,
