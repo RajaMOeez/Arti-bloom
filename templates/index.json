@@ -44,7 +44,7 @@
         "description": "",
         "text_alignment": "inline",
         "link_text": "Shop All",
-        "link_url": "",
+        "link_url": "shopify:\/\/collections\/new",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--input btn--outline caps",
         "featured_collection": "land-collection-new"
