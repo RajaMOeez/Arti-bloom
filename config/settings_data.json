@@ -81,11 +81,11 @@
       "header": {
         "type": "header",
         "settings": {
-          "header_style": "logo_above",
+          "header_style": "logo_beside",
           "icon_family": "bold",
           "icon_size": "large",
-          "logo": "shopify:\/\/shop_images\/LogoOriginMaps-01.png",
-          "logo_max_limit": 180,
+          "logo": "shopify:\/\/shop_images\/ORIGIN_MAPS_LOGO_VARIATIONS__Mesa_de_trabajo_1-06.png",
+          "logo_max_limit": 200,
           "main_menu_linklist": "main-menu",
           "enable_search": true,
           "show_social_icons": true,
@@ -103,7 +103,7 @@
           "text_t3LhzA": {
             "type": "text",
             "settings": {
-              "text": "<p>LEAD TIMES - Collection Production: <strong>3 Days<\/strong> | Custom Orders: <strong>6-7 Days<br\/><\/strong>All maps are made to order - Shipped worldwide<\/p>",
+              "text": "<p>LEAD TIMES - Collection Production: <strong>3 Days<\/strong> | Custom Orders: <strong>6-7 Days<br\/><\/strong>All maps are made to order - FREE Shipping Worldwide<\/p>",
               "target_url_enabled": false,
               "target_url": "",
               "target_referrer_enabled": false,
