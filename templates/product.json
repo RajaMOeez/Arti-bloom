@@ -6,10 +6,10 @@
         "price_and_title": {
           "type": "price_and_title",
           "settings": {
-            "subheading_option": "breadcrumb",
+            "subheading_option": "none",
             "show_rating": true,
             "enable_star_rating": true,
-            "show_rating_count": false
+            "show_rating_count": true
           }
         },
         "cbe682e2-0636-4572-bfbb-5849a1a2994c": {
@@ -43,15 +43,7 @@
           "settings": {
             "icon_name": "icon-rating",
             "icon_color": "#e4ca35",
-            "title": "<b>Rave reviews<\/b> - Average review rating is 4.8 or higher."
-          }
-        },
-        "icon_8yRnwP": {
-          "type": "icon",
-          "settings": {
-            "icon_name": "icon-email",
-            "icon_color": "#01ac03",
-            "title": "Speedy Replies - Has a history of replying to messages quickly."
+            "title": "<b>Rave reviews<\/b> - Average review rating is 4.8 or higher"
           }
         },
         "icon_tkxnrc": {
@@ -59,7 +51,15 @@
           "settings": {
             "icon_name": "icon-shipment",
             "icon_color": "#b7854a",
-            "title": "Free Worldwide Delivery -  Handmade from Australia."
+            "title": "<b>Free Worldwide Delivery<\/b> -  Handmade from Australia"
+          }
+        },
+        "icon_8yRnwP": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-basket-return",
+            "icon_color": "#01ac03",
+            "title": "<b>Returns & Exchanges<\/b> - accepted within 30 days"
           }
         },
         "form": {
@@ -95,8 +95,8 @@
         "price_and_title",
         "cbe682e2-0636-4572-bfbb-5849a1a2994c",
         "icon_CDFfD9",
-        "icon_8yRnwP",
         "icon_tkxnrc",
+        "icon_8yRnwP",
         "form",
         "tabs"
       ],
