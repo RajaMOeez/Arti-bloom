@@ -34,6 +34,22 @@
         "bg_color": "#ffffff"
       }
     },
+    "section_collection_carousel_kRLzhC": {
+      "type": "section-collection-carousel",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "heading": "Custom Designs",
+        "description": "<p>Dreaming of a bespoke wooden map that perfectly captures your favourite landscapes, cities, or memories? Now's your chance to bring those dreams to life! <\/p>",
+        "text_alignment": "left",
+        "link_text": "Start Your Design Today >",
+        "link_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "hero__btn btn btn--input caps",
+        "featured_collection": "custom"
+      }
+    },
     "5b8a6f61-0747-4351-a798-880567aeeb99": {
       "type": "section-split-hero",
       "settings": {
@@ -121,6 +137,7 @@
         "image_xc6g6c",
         "text_LMQfXT"
       ],
+      "disabled": true,
       "settings": {
         "height": "screen-height-one-half",
         "padding": false,
@@ -152,6 +169,7 @@
   "order": [
     "main",
     "06e93819-8b55-4a8c-a7ab-cc3138672979",
+    "section_collection_carousel_kRLzhC",
     "5b8a6f61-0747-4351-a798-880567aeeb99",
     "8e66199a-b72e-4f45-9e12-13ea671f7855",
     "section_custom_content_bFKjpV",
