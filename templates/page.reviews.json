@@ -25,7 +25,7 @@
         "text_size": 2,
         "align_text": "text-center",
         "height": "margin--small",
-        "width": "wrapper--narrow",
+        "width": "wrapper--full",
         "text_color": "text-dark",
         "bg_color": "#ffffff"
       }
