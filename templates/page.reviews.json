@@ -1,5 +1,21 @@
 {
   "sections": {
+    "17146140111d7a3986": {
+      "type": "apps",
+      "blocks": {
+        "google_reviews_plus_app_block_PJbeG6": {
+          "type": "shopify:\/\/apps\/google-reviews-plus\/blocks\/app-block\/d11c8893-a181-4aff-a280-7446d42cec3b",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "google_reviews_plus_app_block_PJbeG6"
+      ],
+      "settings": {
+        "include_margins": false
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -16,6 +32,7 @@
     }
   },
   "order": [
+    "17146140111d7a3986",
     "main"
   ]
 }
