@@ -38,6 +38,30 @@
             "product": "{{product}}"
           }
         },
+        "icon_EgBPQL": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-rating",
+            "icon_color": "#e4ca35",
+            "title": "<b>Rave reviews<\/b> - Over 50 five star reviews"
+          }
+        },
+        "icon_7rxGxe": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-shipment",
+            "icon_color": "#b7854a",
+            "title": "<b>Free Worldwide Delivery<\/b> -  Handmade from Australia"
+          }
+        },
+        "icon_T3GfHy": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-basket-return",
+            "icon_color": "#01ac03",
+            "title": "<b>Returns & Exchanges<\/b> - accepted within 30 days"
+          }
+        },
         "form": {
           "type": "form",
           "settings": {
@@ -54,7 +78,7 @@
           "settings": {
             "show_read_more": true,
             "style": "tabs",
-            "title_1": "Shipping",
+            "title_1": "FREE Shipping",
             "raw_content_1": "<p><strong>Free Shipping - Australia Post<\/strong><\/p><p><strong>AUS<\/strong> - 2 to 6 business days<\/p><p><strong>USA<\/strong> - 6 to 10 business days<\/p><p><strong>NZ \/ CA \/ EU<\/strong> - 6 to 15 business days<\/p><p>.<\/p><p>Expedited shipping available at checkout. For more details click <a href=\"\/pages\/faq\" title=\"FAQ\">here for FAQ.<\/a><\/p><p>.<\/p><p>Custom fulfilment takes 5 business days - once your order is placed I'll email you a digital draft within 2 business days, then once you approve of the draft, fabrication will take a further 3 business days.<\/p>",
             "title_2": "Returns",
             "raw_content_2": "<p><strong>100% satisfaction guarantee<\/strong><\/p><p>If you're not satisfied with your map, simply return it within 30 days and once the map has returned to our workshop, a full refund will be remitted. No questions asked.<\/p><p><strong>100% damage free guarantee<\/strong><\/p><p>If your map is damaged during transit we will send you a full replacement at no extra cost, or the piece can be reframed at a store local to you and we will fully reimburse you for the reframing cost.<\/p>",
@@ -70,6 +94,9 @@
       "block_order": [
         "price_and_title",
         "a74b9df9-83cf-406a-8a60-07c730e7edb9",
+        "icon_EgBPQL",
+        "icon_7rxGxe",
+        "icon_T3GfHy",
         "form",
         "tabs"
       ],
