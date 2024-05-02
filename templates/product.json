@@ -43,7 +43,7 @@
           "settings": {
             "icon_name": "icon-rating",
             "icon_color": "#e4ca35",
-            "title": "<b>Rave reviews<\/b> - Average review rating is 4.8 or higher"
+            "title": "<b>Rave reviews<\/b> - Over 50 five star reviews"
           }
         },
         "icon_tkxnrc": {
@@ -59,7 +59,7 @@
           "settings": {
             "icon_name": "icon-basket-return",
             "icon_color": "#01ac03",
-            "title": "<b>Returns & Exchanges<\/b> - accepted within 30 days"
+            "title": "Returns & Exchanges - accepted within 30 days"
           }
         },
         "form": {
