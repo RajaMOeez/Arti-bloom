@@ -1,5 +1,12 @@
 {
   "sections": {
+    "custom_html_LJhTAJ": {
+      "type": "custom-html",
+      "settings": {
+        "html": "",
+        "show_padding": true
+      }
+    },
     "17146140111d7a3986": {
       "type": "apps",
       "blocks": {
@@ -32,6 +39,7 @@
     }
   },
   "order": [
+    "custom_html_LJhTAJ",
     "17146140111d7a3986",
     "main"
   ]
