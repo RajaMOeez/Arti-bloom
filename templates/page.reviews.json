@@ -20,7 +20,7 @@
       "type": "main-page",
       "settings": {
         "subheading": "",
-        "show_title": true,
+        "show_title": false,
         "show_content": true,
         "text_size": 2,
         "align_text": "text-center",
