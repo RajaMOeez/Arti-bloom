@@ -36,11 +36,25 @@
         "text_color": "text-dark",
         "bg_color": "#ffffff"
       }
+    },
+    "section_collection_carousel_HPwWhy": {
+      "type": "section-collection-carousel",
+      "settings": {
+        "heading": "Start Browsing",
+        "description": "",
+        "text_alignment": "center",
+        "link_text": "View ALL Maps",
+        "link_url": "",
+        "button_color": "btn--black",
+        "button_style": "hero__btn btn btn--input btn--outline caps",
+        "featured_collection": "all-maps"
+      }
     }
   },
   "order": [
     "custom_html_LJhTAJ",
     "17146140111d7a3986",
-    "main"
+    "main",
+    "section_collection_carousel_HPwWhy"
   ]
 }
