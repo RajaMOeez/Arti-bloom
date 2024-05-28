@@ -13,9 +13,121 @@
         "text_color": "text-dark",
         "bg_color": "#ffffff"
       }
+    },
+    "section_custom_content_Q4rCfq": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image_RJ4Unh": {
+          "type": "image",
+          "settings": {
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "Image with text",
+            "description": "Tell your brand's story through images.",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "text_HMKcKc": {
+          "type": "text",
+          "settings": {
+            "subheading": "Introducing",
+            "title": "Text block",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "Learn more",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "image_RJ4Unh",
+        "text_HMKcKc"
+      ],
+      "settings": {
+        "height": "sixty-fifty-height-hero",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "section_columns_hQe7dV": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_V3jDaV": {
+          "type": "text_block",
+          "settings": {
+            "bg_position": "center-center",
+            "title": "Add a title or tagline",
+            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_text": "Learn more",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "text_block_PEAkQk": {
+          "type": "text_block",
+          "settings": {
+            "bg_position": "center-center",
+            "title": "Add a title or tagline",
+            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_text": "Learn more",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "text_block_Te7cJ8": {
+          "type": "text_block",
+          "settings": {
+            "bg_position": "center-center",
+            "title": "Add a title or tagline",
+            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_text": "Learn more",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_V3jDaV",
+        "text_block_PEAkQk",
+        "text_block_Te7cJ8"
+      ],
+      "settings": {
+        "title": "",
+        "bg_color": "#ffffff",
+        "align_text": "text-left",
+        "width": "wrapper--full",
+        "equalize_height": true,
+        "photo_aspect_ratio": 0.7,
+        "enable_image": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "section_custom_content_Q4rCfq",
+    "section_columns_hQe7dV"
   ]
 }
