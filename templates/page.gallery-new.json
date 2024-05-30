@@ -13,9 +13,179 @@
         "text_color": "text-dark",
         "bg_color": "#ffffff"
       }
+    },
+    "section_rich_text_pJ3HBw": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "The Perfect Gift",
+        "text": "<p>Discover the perfect gift that speaks from the heart with our selection of topographic maps. Whether it’s a memorable location, a beloved hometown, or a dream destination, our crafted wooden maps are designed to evoke nostalgia and celebrate special moments. Ideal for birthdays, anniversaries, and special occasions, these maps are more than gifts—they're keepsakes.<\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "section_columns_yMUBcU": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_mnAaPM": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LebanonDanny_7b8e1b7d-040f-40d8-a4f6-b3a319ec67cb.jpg",
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "text_block_7WCirm": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PNGLuke2.jpg",
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_text": "Start Your Perfect Gift Journey",
+            "button_url": "shopify:\/\/collections\/all-maps",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--input caps",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "text_block_tJKkGh": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/QLD_e4867f19-6512-4728-a919-cc96adbe1a95.png",
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_text": "",
+            "button_url": "shopify:\/\/collections",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--input caps",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_mnAaPM",
+        "text_block_7WCirm",
+        "text_block_tJKkGh"
+      ],
+      "settings": {
+        "title": "",
+        "bg_color": "#ffffff",
+        "align_text": "text-left",
+        "width": "wrapper--full",
+        "equalize_height": true,
+        "photo_aspect_ratio": 0.7,
+        "enable_image": true
+      }
+    },
+    "section_rich_text_cETRmF": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Ideal for All Parts of the Home",
+        "text": "<p>Enhance any room with a piece of the world carved in wood. Our versatile collection features maps that complement every space—from the quietude of a study to the liveliness of a living room. Choose from a variety of sizes and styles to add a touch of elegance and intrigue to your home decor.<\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "section_columns_QEmfnB": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_kXJc7h": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TopoBed_d29b0064-d183-4168-bea8-30587efd2a73.jpg",
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "text_block_rm6eV6": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TopoToilet.jpg",
+            "bg_position": "center-top",
+            "title": "",
+            "text": "",
+            "button_text": "Browse",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "text_block_jmwcqg": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/UlladullaFiona.jpg",
+            "bg_position": "center-center",
+            "title": "Add a title or tagline",
+            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_text": "Learn more",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_kXJc7h",
+        "text_block_rm6eV6",
+        "text_block_jmwcqg"
+      ],
+      "settings": {
+        "title": "",
+        "bg_color": "#ffffff",
+        "align_text": "text-left",
+        "width": "wrapper--full",
+        "equalize_height": true,
+        "photo_aspect_ratio": 0.7,
+        "enable_image": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "section_rich_text_pJ3HBw",
+    "section_columns_yMUBcU",
+    "section_rich_text_cETRmF",
+    "section_columns_QEmfnB"
   ]
 }
