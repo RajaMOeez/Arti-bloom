@@ -179,7 +179,7 @@
         "button_url": "",
         "button_color": "btn--neutral",
         "button_style": "caps--large",
-        "height": "margin--medium",
+        "height": "margin--small",
         "width": "wrapper",
         "text_color": "text-dark",
         "bg_color": "#ffffff"
