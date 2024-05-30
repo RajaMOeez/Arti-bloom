@@ -22,7 +22,7 @@
         "text": "<p>Discover the perfect gift that speaks from the heart with our selection of topographic maps. Whether it’s a memorable location, a beloved hometown, or a dream destination, our crafted wooden maps are designed to evoke nostalgia and celebrate special moments. Ideal for birthdays, anniversaries, and special occasions, these maps are more than gifts—they're keepsakes.<\/p>",
         "text_size": 2,
         "text_columns": 1,
-        "align_text": "text-left",
+        "align_text": "text-center",
         "button_text": "",
         "button_url": "",
         "button_color": "btn--neutral",
@@ -105,7 +105,7 @@
         "text": "<p>Enhance any room with a piece of the world carved in wood. Our versatile collection features maps that complement every space—from the quietude of a study to the liveliness of a living room. Choose from a variety of sizes and styles to add a touch of elegance and intrigue to your home decor.<\/p>",
         "text_size": 2,
         "text_columns": 1,
-        "align_text": "text-left",
+        "align_text": "text-center",
         "button_text": "",
         "button_url": "",
         "button_color": "btn--neutral",
@@ -179,6 +179,169 @@
         "photo_aspect_ratio": 0.7,
         "enable_image": true
       }
+    },
+    "section_rich_text_nnKtxJ": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Great for Corporates and Businesses",
+        "text": "<p>Elevate your business space with a bespoke wooden map that reflects corporate excellence and global connectivity. Ideal for offices, meeting rooms, and reception areas, these maps serve not only as sophisticated decor but also as a symbol of your business’s scope and vision. Customise a map to showcase company locations, celebrate achievements, or gift to esteemed partners and clients.<\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--medium",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "section_columns_E89qk6": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_bnbmYH": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/USWestCoastKai1.jpg",
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "text_block_34Mbty": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LebanonWine.jpg",
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_text": "Let's Chat About Your Corporate Custom Project",
+            "button_url": "shopify:\/\/pages\/custom",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--input caps",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "text_block_eRCjar": {
+          "type": "text_block",
+          "settings": {
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_bnbmYH",
+        "text_block_34Mbty",
+        "text_block_eRCjar"
+      ],
+      "settings": {
+        "title": "",
+        "bg_color": "#ffffff",
+        "align_text": "text-left",
+        "width": "wrapper--full",
+        "equalize_height": true,
+        "photo_aspect_ratio": 0.7,
+        "enable_image": true
+      }
+    },
+    "section_rich_text_qhQMyE": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Great for Farms and Landowners",
+        "text": "<p>Tailored specifically for landowners and farmers, our detailed topographic maps provide a unique bird’s-eye view of your land. These custom maps are perfect for displaying the breadth of your property, understanding its topography, or planning future developments. They also make excellent gifts or showpieces for farm offices and country homes.<\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "section_columns_a39hth": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_mYtjPf": {
+          "type": "text_block",
+          "settings": {
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "text_block_KwneEe": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/QLDRenee.png",
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_text": "Let's Create Your Farm Map",
+            "button_url": "shopify:\/\/collections\/custom",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--input caps",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "text_block_UH7w9W": {
+          "type": "text_block",
+          "settings": {
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_mYtjPf",
+        "text_block_KwneEe",
+        "text_block_UH7w9W"
+      ],
+      "settings": {
+        "title": "",
+        "bg_color": "#ffffff",
+        "align_text": "text-left",
+        "width": "wrapper--full",
+        "equalize_height": true,
+        "photo_aspect_ratio": 0.7,
+        "enable_image": true
+      }
     }
   },
   "order": [
@@ -186,6 +349,10 @@
     "section_rich_text_pJ3HBw",
     "section_columns_yMUBcU",
     "section_rich_text_cETRmF",
-    "section_columns_QEmfnB"
+    "section_columns_QEmfnB",
+    "section_rich_text_nnKtxJ",
+    "section_columns_E89qk6",
+    "section_rich_text_qhQMyE",
+    "section_columns_a39hth"
   ]
 }
