@@ -141,10 +141,10 @@
             "bg_position": "center-top",
             "title": "",
             "text": "",
-            "button_text": "Browse",
-            "button_url": "",
+            "button_text": "Browse Ideas for Your Home",
+            "button_url": "shopify:\/\/collections\/best-sellers",
             "button_color": "btn--neutral",
-            "button_style": "caps--large",
+            "button_style": "hero__btn btn btn--input caps",
             "enable_video": false,
             "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
           }
@@ -154,9 +154,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/UlladullaFiona.jpg",
             "bg_position": "center-center",
-            "title": "Add a title or tagline",
-            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_text": "Learn more",
+            "title": "",
+            "text": "",
+            "button_text": "",
             "button_url": "",
             "button_color": "btn--neutral",
             "button_style": "caps--large",
