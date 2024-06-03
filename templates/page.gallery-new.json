@@ -30,7 +30,7 @@
             "title": "",
             "text": "",
             "button_text": "",
-            "button_url": "",
+            "button_url": "shopify:\/\/collections\/all-maps",
             "button_color": "btn--neutral",
             "button_style": "caps--large",
             "enable_video": false,
@@ -113,9 +113,24 @@
             "title": "",
             "text": "",
             "button_text": "",
-            "button_url": "",
+            "button_url": "shopify:\/\/collections\/best-sellers",
             "button_color": "btn--neutral",
             "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "text_block_DjY7RC": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Iceland_17522099-7cf9-4964-9d91-a741d593abf1.jpg",
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_text": "Browse Ideas For Your Home",
+            "button_url": "shopify:\/\/collections\/best-sellers",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--input caps",
             "enable_video": false,
             "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
           }
@@ -127,7 +142,7 @@
             "bg_position": "center-top",
             "title": "",
             "text": "",
-            "button_text": "Browse Ideas for Your Home",
+            "button_text": "",
             "button_url": "shopify:\/\/collections\/best-sellers",
             "button_color": "btn--neutral",
             "button_style": "hero__btn btn btn--input caps",
@@ -143,6 +158,21 @@
             "title": "",
             "text": "",
             "button_text": "",
+            "button_url": "shopify:\/\/collections\/all-maps",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "text_block_KfHPQf": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AusLeb.png",
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_text": "",
             "button_url": "",
             "button_color": "btn--neutral",
             "button_style": "caps--large",
@@ -150,15 +180,15 @@
             "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
           }
         },
-        "text_block_DjY7RC": {
+        "text_block_ydPqEP": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Iceland_17522099-7cf9-4964-9d91-a741d593abf1.jpg",
+            "image": "shopify:\/\/shop_images\/Arkansas.png",
             "bg_position": "center-center",
             "title": "",
             "text": "",
             "button_text": "",
-            "button_url": "shopify:\/\/collections\/all-maps",
+            "button_url": "",
             "button_color": "btn--neutral",
             "button_style": "caps--large",
             "enable_video": false,
@@ -168,9 +198,11 @@
       },
       "block_order": [
         "text_block_kXJc7h",
+        "text_block_DjY7RC",
         "text_block_rm6eV6",
         "text_block_jmwcqg",
-        "text_block_DjY7RC"
+        "text_block_KfHPQf",
+        "text_block_ydPqEP"
       ],
       "settings": {
         "title": "",
