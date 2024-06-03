@@ -37,10 +37,10 @@
             "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
           }
         },
-        "text_block_7WCirm": {
+        "text_block_tJKkGh": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PNGLuke2.jpg",
+            "image": "shopify:\/\/shop_images\/QLD_e4867f19-6512-4728-a919-cc96adbe1a95.png",
             "bg_position": "center-center",
             "title": "",
             "text": "",
@@ -52,15 +52,15 @@
             "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
           }
         },
-        "text_block_tJKkGh": {
+        "text_block_7WCirm": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/QLD_e4867f19-6512-4728-a919-cc96adbe1a95.png",
+            "image": "shopify:\/\/shop_images\/PNGLuke2.jpg",
             "bg_position": "center-center",
             "title": "",
             "text": "",
             "button_text": "",
-            "button_url": "shopify:\/\/collections",
+            "button_url": "shopify:\/\/collections\/all-maps",
             "button_color": "btn--neutral",
             "button_style": "hero__btn btn btn--input caps",
             "enable_video": false,
@@ -70,8 +70,8 @@
       },
       "block_order": [
         "text_block_mnAaPM",
-        "text_block_7WCirm",
-        "text_block_tJKkGh"
+        "text_block_tJKkGh",
+        "text_block_7WCirm"
       ],
       "settings": {
         "title": "",
@@ -149,12 +149,28 @@
             "enable_video": false,
             "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
           }
+        },
+        "text_block_DjY7RC": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Iceland_17522099-7cf9-4964-9d91-a741d593abf1.jpg",
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_text": "",
+            "button_url": "shopify:\/\/collections\/all-maps",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
         }
       },
       "block_order": [
         "text_block_kXJc7h",
         "text_block_rm6eV6",
-        "text_block_jmwcqg"
+        "text_block_jmwcqg",
+        "text_block_DjY7RC"
       ],
       "settings": {
         "title": "",
