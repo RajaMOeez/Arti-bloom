@@ -269,6 +269,7 @@
         "text_block_eRCjar": {
           "type": "text_block",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Sydney.jpg",
             "bg_position": "center-center",
             "title": "",
             "text": "",
@@ -318,9 +319,10 @@
     "section_columns_a39hth": {
       "type": "section-columns",
       "blocks": {
-        "text_block_mYtjPf": {
+        "text_block_w74rbj": {
           "type": "text_block",
           "settings": {
+            "image": "shopify:\/\/shop_images\/ProfileClose_2231d179-9fa6-46f5-8e85-22ae489fa4cc.jpg",
             "bg_position": "center-center",
             "title": "",
             "text": "",
@@ -347,9 +349,10 @@
             "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
           }
         },
-        "text_block_UH7w9W": {
+        "text_block_3KTgpn": {
           "type": "text_block",
           "settings": {
+            "image": "shopify:\/\/shop_images\/PhotoRoom-20230620_002309.png",
             "bg_position": "center-center",
             "title": "",
             "text": "",
@@ -363,9 +366,9 @@
         }
       },
       "block_order": [
-        "text_block_mYtjPf",
+        "text_block_w74rbj",
         "text_block_KwneEe",
-        "text_block_UH7w9W"
+        "text_block_3KTgpn"
       ],
       "settings": {
         "title": "",
