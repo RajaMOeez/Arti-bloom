@@ -1,18 +1,47 @@
-<section class="page">
-	<h2 class="theme">{{ 'general.404.title' | t }}</h2>
-	<p class="center text--404">{{ 'general.404.subtext_html' | t }}</p>
-
-	<div class="search-outer">
+<section class="page page-404">
+  <div class="page-404__content">
+    <h2 class="theme">{{ 'general.404.title' | t }}</h2>
+    <p class="center text--404">{{ 'general.404.subtext_html' | t }}</p>
+    <div class="search-outer">
       <form action="{{ routes.search_url }}" class="search-form">
-          <input type="text" name="q" class="search-box" placeholder="Find products" value="{{ search.terms }}"/>
-          <button type="submit" class="search-submit">Search</button>
+        <input type="text" name="q" class="search-box" placeholder="Find products" value="{{ search.terms }}"/>
+        <button type="submit" class="search-submit">Search</button>
       </form>
     </div>
+  </div>
 </section>
 
 {% schema %}
 {
   "name": "404",
-  "templates": ["404"]
+  "templates": ["404"],
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "background_image",
+      "label": "Background Image"
+    }
+  ]
 }
 {% endschema %}
+
+<style>
+  .page-404 {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('{{ section.settings.background_image | img_url: 'master' }}');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .page-404__content {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 2rem;
+    border-radius: 8px;
+    text-align: center;
+  }
+</style>
