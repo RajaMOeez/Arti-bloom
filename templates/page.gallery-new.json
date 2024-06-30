@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "section_rich_text_pJ3HBw": {
@@ -222,7 +231,7 @@
         "text": "<p>Elevate your business space with a bespoke wooden map that reflects corporate excellence and global connectivity. Ideal for offices, meeting rooms, and reception areas, these maps serve not only as sophisticated decor but also as a symbol of your business’s scope and vision. Customise a map to showcase company locations, celebrate achievements, or gift to esteemed partners and clients.<\/p>",
         "text_size": 2,
         "text_columns": 1,
-        "align_text": "text-left",
+        "align_text": "text-center",
         "button_text": "",
         "button_url": "",
         "button_color": "btn--neutral",
@@ -305,7 +314,7 @@
         "text": "<p>Tailored specifically for landowners and farmers, our detailed topographic maps provide a unique bird’s-eye view of your land. These custom maps are perfect for displaying the breadth of your property, understanding its topography, or planning future developments. They also make excellent gifts or showpieces for farm offices and country homes.<\/p>",
         "text_size": 2,
         "text_columns": 1,
-        "align_text": "text-left",
+        "align_text": "text-center",
         "button_text": "",
         "button_url": "",
         "button_color": "btn--neutral",
