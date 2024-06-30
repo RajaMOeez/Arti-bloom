@@ -46,6 +46,7 @@
         "image_HGK9jD": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/bbbb_d90e37a2-ce52-4057-a315-8e8c68295ad3.png",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
@@ -78,6 +79,7 @@
         "image_KNhytQ": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Rhiny.png",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
@@ -144,6 +146,7 @@
         "image_EpXjhW": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/drafty.png",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
@@ -176,6 +179,7 @@
         "image_HfN3ND": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/laaast_74d90584-7638-40e4-a3e0-02735b2a45cb.png",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
@@ -242,6 +246,7 @@
         "image_drUAeM": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/framey_ccc7590a-f969-40c3-b2a2-57aa89bb51e5.png",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
