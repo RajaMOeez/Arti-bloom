@@ -29,18 +29,22 @@
   .page-404 {
     position: relative;
     min-height: 100vh;
+    width: 100vw;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
     display: flex;
     align-items: flex-end;
     justify-content: center;
-    background-image: url('{{ section.settings.background_image | img_url: 'master' }}');
+    background-image: url('{{ section.settings.background_image | img_url: '2000x' }}');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
   }
 
   .page-404__content {
-    background-color: rgba(255, 255, 255, 0.6); /* Reduced opacity */
-    padding: 1rem; /* Reduced padding */
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 1rem;
     border-radius: 8px 8px 0 0;
     text-align: center;
     width: 100%;
@@ -81,5 +85,11 @@
 
   .search-submit:hover {
     background-color: #555;
+  }
+
+  @media screen and (min-width: 1200px) {
+    .page-404 {
+      background-size: 100% auto;
+    }
   }
 </style>
