@@ -29,9 +29,9 @@
         "text_fwngnE": {
           "type": "text",
           "settings": {
-            "subheading": "Introducing",
-            "title": "",
-            "text": "<p>First is confirming the map extent with you.<\/p><p><\/p>",
+            "subheading": "",
+            "title": "1. Map Extent",
+            "text": "<p>The first step, is to confirm the map extent with you.<\/p><p>We review topographic data of the area, along with any other important information such as locations you would like to be included, property boundaries, and street data. <\/p><p>From this, we provide you with recommendations on the map extent.<\/p><p><em>* We can internally source all of this data, so you don't need to worry about providing this information.<\/em><\/p><p><\/p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
@@ -48,7 +48,7 @@
           "settings": {
             "bg_position": "center-center",
             "overlay_opacity": 0,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "title": "",
             "description": "",
             "flex_align": "align--middle-center",
@@ -80,7 +80,7 @@
           "settings": {
             "bg_position": "center-center",
             "overlay_opacity": 0,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "title": "Image with text",
             "description": "Tell your brand's story through images.",
             "flex_align": "align--middle-center",
@@ -95,15 +95,15 @@
         "text_AieFK8": {
           "type": "text",
           "settings": {
-            "subheading": "Introducing",
-            "title": "Text block",
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "subheading": "",
+            "title": "2. Sourcing & Processing Data",
+            "text": "<p>We use various public repositories for topographic and street data. For example NASA data for large scale maps, and then for more zoomed in maps, we use data from local government bodies to achieve a higher resolution map. <\/p><p>This data then needs to be cleaned and processed to make it suitable for laser engraving and cutting.<\/p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
             "text_color": "text-dark",
             "bg_color": "#ffffff",
-            "button_text": "Learn more",
+            "button_text": "",
             "button_url": "",
             "button_color": "btn--neutral",
             "button_style": "hero__btn btn btn--large btn--outline caps"
@@ -146,7 +146,7 @@
           "settings": {
             "bg_position": "center-center",
             "overlay_opacity": 0,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "title": "Image with text",
             "description": "Tell your brand's story through images.",
             "flex_align": "align--middle-center",
@@ -178,7 +178,7 @@
           "settings": {
             "bg_position": "center-center",
             "overlay_opacity": 0,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "title": "Image with text",
             "description": "Tell your brand's story through images.",
             "flex_align": "align--middle-center",
@@ -244,7 +244,7 @@
           "settings": {
             "bg_position": "center-center",
             "overlay_opacity": 0,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "title": "Image with text",
             "description": "Tell your brand's story through images.",
             "flex_align": "align--middle-center",
@@ -276,7 +276,7 @@
           "settings": {
             "bg_position": "center-center",
             "overlay_opacity": 0,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "title": "Image with text",
             "description": "Tell your brand's story through images.",
             "flex_align": "align--middle-center",
