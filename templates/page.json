@@ -227,7 +227,7 @@
           "settings": {
             "subheading": "",
             "title": "5. Fabrication - Assembly",
-            "text": "",
+            "text": "<p>Your map is now at the final stage of fabrication! <\/p><p>The many layers are carefully aligned and glued together, and then placed into a frame of Tasmanian Oak. This hardwood frame has been cut, sanded, stained, and oiled. <\/p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
@@ -293,7 +293,7 @@
           "settings": {
             "subheading": "",
             "title": "6. Dispatch",
-            "text": "<p>aa<\/p>",
+            "text": "<p>Lastly, your piece is carefully and securely packaged, and then dispatched to you.<\/p><p>The wait is almost over, and shipping notifications will now be coming through to your inbox :)<\/p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
