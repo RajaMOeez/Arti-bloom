@@ -39,8 +39,8 @@
   }
 
   .page-404__content {
-    background-color: rgba(255, 255, 255, 0.8);
-    padding: 2rem;
+    background-color: rgba(255, 255, 255, 0.6); /* Reduced opacity */
+    padding: 1rem; /* Reduced padding */
     border-radius: 8px 8px 0 0;
     text-align: center;
     width: 100%;
@@ -56,5 +56,30 @@
 
   .search-outer {
     margin-top: 1rem;
+  }
+
+  .search-form {
+    display: flex;
+    justify-content: center;
+  }
+
+  .search-box {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px 0 0 4px;
+    width: 200px;
+  }
+
+  .search-submit {
+    padding: 0.5rem 1rem;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+  }
+
+  .search-submit:hover {
+    background-color: #555;
   }
 </style>
