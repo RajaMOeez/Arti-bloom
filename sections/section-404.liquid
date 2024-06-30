@@ -1,7 +1,7 @@
 <section class="page page-404">
   <div class="page-404__content">
     <h2 class="theme">{{ 'general.404.title' | t }}</h2>
-    <p class="center text--404">{{ 'general.404.subtext_html' | t }}</p>
+    <p class="center text--404">Suspended between earth and sky, you stand where few have ventured. Search our archives below, to illuminate your path forward.</p>
     <div class="search-outer">
       <form action="{{ routes.search_url }}" class="search-form">
         <input type="text" name="q" class="search-box" placeholder="Find products" value="{{ search.terms }}"/>
@@ -30,7 +30,7 @@
     position: relative;
     min-height: 100vh;
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     justify-content: center;
     background-image: url('{{ section.settings.background_image | img_url: 'master' }}');
     background-size: cover;
@@ -41,7 +41,20 @@
   .page-404__content {
     background-color: rgba(255, 255, 255, 0.8);
     padding: 2rem;
-    border-radius: 8px;
+    border-radius: 8px 8px 0 0;
     text-align: center;
+    width: 100%;
+  }
+
+  .theme {
+    margin-top: 0;
+  }
+
+  .text--404 {
+    margin-bottom: 1rem;
+  }
+
+  .search-outer {
+    margin-top: 1rem;
   }
 </style>
