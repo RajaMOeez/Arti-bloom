@@ -12,63 +12,11 @@
     "main": {
       "type": "section-404",
       "settings": {
-      }
-    },
-    "section_slideshow_fPpYWP": {
-      "type": "section-slideshow",
-      "blocks": {
-        "image_CbcNC4": {
-          "type": "image",
-          "settings": {
-            "bg_position": "center-center",
-            "image": "shopify:\/\/shop_images\/Wandered.png",
-            "overlay_opacity": 0,
-            "overlay_color": "#000",
-            "title": "Image slide",
-            "description": "Tell your brand's story through images.",
-            "flex_align": "align--middle-center",
-            "text_color": "text-light",
-            "transparent": true,
-            "link_text": "View products",
-            "link": "",
-            "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        },
-        "image_wjCXjN": {
-          "type": "image",
-          "settings": {
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "overlay_color": "#000",
-            "title": "Image slide",
-            "description": "Tell your brand's story through images.",
-            "flex_align": "align--middle-center",
-            "text_color": "text-light",
-            "transparent": true,
-            "link_text": "View products",
-            "link": "",
-            "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        }
-      },
-      "block_order": [
-        "image_CbcNC4",
-        "image_wjCXjN"
-      ],
-      "settings": {
-        "height": "screen-height-two-thirds",
-        "transition": "slide",
-        "arrows_style": true,
-        "dots_style": "hidden",
-        "autoplay": false,
-        "autoplay_speed": 8
+        "background_image": "shopify:\/\/shop_images\/Wandered.png"
       }
     }
   },
   "order": [
-    "main",
-    "section_slideshow_fPpYWP"
+    "main"
   ]
 }
