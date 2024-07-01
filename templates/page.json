@@ -99,7 +99,7 @@
           "settings": {
             "subheading": "",
             "title": "2. Sourcing & Processing Data",
-            "text": "<p>We use various public repositories for topographic and street data. For example NASA data for large scale maps, and then for more zoomed in maps, we use data from local government to achieve a higher resolution map. <\/p><p>This data then needs to be cleaned and processed to make it suitable for laser engraving and cutting.<\/p>",
+            "text": "<p>We use various public repositories for topographic and street data. For example NASA data for large scale maps, and then for more zoomed in maps, we use data from local governments to achieve a higher resolution map. <\/p><p>This data then needs to be cleaned and processed to make it suitable for laser engraving and cutting.<\/p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
