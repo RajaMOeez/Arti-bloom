@@ -9,6 +9,89 @@
 */
 {
   "sections": {
+    "section_rich_text_qhQMyE": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Great for Farms and Landowners",
+        "text": "<p>Tailored specifically for landowners and farmers, our detailed topographic maps provide a unique bird’s-eye view of your land. These custom maps are perfect for displaying the breadth of your property, understanding its topography, or planning future developments. They also make excellent gifts or showpieces for farm offices and country homes.<\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-center",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "section_columns_a39hth": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_w74rbj": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ProfileClose_2231d179-9fa6-46f5-8e85-22ae489fa4cc.jpg",
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "text_block_KwneEe": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/QLDRenee.png",
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_text": "Let's Create Your Farm Map",
+            "button_url": "shopify:\/\/collections\/custom",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--input caps",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "text_block_3KTgpn": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PhotoRoom-20230620_002309.png",
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_w74rbj",
+        "text_block_KwneEe",
+        "text_block_3KTgpn"
+      ],
+      "settings": {
+        "title": "",
+        "bg_color": "#ffffff",
+        "align_text": "text-left",
+        "width": "wrapper--full",
+        "equalize_height": true,
+        "photo_aspect_ratio": 0.7,
+        "enable_image": true
+      }
+    },
     "section_rich_text_pJ3HBw": {
       "type": "section-rich-text",
       "settings": {
@@ -305,99 +388,16 @@
         "photo_aspect_ratio": 0.7,
         "enable_image": true
       }
-    },
-    "section_rich_text_qhQMyE": {
-      "type": "section-rich-text",
-      "settings": {
-        "subheading": "",
-        "title": "Great for Farms and Landowners",
-        "text": "<p>Tailored specifically for landowners and farmers, our detailed topographic maps provide a unique bird’s-eye view of your land. These custom maps are perfect for displaying the breadth of your property, understanding its topography, or planning future developments. They also make excellent gifts or showpieces for farm offices and country homes.<\/p>",
-        "text_size": 2,
-        "text_columns": 1,
-        "align_text": "text-center",
-        "button_text": "",
-        "button_url": "",
-        "button_color": "btn--neutral",
-        "button_style": "caps--large",
-        "height": "margin--small",
-        "width": "wrapper",
-        "text_color": "text-dark",
-        "bg_color": "#ffffff"
-      }
-    },
-    "section_columns_a39hth": {
-      "type": "section-columns",
-      "blocks": {
-        "text_block_w74rbj": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ProfileClose_2231d179-9fa6-46f5-8e85-22ae489fa4cc.jpg",
-            "bg_position": "center-center",
-            "title": "",
-            "text": "",
-            "button_text": "",
-            "button_url": "",
-            "button_color": "btn--neutral",
-            "button_style": "caps--large",
-            "enable_video": false,
-            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
-          }
-        },
-        "text_block_KwneEe": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/QLDRenee.png",
-            "bg_position": "center-center",
-            "title": "",
-            "text": "",
-            "button_text": "Let's Create Your Farm Map",
-            "button_url": "shopify:\/\/collections\/custom",
-            "button_color": "btn--neutral",
-            "button_style": "hero__btn btn btn--input caps",
-            "enable_video": false,
-            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
-          }
-        },
-        "text_block_3KTgpn": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/PhotoRoom-20230620_002309.png",
-            "bg_position": "center-center",
-            "title": "",
-            "text": "",
-            "button_text": "",
-            "button_url": "",
-            "button_color": "btn--neutral",
-            "button_style": "caps--large",
-            "enable_video": false,
-            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
-          }
-        }
-      },
-      "block_order": [
-        "text_block_w74rbj",
-        "text_block_KwneEe",
-        "text_block_3KTgpn"
-      ],
-      "settings": {
-        "title": "",
-        "bg_color": "#ffffff",
-        "align_text": "text-left",
-        "width": "wrapper--full",
-        "equalize_height": true,
-        "photo_aspect_ratio": 0.7,
-        "enable_image": true
-      }
     }
   },
   "order": [
+    "section_rich_text_qhQMyE",
+    "section_columns_a39hth",
     "section_rich_text_pJ3HBw",
     "section_columns_yMUBcU",
     "section_rich_text_cETRmF",
     "section_columns_QEmfnB",
     "section_rich_text_nnKtxJ",
-    "section_columns_E89qk6",
-    "section_rich_text_qhQMyE",
-    "section_columns_a39hth"
+    "section_columns_E89qk6"
   ]
 }
