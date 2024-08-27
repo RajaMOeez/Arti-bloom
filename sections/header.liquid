@@ -181,7 +181,7 @@
         </a>
       </div>
     {% endif %}
-
+{% include 'custom-currency' %}
     {% if section.settings.enable_search %}
       <div class="header__desktop__button{% if settings.type_nav_caps %} caps{% endif %}">
         <a href="{{ routes.search_url }}" class="navlink{% if icon_family_text == 'text' %} navlink--toplevel{% endif %}" data-popdown-toggle="search-popdown" data-focus-element title="{{ 'general.search.submit' | t }}">
