@@ -90,7 +90,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "header_style": "logo_beside",
+          "header_style": "logo_above",
           "icon_family": "bold",
           "icon_size": "large",
           "logo": "shopify:\/\/shop_images\/ORIGIN_LOGO_WHITE-05.png",
