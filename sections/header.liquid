@@ -184,7 +184,7 @@
 
     {% if section.settings.enable_search %}
       <div class="header__desktop__button{% if settings.type_nav_caps %} caps{% endif %}">
-        {% include 'custom-currency' %}
+        
         <a href="{{ routes.search_url }}" class="navlink{% if icon_family_text == 'text' %} navlink--toplevel{% endif %}" data-popdown-toggle="search-popdown" data-focus-element title="{{ 'general.search.submit' | t }}">
           {% render 'header-icon', filename: icon_string_search %}
           <span class="{% if icon_family_text == 'text' %}navtext{% else %}visually-hidden{% endif %}">{{ 'layout.header.search' | t }}</span>
@@ -352,7 +352,9 @@
             <div class="header__desktop__upper header__desktop__upper--reverse" data-takes-space-wrapper>
               <div data-child-takes-space class="header__desktop__bar__l">{{ logos }}</div>
               <div data-child-takes-space class="header__desktop__bar__c">{{ menu }}</div>
-              <div data-child-takes-space class="header__desktop__bar__r">{{ cart_content }}</div>
+              <div data-child-takes-space class="header__desktop__bar__r"><div style="margin-top: 35px;" >
+              {% include 'custom-currency' %}
+              </div>{{ cart_content }}</div>
             </div>
           {%- when 'drawer' -%}
             {%- comment -%} Do nothing for drawer {%- endcomment -%}
