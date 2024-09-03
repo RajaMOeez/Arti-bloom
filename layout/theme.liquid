@@ -158,16 +158,10 @@
     <meta name="description" content="{{ shop.description | escape }}">
   {% endif %}
 
-  {% if template == 'collection' %}
-
-    
-    {{ settings.collection_title }}
-    
-    
+  {% if template == 'collection' %}  
+    {{ settings.collection_title }}    
     {% else %}
-
-        <title>{{ seo_title }}</title>
-    
+      <title>{{ seo_title }}</title>   
    {% endif %}
 
   {% render 'social-meta' %}
