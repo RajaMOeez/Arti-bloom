@@ -70,7 +70,7 @@
       <div class="collection__title collection__title--no-image {{ section.settings.flex_align }}">
         {%- if collection.handle != 'all' and section.settings.show_title -%}        
           {% if collection.metafields.custom.collection_title != blank %}  
-             <h1 class="hero__title">{{ collection.metafields.custom.page_title }}</h1>      
+             <h1 class="hero__title">{{ collection.metafields.custom.collection_title }}</h1>      
           {% else %} 
               <h1 class="hero__title">{{ collection.title }}</h1>
           {% endif %}
