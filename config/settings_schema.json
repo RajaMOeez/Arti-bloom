@@ -687,7 +687,7 @@
         "label": "Collection Title"
       },
       {
-        "type": "richtext",
+        "type": "textarea",
         "id": "collection_description",
         "label": "Collection Description"
       }
