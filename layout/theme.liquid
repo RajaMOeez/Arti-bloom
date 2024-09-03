@@ -158,7 +158,7 @@
       <title>{{ seo_title }}</title>   
    {% endif %}
   {% if template == 'list-collections' %}
-    {{ settings.collection_description }}
+    <meta name="description" content="{{ settings.collection_description | escape }}">
   {% else %}
   {% if page_description %}
     <meta name="description" content="{{ page_description | escape }}">
