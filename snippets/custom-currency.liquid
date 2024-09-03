@@ -14,9 +14,11 @@
               {%- form 'localization' -%}
                 {%- if currencies -%}
                   <div class="popout--drawer">
+                    {% comment %}
                     <h2 class="visually-hidden" id="currency-drawer">
                       {{ 'layout.footer.currency' | t }}
                     </h2>
+                  {% endcomment %}
                     <div class="popout" data-popout>
                       <button type="button" class="popout__toggle" aria-expanded="false" aria-controls="currency-list-drawer" aria-describedby="currency-drawer" data-popout-toggle>
                         {{ form.current_currency.iso_code }} {%- if form.current_currency.symbol -%}{{ form.current_currency.symbol }}{%- endif -%}
