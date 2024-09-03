@@ -14,12 +14,12 @@
           </p>
         {% endif %}
         {% if section.settings.show_title %}
-          {% if page.metafields.custom.custom.page_title != blank %}
+          {% if page.metafields.custom.page_title != blank %}
            <h1 class="h4 standard__heading"
             data-aos="hero"
             data-aos-anchor="{{ animation_anchor }}"
             data-aos-order="2">
-            {{ page.metafields.custom.page_title }}
+            {{ page.metafields.custom.page_title }}--test
           </h1>
            {% else %}
           <h1 class="h4 standard__heading"
