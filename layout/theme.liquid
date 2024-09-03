@@ -158,6 +158,8 @@
     <meta name="description" content="{{ shop.description | escape }}">
   {% endif %}
 
+  {{ template }}
+  
    {% if template == 'list-collection' %}
       <title>{{ settings.collection_title }}</title>  
     {% else %}
