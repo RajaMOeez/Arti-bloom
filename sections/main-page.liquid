@@ -29,7 +29,7 @@
             {{ page.title }}
           </h1>
           {% endif %}
-        {% endif %}
+      {% endif %}
         {% if section.settings.show_content %}
           {% assign font_size_class = section.settings.text_size | plus: 1 | prepend: 'font--' %}
           <div class="standard__rte {{ font_size_class }}"
