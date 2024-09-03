@@ -677,5 +677,20 @@
         "info": "Use round numbers. Exclude currency, symbols, and letters. [More info](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/free-shipping-rates#free-shipping-over-a-certain-value)"
       }
     ]
+  },
+  {
+    "name": "Collection Metadata",
+    "settings": [
+      {
+        "type": "text",
+        "id": "collection_title",
+        "label": "Collection Title"
+      },
+      {
+        "type": "richtext",
+        "id": "collection_description",
+        "label": "Collection Description"
+      }
+    ]
   }
 ]
