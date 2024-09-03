@@ -142,9 +142,11 @@
 
   {%- if section.settings.show_currency_selector and shop.enabled_currencies.size > 1 -%}
     <div>
+      {% comment %}
       <h2 class="visually-hidden" id="currency-heading">
         {{ 'layout.footer.currency' | t }}
       </h2>
+      {% endcomment %}
 
       <div class="popout" data-popout>
         {% if section.settings.type == 'currency' %}  
