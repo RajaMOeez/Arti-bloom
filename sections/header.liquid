@@ -297,9 +297,11 @@
 
                 {%- if currencies -%}
                   <div class="popout--drawer">
+                     {% comment %}
                     <h2 class="visually-hidden" id="currency-drawer">
                       {{ 'layout.footer.currency' | t }}
                     </h2>
+                    {% endcomment %}
                     <div class="popout" data-popout>
                       <button type="button" class="popout__toggle" aria-expanded="false" aria-controls="currency-list-drawer" aria-describedby="currency-drawer" data-popout-toggle>
                         {{ form.current_currency.iso_code }} {%- if form.current_currency.symbol -%}{{ form.current_currency.symbol }}{%- endif -%}
@@ -346,7 +348,9 @@
             <div class="header__desktop__upper" data-takes-space-wrapper>
               <div data-child-takes-space class="header__desktop__bar__l">{{ logos }}</div>
               <div data-child-takes-space class="header__desktop__bar__c">{{ menu }}</div>
-              <div data-child-takes-space class="header__desktop__bar__r">{{ cart_content }}</div>
+              <div data-child-takes-space class="header__desktop__bar__r"><div style="margin-top: 35px;" >
+              {% include 'custom-currency' %}
+              </div>{{ cart_content }}</div>
             </div>
           {%- when 'logo_center_menu_left' -%}
             <div class="header__desktop__upper header__desktop__upper--reverse" data-takes-space-wrapper>
