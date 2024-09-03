@@ -150,15 +150,13 @@
       &ndash; {{ shop.name }}
     {% endunless %}
   {% endcapture %}
-  <title>{{ seo_title }}</title>
+ {% comment %} <title>{{ seo_title }}</title>{% endcomment %}
 
   {% if page_description %}
     <meta name="description" content="{{ page_description | escape }}">
   {% else %}
     <meta name="description" content="{{ shop.description | escape }}">
   {% endif %}
-
-  {{ template }}
   
    {% if template == 'list-collections' %}
       <title>{{ settings.collection_title }}</title>  
