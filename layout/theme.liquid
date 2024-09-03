@@ -157,11 +157,13 @@
     {% else %}
       <title>{{ seo_title }}</title>   
    {% endif %}
-  
+  {% if template == 'list-collections' %}
+  {% else %}
   {% if page_description %}
     <meta name="description" content="{{ page_description | escape }}">
   {% else %}
     <meta name="description" content="{{ shop.description | escape }}">
+  {% endif %}
   {% endif %}
 
   {% render 'social-meta' %}
