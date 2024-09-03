@@ -5,7 +5,12 @@
         {%- assign current_block = block.settings -%}
 
         {%- if block.type == 'heading' and current_block.title != blank -%}
+          {% if page.metafields.custom.page_title != blank %}
+          {% endif %} 
+          {% else %}
           <h1 class="faq__title" {{ block.shopify_attributes }}>{{ current_block.title }}</h1>
+
+
         {%- endif -%}
 
         {%- if block.type == 'question' and current_block.title != blank and current_block.content != blank -%}
