@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -70,7 +79,7 @@
           "type": "question",
           "settings": {
             "title": "Materials",
-            "content": "<p>Our topographic wooden maps are crafted from responsibly sourced Double-A grade 1.5mm fine-grained Basswood.<\/p><p>The frames are made from locally sourced pine.<\/p>"
+            "content": "<p>Our topographic wooden maps are crafted from responsibly sourced Double-A grade 1.5mm fine-grained Basswood.<\/p><p>The frames are made from locally sourced Tasmanian Oak.<\/p>"
           }
         },
         "5283e2c0-63b9-48f3-85bb-ab77abce29b5": {
