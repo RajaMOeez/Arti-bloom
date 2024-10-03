@@ -47,9 +47,9 @@
     "product_grid_outline": true,
     "button_radius_style": "square",
     "show_scroll_top_button": false,
-    "loading_image_1": "shopify:\/\/shop_images\/Artibloom_Logo.png",
-    "instagram_link": "https:\/\/instagram.com\/originmaps?",
-    "facebook_link": "https:\/\/facebook.com\/originmaps",
+    "loading_image_1": "shopify://shop_images/Australia-Papua-NewGuinea-Cork-Map.jpg",
+    "instagram_link": "https://instagram.com/originmaps?",
+    "facebook_link": "https://facebook.com/originmaps",
     "tiktok_link": "",
     "linkedin_link": "",
     "product_grid_center": true,
@@ -63,7 +63,7 @@
     "product_grid_show_rating": false,
     "variant_lines": true,
     "color_swatches": false,
-    "favicon": "shopify:\/\/shop_images\/IconBlack.png",
+    "favicon": "shopify://shop_images/IconBlack.png",
     "enable_cart_dropdown": true,
     "enable_gift_notes": false,
     "enable_estimate_shipping": false,
@@ -72,8 +72,8 @@
     "free_shipping_limit": "",
     "collection_title": "Explore Our Unique Wooden Maps Collection | Origin Maps",
     "collection_description": "Origin Maps offers a variety of custom wooden topographic maps. Explore collections that include maps of cities, national parks, and more. Browse our collections!",
-    "checkout_header_image": "shopify:\/\/shop_images\/Imtetstsstin.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/LogoOneLineWhiteBackground-01.png",
+    "checkout_header_image": "shopify://shop_images/Imtetstsstin.png",
+    "checkout_logo_image": "shopify://shop_images/LogoOneLineWhiteBackground-01.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "small",
     "checkout_body_background_color": "#ffffff",
@@ -95,7 +95,7 @@
           "header_style": "logo_beside",
           "icon_family": "bold",
           "icon_size": "large",
-          "logo": "shopify:\/\/shop_images\/ORIGIN_LOGO_WHITE-05.png",
+          "logo": "shopify://shop_images/ORIGIN_LOGO_WHITE-05.png",
           "logo_max_limit": 200,
           "main_menu_linklist": "main-menu",
           "enable_search": true,
@@ -114,7 +114,7 @@
           "text_t3LhzA": {
             "type": "text",
             "settings": {
-              "text": "<p>LEAD TIMES - Collection Production: <strong>3 Days<\/strong> | Custom Orders: <strong>6-7 Days<br\/>All Maps are Made to Order - FREE Shipping Australia & USA<\/strong><\/p>",
+              "text": "<p>LEAD TIMES - Collection Production: <strong>3 Days</strong> | Custom Orders: <strong>6-7 Days<br/>All Maps are Made to Order - FREE Shipping Australia & USA</strong></p>",
               "target_url_enabled": false,
               "target_url": "",
               "target_referrer_enabled": false,
@@ -155,13 +155,13 @@
             "type": "text",
             "settings": {
               "title": "GET IN TOUCH",
-              "text": "<p>tim@originmaps.com<\/p><p>0466 494 899<\/p><p>Mon-Fri 9am-4pm<br\/>Sat 10am-4pm<\/p><p>23\/2 Paton Place<br\/>Balgowlah 2093<br\/>Australia<\/p><p><a href=\"https:\/\/instagram.com\/originmaps?\" target=\"_blank\" title=\"Origin Maps on Instagram\">Instagram<\/a><\/p><p><a href=\"https:\/\/facebook.com\/originmaps\" target=\"_blank\" title=\"Origin Maps on Facebook\">Facebook<\/a><\/p>"
+              "text": "<p>tim@originmaps.com</p><p>0466 494 899</p><p>Mon-Fri 9am-4pm<br/>Sat 10am-4pm</p><p>23/2 Paton Place<br/>Balgowlah 2093<br/>Australia</p><p><a href=\"https://instagram.com/originmaps?\" target=\"_blank\" title=\"Origin Maps on Instagram\">Instagram</a></p><p><a href=\"https://facebook.com/originmaps\" target=\"_blank\" title=\"Origin Maps on Facebook\">Facebook</a></p>"
             }
           },
           "newsletter_yPJFEx": {
             "type": "newsletter",
             "settings": {
-              "richtext": "<p>Join our newsletter and dive into the world of handmade map art.<\/p>",
+              "richtext": "<p>Join our newsletter and dive into the world of handmade map art.</p>",
               "enable_name": true
             }
           }
@@ -195,7 +195,7 @@
     ],
     "blocks": {
       "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {
         }
@@ -288,13 +288,13 @@
               "type": "social",
               "settings": {
                 "title": "Social",
-                "richtext": "<p>Stay current with updates from our social channels.<\/p>"
+                "richtext": "<p>Stay current with updates from our social channels.</p>"
               }
             },
             "footer-2": {
               "type": "newsletter",
               "settings": {
-                "richtext": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
+                "richtext": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>",
                 "enable_name": false
               }
             }
@@ -417,13 +417,13 @@
               "type": "social",
               "settings": {
                 "title": "Social",
-                "richtext": "<p>Stay current with updates from our social channels.<\/p>"
+                "richtext": "<p>Stay current with updates from our social channels.</p>"
               }
             },
             "footer-2": {
               "type": "newsletter",
               "settings": {
-                "richtext": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
+                "richtext": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>",
                 "enable_name": false
               }
             }
@@ -541,13 +541,13 @@
               "type": "social",
               "settings": {
                 "title": "Social",
-                "richtext": "<p>Stay current with updates from our social channels.<\/p>"
+                "richtext": "<p>Stay current with updates from our social channels.</p>"
               }
             },
             "footer-2": {
               "type": "newsletter",
               "settings": {
-                "richtext": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
+                "richtext": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>",
                 "enable_name": false
               }
             }
