@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -20,7 +29,7 @@
       "settings": {
         "subheading": "",
         "title": "Your Handcrafted Custom Map Of Any Location",
-        "text": "<p>Our maps don't just mark places, they tell stories.<\/p><p>Mapped to your heart's intent, our custom pieces invoke that warm, nostalgic feeling of your most special moments in life. From the time you asked your special someone \"Will you marry me?\", to the time camping by the lake under a star filled sky. Our maps capture the stories of your most treasured memories with the people closest to your heart.<\/p><p><\/p><p><span style=\"text-decoration:underline\"><strong>We Offer Two Styles:<\/strong><\/span><\/p><p><a href=\"\/products\/custom-topographic-style\" title=\"Custom - Topographic Style\"><em><strong>Topographic Style<\/strong><\/em><\/a><em><strong> <\/strong><\/em>- A sophisticated representation of your special place in a contoured 3D topographic form. Accurately highlighting every peak and valley. Best suited for rugged or rural areas.<\/p><p><a href=\"\/products\/custom-classic-style\" title=\"Custom - Classic Style\"><em><strong>Relief Style<\/strong><\/em><\/a><em><strong> <\/strong><\/em>- A simple yet captivating representation in 2D, accentuating the landscape and built environment. Best suited for urban or less rugged areas.<\/p>",
+        "text": "<p>Our maps don't just mark places, they tell stories.</p><p>Mapped to your heart's intent, our custom pieces invoke that warm, nostalgic feeling of your most special moments in life. From the time you asked your special someone \"Will you marry me?\", to the time camping by the lake under a star filled sky. Our maps capture the stories of your most treasured memories with the people closest to your heart.</p><p></p><p><span style=\"text-decoration:underline\"><strong>We Offer Two Styles:</strong></span></p><p><a href=\"/products/custom-topographic-style\" title=\"Custom - Topographic Style\"><em><strong>Topographic Style</strong></em></a><em><strong> </strong></em>- A sophisticated representation of your special place in a contoured 3D topographic form. Accurately highlighting every peak and valley. Best suited for rugged or rural areas.</p><p><a href=\"/products/custom-classic-style\" title=\"Custom - Classic Style\"><em><strong>Relief Style</strong></em></a><em><strong> </strong></em>- A simple yet captivating representation in 2D, accentuating the landscape and built environment. Best suited for urban or less rugged areas.</p>",
         "text_size": 2,
         "text_columns": 1,
         "align_text": "text-left",
@@ -41,7 +50,7 @@
       ],
       "settings": {
         "heading": "Custom Designs",
-        "description": "<p>Dreaming of a bespoke wooden map that perfectly captures your favourite landscapes, cities, or memories? Now's your chance to bring those dreams to life! <\/p>",
+        "description": "<p>Dreaming of a bespoke wooden map that perfectly captures your favourite landscapes, cities, or memories? Now's your chance to bring those dreams to life! </p>",
         "text_alignment": "left",
         "link_text": "Start Your Design Today >",
         "link_url": "",
@@ -52,12 +61,13 @@
     },
     "5b8a6f61-0747-4351-a798-880567aeeb99": {
       "type": "section-split-hero",
+      "disabled": true,
       "settings": {
         "image_height": "five-fifty-height-hero",
         "mobile_layout": "stacked",
-        "image_desktop_left": "shopify:\/\/shop_images\/DetailMountains2.jpg",
+        "image_desktop_left": "shopify://shop_images/DetailMountains2.jpg",
         "bg_position_left": "center-center",
-        "image_desktop_right": "shopify:\/\/shop_images\/DetailClarksville_abd596ec-3b74-4eba-9e38-6e7fbcf23f5f.jpg",
+        "image_desktop_right": "shopify://shop_images/DetailClarksville_abd596ec-3b74-4eba-9e38-6e7fbcf23f5f.jpg",
         "bg_position_right": "center-center",
         "overlay_color": "#000000",
         "overlay_opacity": 0,
@@ -67,19 +77,20 @@
         "text_color": "text-light",
         "transparent": true,
         "link_text": "Topographic Style - $740",
-        "link": "shopify:\/\/products\/custom-topographic-style",
+        "link": "shopify://products/custom-topographic-style",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--large caps"
       }
     },
     "8e66199a-b72e-4f45-9e12-13ea671f7855": {
       "type": "section-split-hero",
+      "disabled": true,
       "settings": {
         "image_height": "five-fifty-height-hero",
         "mobile_layout": "stacked",
-        "image_desktop_left": "shopify:\/\/shop_images\/MelbourneWater_77c1b562-58aa-452e-bab0-687e9918b85e.png",
+        "image_desktop_left": "shopify://shop_images/MelbourneWater_77c1b562-58aa-452e-bab0-687e9918b85e.png",
         "bg_position_left": "center-center",
-        "image_desktop_right": "shopify:\/\/shop_images\/SydneyClassicAcross2.png",
+        "image_desktop_right": "shopify://shop_images/SydneyClassicAcross2.png",
         "bg_position_right": "center-center",
         "overlay_color": "#000000",
         "overlay_opacity": 0,
@@ -89,7 +100,7 @@
         "text_color": "text-light",
         "transparent": true,
         "link_text": "Relief Style - $375",
-        "link": "shopify:\/\/products\/custom-relief-style",
+        "link": "shopify://products/custom-relief-style",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--large caps"
       }
@@ -100,7 +111,7 @@
         "image_xc6g6c": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/JacketLookingSide.jpg",
+            "image": "shopify://shop_images/JacketLookingSide.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
@@ -120,14 +131,14 @@
           "settings": {
             "subheading": "Compass Conversations with Tim",
             "title": "Let's Jump on a Call",
-            "text": "<p>Dreaming of a bespoke wooden map that perfectly captures your favourite landscapes, cities, or memories? Now's your chance to bring those dreams to life! Schedule a <a href=\"https:\/\/Calendly.com\/originmaps\" target=\"_blank\" title=\"https:\/\/Calendly.com\/originmaps\">Compass Conversations with Tim<\/a> today and dive into a personalised consultation where your ideas meet our craftsmanship. <\/p><p>Whether it's a place that holds your heart or a dream destination you've yet to explore, Tim is ready to guide you through the crafting of your bespoke wooden map. With expert insights, personal stories, and a passion for cartography, each conversation is a step closer to creating a piece that's uniquely yours. Don't just dream about the perfect map—make it a reality. <\/p><p>Schedule your Compass Conversation today<\/p>",
+            "text": "<p>Dreaming of a bespoke wooden map that perfectly captures your favourite landscapes, cities, or memories? Now's your chance to bring those dreams to life! Schedule a <a href=\"https://Calendly.com/originmaps\" target=\"_blank\" title=\"https://Calendly.com/originmaps\">Compass Conversations with Tim</a> today and dive into a personalised consultation where your ideas meet our craftsmanship. </p><p>Whether it's a place that holds your heart or a dream destination you've yet to explore, Tim is ready to guide you through the crafting of your bespoke wooden map. With expert insights, personal stories, and a passion for cartography, each conversation is a step closer to creating a piece that's uniquely yours. Don't just dream about the perfect map—make it a reality. </p><p>Schedule your Compass Conversation today</p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
             "text_color": "text-dark",
             "bg_color": "#ffffff",
             "button_text": "Book Your Free Compass Conversations with Tim",
-            "button_url": "https:\/\/calendly.com\/originmaps\/30min",
+            "button_url": "https://calendly.com/originmaps/30min",
             "button_color": "btn--neutral",
             "button_style": "hero__btn btn btn--large btn--outline caps"
           }
@@ -151,7 +162,7 @@
       "settings": {
         "subheading": "",
         "title": "",
-        "text": "<p>At Origin Maps we take pride in being able to source data for any location in the world. <\/p><p>Whether it's the pleasing plains of the Pilbara, or the picturesque peaks of Pennsylvania, we'll deliver!<\/p><p> <\/p><p>Still not sure? Enquire about your specific location to tim@originmaps.com<\/p><p>Or give me a call on (+61) 466 494 899 for a free consultation.<\/p><p> <\/p>",
+        "text": "<p>At Origin Maps we take pride in being able to source data for any location in the world. </p><p>Whether it's the pleasing plains of the Pilbara, or the picturesque peaks of Pennsylvania, we'll deliver!</p><p> </p><p>Still not sure? Enquire about your specific location to tim@originmaps.com</p><p>Or give me a call on (+61) 466 494 899 for a free consultation.</p><p> </p>",
         "text_size": 2,
         "text_columns": 1,
         "align_text": "text-left",
