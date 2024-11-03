@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "section_collection_carousel_kJKL9n": {
@@ -54,8 +54,8 @@
     "8f437138-6964-497e-9d8b-6644c3c6fc82": {
       "type": "section-collection",
       "settings": {
-        "heading": "Challenge Us",
-        "description": "<p> </p><p>We take pride in offering the world's most detailed topographic wooden maps,</p><p>We can craft you a custom 1 of 1 piece of any location in the world, down to every river, creek, canyon and crevice.</p>",
+        "heading": "",
+        "description": "<h5> Challenge Us</h5><p>We take pride in offering the world's most detailed topographic wooden maps,</p><p>We can craft you a custom 1 of 1 piece of any location in the world, down to every river, creek, canyon and crevice.</p>",
         "text_alignment": "center",
         "link_text": "",
         "link_url": "",
