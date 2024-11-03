@@ -41,8 +41,8 @@
     "section_collection_carousel_YXydg4": {
       "type": "section-collection-carousel",
       "settings": {
-        "heading": "Newest Maps",
-        "description": "",
+        "heading": "",
+        "description": "<h5>Newest Maps</h5>",
         "text_alignment": "inline",
         "link_text": "View All",
         "link_url": "shopify://collections/new",
