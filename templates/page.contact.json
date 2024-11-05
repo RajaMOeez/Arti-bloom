@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -71,12 +80,12 @@
       "settings": {
         "height": "screen-height-one-half",
         "title": "Workshop & Showroom",
-        "address": "<p>23\/2 Paton Place<br\/>Balgowlah 2093<br\/>Australia<\/p><p>Mon - Sat, 10am - 4pm<\/p>",
+        "address": "<p>23/2 Paton Place<br/>Balgowlah 2093<br/>Australia</p><p>Mon - Fri: 9am - 4pm<br/>Sat: 10am - 2pm</p>",
         "button": "Directions",
         "text_color": "text-dark",
         "bg_color": "#fbfbfb",
         "api_key": "AIzaSyAqMxtA6L_Z1yP0mtzxlNjldcC8zS87Rn4",
-        "map_address": "23\/2 Paton Place, Balgowlah, 2093, Australia",
+        "map_address": "23/2 Paton Place, Balgowlah, 2093, Australia",
         "zoom": 12,
         "style": "light",
         "bg_position": "center-center",
