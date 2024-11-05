@@ -22,6 +22,19 @@
         "featured_collection": "landing-collection"
       }
     },
+    "section_collection_carousel_YXydg4": {
+      "type": "section-collection-carousel",
+      "settings": {
+        "heading": "",
+        "description": "<h5>Newest Maps</h5>",
+        "text_alignment": "inline",
+        "link_text": "View All",
+        "link_url": "shopify://collections/new",
+        "button_color": "btn--black",
+        "button_style": "hero__btn btn btn--input btn--outline caps",
+        "featured_collection": "new"
+      }
+    },
     "170650075617a8850a": {
       "type": "apps",
       "blocks": {
@@ -36,19 +49,6 @@
       ],
       "settings": {
         "include_margins": false
-      }
-    },
-    "section_collection_carousel_YXydg4": {
-      "type": "section-collection-carousel",
-      "settings": {
-        "heading": "",
-        "description": "<h5>Newest Maps</h5>",
-        "text_alignment": "inline",
-        "link_text": "View All",
-        "link_url": "shopify://collections/new",
-        "button_color": "btn--black",
-        "button_style": "hero__btn btn btn--input btn--outline caps",
-        "featured_collection": "new"
       }
     },
     "8f437138-6964-497e-9d8b-6644c3c6fc82": {
@@ -182,8 +182,8 @@
   },
   "order": [
     "section_collection_carousel_kJKL9n",
-    "170650075617a8850a",
     "section_collection_carousel_YXydg4",
+    "170650075617a8850a",
     "8f437138-6964-497e-9d8b-6644c3c6fc82",
     "2893b0c6-7011-4012-98d5-f37dc6ed0383",
     "section_custom_content_E68hDm",
