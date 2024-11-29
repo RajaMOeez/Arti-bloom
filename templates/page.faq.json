@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -29,64 +29,65 @@
       "blocks": {
         "94c7acf2-4df8-4929-b270-59aeb9b12b0a": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "title": "FAQ"
+            "title": "a"
           }
         },
         "faq-0": {
           "type": "question",
           "settings": {
             "title": "Shipping",
-            "content": "<p>Free global shipping for all small, medium and large maps. <\/p><p>Dispatched from Sydney with Australia Post, tracking provided to your email.<\/p><p>.<\/p><p><strong>AUS<\/strong> - 2 to 6 business days<\/p><p><strong>USA<\/strong> - 5 to 9 business days<\/p><p><strong>NZ, CA & EU<\/strong> - 6 to 15 business days<\/p><p>.<\/p><p>.<\/p><p>.<\/p><p>Option at checkout to upgrade to express shipping.<\/p><p>.<\/p><p><strong>AUS<\/strong> <strong>Express <\/strong>- 1 to 3 business days - Australia Post Express<\/p><p>S - $15<\/p><p>M - $20<\/p><p>L - $40<\/p><p><em>(AUD)<\/em><\/p><p>.<\/p><p><strong>USA<\/strong> <strong>Express <\/strong>- 3 to 6 business days - Australia Post International Express<\/p><p>S - $24<\/p><p>M - $32<\/p><p>L - $40<\/p><p><em>(USD)<\/em><\/p><p>.<\/p><p><strong>USA Courier<\/strong> - 1 to 2 business days - DHL Express Worldwide<\/p><p>S - $90<\/p><p>M - $145<\/p><p>L - $170<\/p><p><em>(USD)<\/em><\/p><p>.<\/p><p><strong>NZ, CA & EU Express - <\/strong>3 to 12 business days - Australia Post International Express<\/p><p>S - $24<\/p><p>M - $32<\/p><p>L - $40<\/p><p><em>(USD)<\/em><\/p>"
+            "content": "<p>Free global shipping for all small, medium and large maps. </p><p>Dispatched from Sydney with Australia Post, tracking provided to your email.</p><p>.</p><p><strong>AUS</strong> - 2 to 6 business days</p><p><strong>USA</strong> - 5 to 9 business days</p><p><strong>NZ, CA & EU</strong> - 6 to 15 business days</p><p>.</p><p>.</p><p>.</p><p>Option at checkout to upgrade to express shipping.</p><p>.</p><p><strong>AUS</strong> <strong>Express </strong>- 1 to 3 business days - Australia Post Express</p><p>S - $15</p><p>M - $20</p><p>L - $40</p><p><em>(AUD)</em></p><p>.</p><p><strong>USA</strong> <strong>Express </strong>- 3 to 6 business days - Australia Post International Express</p><p>S - $24</p><p>M - $32</p><p>L - $40</p><p><em>(USD)</em></p><p>.</p><p><strong>USA Courier</strong> - 1 to 2 business days - DHL Express Worldwide</p><p>S - $90</p><p>M - $145</p><p>L - $170</p><p><em>(USD)</em></p><p>.</p><p><strong>NZ, CA & EU Express - </strong>3 to 12 business days - Australia Post International Express</p><p>S - $24</p><p>M - $32</p><p>L - $40</p><p><em>(USD)</em></p>"
           }
         },
         "64cacd1b-65df-4980-8696-ae8cf9290d79": {
           "type": "question",
           "settings": {
             "title": "How Long Does My Map Take To Make?",
-            "content": "<p>All maps are made to order<\/p><p><strong>From the collection - <\/strong>3 business days. <a href=\"\/collections\" title=\"All collections\">See the collection<\/a><\/p><p><strong>Custom - <\/strong>5 business days - this includes 2 business days for the digital draft, then once you have approved this draft, physical fabrication will take 3 business days. <a href=\"https:\/\/originmaps.com\/collections\/custom\" title=\"CustomTopographicWoodenMapArt\">See custom maps<\/a><\/p>"
+            "content": "<p>All maps are made to order</p><p><strong>From the collection - </strong>3 business days. <a href=\"/collections\" title=\"All collections\">See the collection</a></p><p><strong>Custom - </strong>5 business days - this includes 2 business days for the digital draft, then once you have approved this draft, physical fabrication will take 3 business days. <a href=\"https://originmaps.com/collections/custom\" title=\"CustomTopographicWoodenMapArt\">See custom maps</a></p>"
           }
         },
         "faq-1": {
           "type": "question",
           "settings": {
             "title": "Returns Policy",
-            "content": "<p><strong>100% satisfaction guarantee<\/strong><\/p><p>If you're not satisfied with your map, simply return it within 30 days and once the map has returned to our workshop, a full refund will be remitted. Origin Maps does not cover the return postage cost.<\/p>"
+            "content": "<p><strong>100% satisfaction guarantee</strong></p><p>If you're not satisfied with your map, simply return it within 30 days and once the map has returned to our workshop, a full refund will be remitted. Origin Maps does not cover the return postage cost.</p>"
           }
         },
         "faq-2": {
           "type": "question",
           "settings": {
             "title": "What If My Map Arrives Damaged?",
-            "content": "<p><strong>100% damage free guarantee<\/strong><\/p><p>In the unlikely event that your map arrives damaged please take pictures and get in contact. We will then send you a full replacement at no extra cost.<\/p><p>If it's just the frame that is damaged, if you prefer we can find a framing store that is local to you and fully reimburse you for the reframing cost.<\/p><p>Whether you live in the auspicious areas of Adelaide. Or the awe-inspiring alps of Alaska. Origin Maps is committed to giving you a beautiful and unique wooden map, that can be a talking piece and source of pride in your home.<\/p>"
+            "content": "<p><strong>100% damage free guarantee</strong></p><p>In the unlikely event that your map arrives damaged please take pictures and get in contact. We will then send you a full replacement at no extra cost.</p><p>If it's just the frame that is damaged, if you prefer we can find a framing store that is local to you and fully reimburse you for the reframing cost.</p><p>Whether you live in the auspicious areas of Adelaide. Or the awe-inspiring alps of Alaska. Origin Maps is committed to giving you a beautiful and unique wooden map, that can be a talking piece and source of pride in your home.</p>"
           }
         },
         "fd3012d4-c85d-42a5-9322-76374ce80ebc": {
           "type": "question",
           "settings": {
             "title": "Sizes",
-            "content": "<p><strong>S <\/strong>- 30x40cm  -  12x16\" - <em>(including frame)<\/em><\/p><p><strong>M <\/strong>- 45x60cm  -  18x24\" - <em>(including frame)<\/em><\/p><p><strong>L <\/strong>- 60x80cm  -  24x32\" - <em>(including frame)<\/em><\/p>"
+            "content": "<p><strong>S </strong>- 30x40cm  -  12x16\" - <em>(including frame)</em></p><p><strong>M </strong>- 45x60cm  -  18x24\" - <em>(including frame)</em></p><p><strong>L </strong>- 60x80cm  -  24x32\" - <em>(including frame)</em></p>"
           }
         },
         "b7f39779-f4bb-4b2f-beea-02595bfad36b": {
           "type": "question",
           "settings": {
             "title": "Mounting & Hanging",
-            "content": "<p>All sizes come with a wire across the back, making them ready to hang on the wall.<\/p><p>Alternatively your piece will look great on a desk or shelf just resting against the wall.<\/p>"
+            "content": "<p>All sizes come with a wire across the back, making them ready to hang on the wall.</p><p>Alternatively your piece will look great on a desk or shelf just resting against the wall.</p>"
           }
         },
         "62a0e74e-5473-4d77-86c1-6addd1017b77": {
           "type": "question",
           "settings": {
             "title": "Materials",
-            "content": "<p>Our topographic wooden maps are crafted from responsibly sourced Double-A grade 1.5mm fine-grained Basswood.<\/p><p>The frames are made from locally sourced Tasmanian Oak.<\/p>"
+            "content": "<p>Our topographic wooden maps are crafted from responsibly sourced Double-A grade 1.5mm fine-grained Basswood.</p><p>The frames are made from locally sourced Tasmanian Oak.</p>"
           }
         },
         "5283e2c0-63b9-48f3-85bb-ab77abce29b5": {
           "type": "question",
           "settings": {
             "title": "Taxes & Import Duties",
-            "content": "<p><strong>AU<\/strong>- nil, no extra fees<\/p><p>.<\/p><p><strong>US \/ CA \/ EU \/ NZ<\/strong>- These may be levied by your state, they will be payable to your local tax authority upon delivery of your map. Origin Maps does not take responsibility for these costs.<\/p>"
+            "content": "<p><strong>AU</strong>- nil, no extra fees</p><p>.</p><p><strong>US / CA / EU / NZ</strong>- These may be levied by your state, they will be payable to your local tax authority upon delivery of your map. Origin Maps does not take responsibility for these costs.</p>"
           }
         }
       },
