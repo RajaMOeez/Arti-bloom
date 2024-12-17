@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "section_rich_text_qhQMyE": {
@@ -14,7 +14,7 @@
       "settings": {
         "subheading": "",
         "title": "Great for Farms and Landowners",
-        "text": "<p>Tailored specifically for landowners and farmers, our detailed topographic maps provide a unique bird’s-eye view of your land. These custom maps are perfect for displaying the breadth of your property, understanding its topography, or planning future developments. They also make excellent gifts or showpieces for farm offices and country homes.<\/p>",
+        "text": "<p>Tailored specifically for landowners and farmers, our detailed topographic maps provide a unique bird’s-eye view of your land. These custom maps are perfect for displaying the breadth of your property, understanding its topography, or planning future developments. They also make excellent gifts or showpieces for farm offices and country homes.</p>",
         "text_size": 2,
         "text_columns": 1,
         "align_text": "text-center",
@@ -34,7 +34,7 @@
         "text_block_w74rbj": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ProfileClose_2231d179-9fa6-46f5-8e85-22ae489fa4cc.jpg",
+            "image": "shopify://shop_images/ProfileClose_2231d179-9fa6-46f5-8e85-22ae489fa4cc.jpg",
             "bg_position": "center-center",
             "title": "",
             "text": "",
@@ -43,28 +43,28 @@
             "button_color": "btn--neutral",
             "button_style": "caps--large",
             "enable_video": false,
-            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
           }
         },
         "text_block_KwneEe": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/QLDRenee.png",
+            "image": "shopify://shop_images/QLDRenee.png",
             "bg_position": "center-center",
             "title": "",
             "text": "",
             "button_text": "Let's Create Your Farm Map",
-            "button_url": "shopify:\/\/collections\/custom",
+            "button_url": "shopify://products/custom-farm-property-map",
             "button_color": "btn--neutral",
             "button_style": "hero__btn btn btn--input caps",
             "enable_video": false,
-            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
           }
         },
         "text_block_3KTgpn": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PhotoRoom-20230620_002309.png",
+            "image": "shopify://shop_images/PhotoRoom-20230620_002309.png",
             "bg_position": "center-center",
             "title": "",
             "text": "",
@@ -73,7 +73,7 @@
             "button_color": "btn--neutral",
             "button_style": "caps--large",
             "enable_video": false,
-            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
           }
         }
       },
@@ -97,7 +97,7 @@
       "settings": {
         "subheading": "",
         "title": "The Perfect Gift",
-        "text": "<p>Discover the perfect gift that speaks from the heart with our selection of topographic maps. Whether it’s a memorable location, a beloved hometown, or a dream destination, our crafted wooden maps are designed to evoke nostalgia and celebrate special moments. Ideal for birthdays, anniversaries, and special occasions, these maps are more than gifts—they're keepsakes.<\/p>",
+        "text": "<p>Discover the perfect gift that speaks from the heart with our selection of topographic maps. Whether it’s a memorable location, a beloved hometown, or a dream destination, our crafted wooden maps are designed to evoke nostalgia and celebrate special moments. Ideal for birthdays, anniversaries, and special occasions, these maps are more than gifts—they're keepsakes.</p>",
         "text_size": 2,
         "text_columns": 1,
         "align_text": "text-center",
@@ -117,46 +117,46 @@
         "text_block_mnAaPM": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/LebanonDanny_7b8e1b7d-040f-40d8-a4f6-b3a319ec67cb.jpg",
+            "image": "shopify://shop_images/LebanonDanny_7b8e1b7d-040f-40d8-a4f6-b3a319ec67cb.jpg",
             "bg_position": "center-center",
             "title": "",
             "text": "",
             "button_text": "",
-            "button_url": "shopify:\/\/collections\/all-maps",
+            "button_url": "shopify://collections/all-maps",
             "button_color": "btn--neutral",
             "button_style": "caps--large",
             "enable_video": false,
-            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
           }
         },
         "text_block_tJKkGh": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/QLD_e4867f19-6512-4728-a919-cc96adbe1a95.png",
+            "image": "shopify://shop_images/QLD_e4867f19-6512-4728-a919-cc96adbe1a95.png",
             "bg_position": "center-center",
             "title": "",
             "text": "",
             "button_text": "Start Your Perfect Gift Journey",
-            "button_url": "shopify:\/\/collections\/all-maps",
+            "button_url": "shopify://collections/all-maps",
             "button_color": "btn--neutral",
             "button_style": "hero__btn btn btn--input caps",
             "enable_video": false,
-            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
           }
         },
         "text_block_7WCirm": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PNGLuke2.jpg",
+            "image": "shopify://shop_images/PNGLuke2.jpg",
             "bg_position": "center-center",
             "title": "",
             "text": "",
             "button_text": "",
-            "button_url": "shopify:\/\/collections\/all-maps",
+            "button_url": "shopify://collections/all-maps",
             "button_color": "btn--neutral",
             "button_style": "hero__btn btn btn--input caps",
             "enable_video": false,
-            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
           }
         }
       },
@@ -180,7 +180,7 @@
       "settings": {
         "subheading": "",
         "title": "Ideal for All Parts of the Home",
-        "text": "<p>Enhance any room with a piece of the world carved in wood. Our versatile collection features maps that complement every space—from the quietude of a study to the liveliness of a living room. Choose from a variety of sizes and styles to add a touch of elegance and intrigue to your home decor.<\/p>",
+        "text": "<p>Enhance any room with a piece of the world carved in wood. Our versatile collection features maps that complement every space—from the quietude of a study to the liveliness of a living room. Choose from a variety of sizes and styles to add a touch of elegance and intrigue to your home decor.</p>",
         "text_size": 2,
         "text_columns": 1,
         "align_text": "text-center",
@@ -200,67 +200,67 @@
         "text_block_kXJc7h": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/TopoBed_d29b0064-d183-4168-bea8-30587efd2a73.jpg",
+            "image": "shopify://shop_images/TopoBed_d29b0064-d183-4168-bea8-30587efd2a73.jpg",
             "bg_position": "center-center",
             "title": "",
             "text": "",
             "button_text": "",
-            "button_url": "shopify:\/\/collections\/best-sellers",
+            "button_url": "shopify://collections/best-sellers",
             "button_color": "btn--neutral",
             "button_style": "caps--large",
             "enable_video": false,
-            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
           }
         },
         "text_block_DjY7RC": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Iceland_17522099-7cf9-4964-9d91-a741d593abf1.jpg",
+            "image": "shopify://shop_images/Iceland_17522099-7cf9-4964-9d91-a741d593abf1.jpg",
             "bg_position": "center-center",
             "title": "",
             "text": "",
             "button_text": "Browse Ideas For Your Home",
-            "button_url": "shopify:\/\/collections\/best-sellers",
+            "button_url": "shopify://collections/best-sellers",
             "button_color": "btn--neutral",
             "button_style": "hero__btn btn btn--input caps",
             "enable_video": false,
-            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
           }
         },
         "text_block_jmwcqg": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/UlladullaFiona.jpg",
+            "image": "shopify://shop_images/UlladullaFiona.jpg",
             "bg_position": "center-center",
             "title": "",
             "text": "",
             "button_text": "",
-            "button_url": "shopify:\/\/collections\/all-maps",
+            "button_url": "shopify://collections/all-maps",
             "button_color": "btn--neutral",
             "button_style": "caps--large",
             "enable_video": false,
-            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
           }
         },
         "text_block_rm6eV6": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/TopoToilet.jpg",
+            "image": "shopify://shop_images/TopoToilet.jpg",
             "bg_position": "center-top",
             "title": "",
             "text": "",
             "button_text": "",
-            "button_url": "shopify:\/\/collections\/best-sellers",
+            "button_url": "shopify://collections/best-sellers",
             "button_color": "btn--neutral",
             "button_style": "hero__btn btn btn--input caps",
             "enable_video": false,
-            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
           }
         },
         "text_block_KfHPQf": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AusLeb.png",
+            "image": "shopify://shop_images/AusLeb.png",
             "bg_position": "center-center",
             "title": "",
             "text": "",
@@ -269,13 +269,13 @@
             "button_color": "btn--neutral",
             "button_style": "caps--large",
             "enable_video": false,
-            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
           }
         },
         "text_block_ydPqEP": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Arkansas.png",
+            "image": "shopify://shop_images/Arkansas.png",
             "bg_position": "center-center",
             "title": "",
             "text": "",
@@ -284,7 +284,7 @@
             "button_color": "btn--neutral",
             "button_style": "caps--large",
             "enable_video": false,
-            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
           }
         }
       },
@@ -311,7 +311,7 @@
       "settings": {
         "subheading": "",
         "title": "Great for Corporates and Businesses",
-        "text": "<p>Elevate your business space with a bespoke wooden map that reflects corporate excellence and global connectivity. Ideal for offices, meeting rooms, and reception areas, these maps serve not only as sophisticated decor but also as a symbol of your business’s scope and vision. Customise a map to showcase company locations, celebrate achievements, or gift to esteemed partners and clients.<\/p>",
+        "text": "<p>Elevate your business space with a bespoke wooden map that reflects corporate excellence and global connectivity. Ideal for offices, meeting rooms, and reception areas, these maps serve not only as sophisticated decor but also as a symbol of your business’s scope and vision. Customise a map to showcase company locations, celebrate achievements, or gift to esteemed partners and clients.</p>",
         "text_size": 2,
         "text_columns": 1,
         "align_text": "text-center",
@@ -331,7 +331,7 @@
         "text_block_bnbmYH": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/USWestCoastKai1.jpg",
+            "image": "shopify://shop_images/USWestCoastKai1.jpg",
             "bg_position": "center-center",
             "title": "",
             "text": "",
@@ -340,28 +340,28 @@
             "button_color": "btn--neutral",
             "button_style": "caps--large",
             "enable_video": false,
-            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
           }
         },
         "text_block_34Mbty": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/LebanonWine.jpg",
+            "image": "shopify://shop_images/LebanonWine.jpg",
             "bg_position": "center-center",
             "title": "",
             "text": "",
             "button_text": "Let's Chat About Your Corporate Custom Project",
-            "button_url": "shopify:\/\/pages\/custom",
+            "button_url": "shopify://pages/custom",
             "button_color": "btn--neutral",
             "button_style": "hero__btn btn btn--input caps",
             "enable_video": false,
-            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
           }
         },
         "text_block_eRCjar": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sydney.jpg",
+            "image": "shopify://shop_images/Sydney.jpg",
             "bg_position": "center-center",
             "title": "",
             "text": "",
@@ -370,7 +370,7 @@
             "button_color": "btn--neutral",
             "button_style": "caps--large",
             "enable_video": false,
-            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
           }
         }
       },
