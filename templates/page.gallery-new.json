@@ -351,7 +351,7 @@
             "title": "",
             "text": "",
             "button_text": "Let's Chat About Your Corporate Custom Project",
-            "button_url": "shopify://pages/custom",
+            "button_url": "shopify://pages/contact-us",
             "button_color": "btn--neutral",
             "button_style": "hero__btn btn btn--input caps",
             "enable_video": false,
