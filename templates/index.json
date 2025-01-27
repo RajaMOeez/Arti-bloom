@@ -39,9 +39,9 @@
       "type": "apps",
       "blocks": {
         "google_reviews_plus_app_block_Vtw4YU": {
-          "type": "shopify://apps/google-reviews-plus/blocks/app-block/d11c8893-a181-4aff-a280-7446d42cec3b",
-          "settings": {
-          }
+          "type": "shopify://apps/rocket-google-reviews/blocks/app-block/d11c8893-a181-4aff-a280-7446d42cec3b",
+          "disabled": true,
+          "settings": {}
         }
       },
       "block_order": [
@@ -149,6 +149,7 @@
             "title_color": "",
             "alignment": "center",
             "background_color": "",
+            "feed_id": "",
             "html_area": ""
           }
         }
@@ -178,6 +179,46 @@
         "lat": "",
         "long": ""
       }
+    },
+    "section_hero_qwnr8F": {
+      "type": "section-hero",
+      "settings": {
+        "bg_position": "center-center",
+        "height": "screen-height-three-quarters",
+        "overlay_opacity": 0,
+        "overlay_color": "#000",
+        "title": "Image with text overlay",
+        "description": "Tell your brand's story through images.",
+        "flex_align": "align--middle-center",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "View products",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--large btn--outline caps"
+      }
+    },
+    "section_split_hero_BYwcn9": {
+      "type": "section-split-hero",
+      "settings": {
+        "image_height": "screen-height-one-half",
+        "mobile_layout": "stacked",
+        "image_desktop_left": "shopify://shop_images/Farm-Australia-Wooden-Map_png_edfcef0f-524c-4cdf-bc8c-b8ff00113f2a.jpg",
+        "bg_position_left": "center-center",
+        "image_desktop_right": "shopify://shop_images/Wooden-Queensland-Topographic-Custom-Map.jpg",
+        "bg_position_right": "center-center",
+        "overlay_color": "#000",
+        "overlay_opacity": 0,
+        "title": "Split images",
+        "description": "Tell your brand's story through images.",
+        "flex_align": "align--middle-center",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "View products",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--large btn--outline caps"
+      }
     }
   },
   "order": [
@@ -188,6 +229,8 @@
     "2893b0c6-7011-4012-98d5-f37dc6ed0383",
     "section_custom_content_E68hDm",
     "16649216157b87533d",
-    "bad05730-1545-4e96-bb85-e7018736a854"
+    "bad05730-1545-4e96-bb85-e7018736a854",
+    "section_hero_qwnr8F",
+    "section_split_hero_BYwcn9"
   ]
 }
