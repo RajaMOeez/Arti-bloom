@@ -186,7 +186,7 @@
         ".btn--outline,.btn--secondary {font-size: 14px !important;}"
       ],
       "settings": {
-        "image_height": "screen-height-two-thirds",
+        "image_height": "screen-height-one-half",
         "mobile_layout": "stacked",
         "image_desktop_left": "shopify://shop_images/Farm-Australia-Wooden-Map_png_edfcef0f-524c-4cdf-bc8c-b8ff00113f2a.jpg",
         "bg_position_left": "center-center",
