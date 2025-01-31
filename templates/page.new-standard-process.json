@@ -227,7 +227,7 @@
       "type": "section-collection",
       "settings": {
         "heading": "",
-        "description": "<p>We offer two styles - <strong>Topographic</strong> and <strong>Relief</strong>.</p><p>The <strong>Topographic Style</strong> is a contour map. It has 3D contours that particularly capture the elevation of the focus area.</p><p>The <strong>Relief Style</strong> has raised roads, and the elevation is engraved.</p><p>.</p><p>For urban areas, the Relief Style works well.</p><p>For rural or rugged areas, the Topographic Style works well.</p><p>For a map covering a large area, like a state or nation both styles work.</p><p>Not sure? Just enquire through the Conact Us and I'll get back to you with a recommendation for your location.</p>",
+        "description": "<p></p><p>Choose between two distinct styles to capture your special place:</p><p><strong>Topographic</strong> - Featuring dramatic 3D contours that showcase the natural terrain. Perfect for rural and rugged landscapes.</p><p><strong>Relief</strong> - Elegantly raised roads with engraved terrain detail, ideal for urban locations.</p><p>Both styles beautifully render larger areas like states and nations.</p><p>Not sure which best suits your location? Get in touch for a recommendation.</p>",
         "text_alignment": "center",
         "link_text": "",
         "link_url": "",
