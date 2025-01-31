@@ -70,7 +70,7 @@
         "flex_align": "align--middle-center",
         "text_color": "text-light",
         "transparent": true,
-        "link_text": "See Our Process",
+        "link_text": "Explore Farm Maps",
         "link": "shopify://pages/the-process",
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--input btn--outline caps"
