@@ -131,7 +131,7 @@
           "settings": {
             "subheading": "",
             "title": "3. Laser Fabrication",
-            "text": "<p>Now it's the fun part, time for the laser cutter!</p><p>The wood for your map is painted, sanded and varnished for laser engraving and cutting.</p>",
+            "text": "<p>Now it's the fun part, time for the laser cutter!</p><p>The wood for your map is painted, sanded and varnished for laser engraving and cutting.</p><p>Your piece is then assembled, and secured in a Tasmanian Oak frame.</p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
@@ -179,7 +179,7 @@
         "image_HfN3ND": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/51bigger51-01.png",
+            "image": "shopify://shop_images/Packaged-Map-01.png",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
@@ -199,7 +199,7 @@
           "settings": {
             "subheading": "",
             "title": "4. Packaging & Dispatch",
-            "text": "<p>Next the plywood for your map is treated. Depending on the style, this will involve sanding, painting, and varnishing.</p><p>Your digital file is also completed, and sent to the laser. Here the various sheets of treated plywood are engraved and cut .</p>",
+            "text": "",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
