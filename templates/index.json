@@ -97,7 +97,7 @@
         "text_color": "text-light",
         "transparent": true,
         "link_text": "The Process",
-        "link": "shopify://pages/custom-any-location-process-new",
+        "link": "shopify://pages/copy-of-our-process",
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--input btn--outline caps"
       }
