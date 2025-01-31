@@ -237,7 +237,7 @@
         "overlay_color": "#000000",
         "title": "",
         "description": "Every boundary, creek, and contour - your family's legacy preserved in wood. Ready to begin?",
-        "flex_align": "align--bottom-center",
+        "flex_align": "align--middle-center",
         "text_color": "text-light",
         "transparent": true,
         "link_text": "Start Your Farm Map",
