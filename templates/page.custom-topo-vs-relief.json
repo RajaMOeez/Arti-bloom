@@ -1,0 +1,207 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "subheading": "",
+        "show_title": true,
+        "show_content": true,
+        "text_size": 2,
+        "align_text": "text-center",
+        "height": "margin--small",
+        "width": "wrapper--narrow",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "section_custom_content_bwEebY": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image_KNhytQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Farm-Map-Draft.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "text_AieFK8": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "2. Drafting",
+            "text": "<p>Next is cleaning up all of the data to get it ready for laser cutting.</p><p>A custom legend will be drafted, we usually have the property name and address here.</p><p>Then labels will be added for place names and locations that are important to you or the recipient.</p><p>I will email you the first digital draft for your review. We will then incorporate any adjustments you would like and provide you with up to two more drafts to get everything just right.</p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "image_KNhytQ",
+        "text_AieFK8"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "section_custom_content_pnDGQC": {
+      "type": "section-custom-content",
+      "blocks": {
+        "text_4LQEA9": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "3. Laser Fabrication",
+            "text": "<p>The wood for your map is painted, sanded and varnished. Next it is laser engraved and cut.</p><p>Your piece is then assembled, and secured in a Tasmanian Oak frame.</p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "image_EpXjhW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Source1-01.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "text_4LQEA9",
+        "image_EpXjhW"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "section_custom_content_G8cdG9": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image_HfN3ND": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Packaged-Map-01.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "text_iyEBjL": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "4. Packaging & Dispatch",
+            "text": "<p>Your piece is now securely bubble wrapped and packaged.</p><p>It is promptly dispatched to your door, and shipping updates will be sent to your email.</p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "image_HfN3ND",
+        "text_iyEBjL"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "section_hero_8YzW4x": {
+      "type": "section-hero",
+      "custom_css": [
+        "h1 {font-size: 1px; line-height: 1.5;}",
+        ".btn--outline,.btn--secondary {font-size: 20px !important;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Custom-Farm-Map-Display-01.png",
+        "bg_position": "center-center",
+        "height": "screen-height-one-half",
+        "overlay_opacity": 55,
+        "overlay_color": "#000000",
+        "title": "",
+        "description": "Every boundary, creek, and contour - your family's legacy preserved in wood. Ready to begin?",
+        "flex_align": "align--middle-center",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "Start Your Farm Map",
+        "link": "shopify://products/custom-farm-property-map",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--input btn--outline caps"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_custom_content_bwEebY",
+    "section_custom_content_pnDGQC",
+    "section_custom_content_G8cdG9",
+    "section_hero_8YzW4x"
+  ]
+}
