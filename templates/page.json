@@ -99,7 +99,7 @@
           "settings": {
             "subheading": "",
             "title": "2. Drafting",
-            "text": "<p>Next is cleaning up all of the data to make it pretty, and suitable for laser cutting.</p><p>A custom legend will be drafted, we usually have the property name and address here.</p><p>Then labels will be added for place names and locations that are important to you or the recipient.</p><p>I will email you the first digital draft for your review. We will then incorporate any adjustments you would like and provide you with up to two more drafts to get everything just right.</p>",
+            "text": "<p>Next is cleaning up all of the data to get it ready for laser cutting.</p><p>A custom legend will be drafted, we usually have the property name and address here.</p><p>Then labels will be added for place names and locations that are important to you or the recipient.</p><p>I will email you the first digital draft for your review. We will then incorporate any adjustments you would like and provide you with up to two more drafts to get everything just right.</p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
@@ -130,8 +130,8 @@
           "type": "text",
           "settings": {
             "subheading": "",
-            "title": "3. Drafting",
-            "text": "<p>We email you a digital draft of your map.</p><p>At this point we can talk about any adjustments you would like (by email or on the phone), and incorporate them into the second draft. This way, we can get the piece just how you want it.</p><p>Some common adjustments include changes to the labeling, and changes to the legend title.</p><p><em>* Standard custom orders include up to 3 drafts.</em></p>",
+            "title": "3. Laser Fabrication",
+            "text": "<p>Now it's the fun part, time for the laser cutter!</p><p>The wood for your map is painted, sanded and varnished for laser engraving and cutting.</p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
@@ -146,7 +146,7 @@
         "image_EpXjhW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Source1-04.png",
+            "image": "shopify://shop_images/Source1-01.png",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
@@ -179,7 +179,7 @@
         "image_HfN3ND": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Source1-01.png",
+            "image": "shopify://shop_images/51bigger51-01.png",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
@@ -198,7 +198,7 @@
           "type": "text",
           "settings": {
             "subheading": "",
-            "title": "4. Fabrication - Laser Cutting",
+            "title": "4. Packaging & Dispatch",
             "text": "<p>Next the plywood for your map is treated. Depending on the style, this will involve sanding, painting, and varnishing.</p><p>Your digital file is also completed, and sent to the laser. Here the various sheets of treated plywood are engraved and cut .</p>",
             "text_size": 2,
             "text_columns": 1,
