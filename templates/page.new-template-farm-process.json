@@ -117,6 +117,7 @@
         "image_KNhytQ",
         "text_AieFK8"
       ],
+      "disabled": true,
       "settings": {
         "height": "screen-height-one-half",
         "padding": false,
