@@ -227,7 +227,7 @@
       "type": "section-collection",
       "settings": {
         "heading": "",
-        "description": "<p></p><p>Choose between two distinct styles to capture your special place:</p><p><strong>Topographic</strong> - Featuring dramatic 3D contours that showcase the natural terrain. Perfect for rural and rugged landscapes.</p><p><strong>Relief</strong> - Elegantly raised roads with engraved terrain detail, ideal for urban locations.</p><p>Both styles beautifully render larger areas like states and nations.</p><p>Not sure which best suits your location? Get in touch for a recommendation.</p>",
+        "description": "<p>Choose between two distinct styles to capture your special place:</p><p><strong>Topographic</strong> - Featuring dramatic 3D contours that showcase the natural terrain. Perfect for rural and rugged landscapes.</p><p><strong>Relief</strong> - Elegantly raised roads with engraved terrain detail, ideal for urban locations.</p><p>Both styles beautifully render larger areas like states and nations.</p><p>Not sure which best suits your location? Get in touch for a recommendation.</p>",
         "text_alignment": "center",
         "link_text": "",
         "link_url": "",
