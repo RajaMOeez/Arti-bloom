@@ -97,26 +97,9 @@
         "text_color": "text-light",
         "transparent": true,
         "link_text": "The Process",
-        "link": "",
+        "link": "shopify://pages/copy-of-our-process",
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--input btn--outline caps"
-      }
-    },
-    "8f437138-6964-497e-9d8b-6644c3c6fc82": {
-      "type": "section-collection",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "description": "<h5> Challenge Us</h5><p>We take pride in offering the world's most detailed topographic wooden maps,</p><p>We can craft you a custom 1 of 1 piece of any location in the world, down to every river, creek, canyon and crevice.</p>",
-        "text_alignment": "center",
-        "link_text": "",
-        "link_url": "",
-        "button_color": "btn--black",
-        "button_style": "hero__btn btn btn--input btn--outline caps",
-        "featured_collection": "custom",
-        "grid": 2,
-        "rows": 1,
-        "layout_mobile": "carousel"
       }
     },
     "2893b0c6-7011-4012-98d5-f37dc6ed0383": {
@@ -231,6 +214,23 @@
         "enable_latlong": false,
         "lat": "",
         "long": ""
+      }
+    },
+    "8f437138-6964-497e-9d8b-6644c3c6fc82": {
+      "type": "section-collection",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "description": "<h5> Challenge Us</h5><p>We take pride in offering the world's most detailed topographic wooden maps,</p><p>We can craft you a custom 1 of 1 piece of any location in the world, down to every river, creek, canyon and crevice.</p>",
+        "text_alignment": "center",
+        "link_text": "",
+        "link_url": "",
+        "button_color": "btn--black",
+        "button_style": "hero__btn btn btn--input btn--outline caps",
+        "featured_collection": "custom",
+        "grid": 2,
+        "rows": 1,
+        "layout_mobile": "carousel"
       }
     }
   },
