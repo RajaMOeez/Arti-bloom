@@ -263,44 +263,17 @@
         "button_style": "hero__btn btn btn--large btn--outline caps"
       }
     },
-    "section_tab_collections_RQHfFJ": {
-      "type": "section-tab-collections",
-      "blocks": {
-        "collection_PrRine": {
-          "type": "collection",
-          "settings": {
-            "title": "First collection",
-            "featured_collection": "custom-any-location",
-            "show_image": false,
-            "overlay_opacity": 0,
-            "overlay_color": "#000",
-            "description": "<p>describebebe</p>",
-            "text_color": "text-light",
-            "link_text": "View products",
-            "link": "",
-            "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        }
-      },
-      "block_order": [
-        "collection_PrRine"
-      ],
-      "settings": {
-        "title": ""
-      }
-    },
     "section_collection_a8HUFd": {
       "type": "section-collection",
       "settings": {
-        "heading": "",
-        "description": "",
-        "text_alignment": "center",
+        "heading": "lfglg",
+        "description": "<p>detail on this one</p>",
+        "text_alignment": "inline",
         "link_text": "",
         "link_url": "",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--input btn--outline caps",
-        "featured_collection": "",
+        "featured_collection": "custom-any-location",
         "grid": 4,
         "rows": 3,
         "layout_mobile": "carousel"
@@ -315,7 +288,6 @@
     "section_custom_content_G8cdG9",
     "section_split_hero_q4NpJy",
     "section_split_hero_QBx4Lh",
-    "section_tab_collections_RQHfFJ",
     "section_collection_a8HUFd"
   ]
 }
