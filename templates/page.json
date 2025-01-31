@@ -199,7 +199,7 @@
           "settings": {
             "subheading": "",
             "title": "4. Packaging & Dispatch",
-            "text": "<p>Your piece is now securely bubble wrapped and packaged.</p><p>It is promptly dispatched to your door, and shipping updates will be sent to your inbox.</p>",
+            "text": "<p>Your piece is now securely bubble wrapped and packaged.</p><p>It is promptly dispatched to your door, and shipping updates will be sent to your email.</p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
@@ -223,103 +223,23 @@
         "wrapper": false
       }
     },
-    "section_custom_content_rDPcLN": {
-      "type": "section-custom-content",
-      "blocks": {
-        "text_wCU3fC": {
-          "type": "text",
-          "settings": {
-            "subheading": "",
-            "title": "5. Fabrication - Assembly",
-            "text": "<p>Your map is now at the final stage of fabrication! </p><p>The many layers are carefully aligned and glued together, and then placed into a frame of Tasmanian Oak. This hardwood frame has been cut, sanded, stained, and oiled. </p>",
-            "text_size": 2,
-            "text_columns": 1,
-            "align_text": "text-left",
-            "text_color": "text-dark",
-            "bg_color": "#ffffff",
-            "button_text": "",
-            "button_url": "",
-            "button_color": "btn--neutral",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        },
-        "image_drUAeM": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Source1-05.png",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "title": "",
-            "description": "",
-            "flex_align": "align--middle-center",
-            "text_color": "text-light",
-            "transparent": true,
-            "link_text": "",
-            "link": "",
-            "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        }
-      },
-      "block_order": [
-        "text_wCU3fC",
-        "image_drUAeM"
-      ],
+    "section_hero_8YzW4x": {
+      "type": "section-hero",
       "settings": {
+        "image": "shopify://shop_images/Custom-Farm-Map-Display-01.png",
+        "bg_position": "center-center",
         "height": "screen-height-one-half",
-        "padding": false,
-        "borders": false,
-        "wrapper": false
-      }
-    },
-    "section_custom_content_U6cYKj": {
-      "type": "section-custom-content",
-      "blocks": {
-        "image_QDBw4r": {
-          "type": "image",
-          "settings": {
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "title": "",
-            "description": "",
-            "flex_align": "align--middle-center",
-            "text_color": "text-light",
-            "transparent": true,
-            "link_text": "",
-            "link": "",
-            "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        },
-        "text_rwAzRK": {
-          "type": "text",
-          "settings": {
-            "subheading": "",
-            "title": "6. Dispatch",
-            "text": "<p>Lastly, your piece is carefully and securely packaged, and then dispatched to you.</p><p>The wait is almost over, and shipping notifications will now be coming through to your inbox :)</p>",
-            "text_size": 2,
-            "text_columns": 1,
-            "align_text": "text-left",
-            "text_color": "text-dark",
-            "bg_color": "#ffffff",
-            "button_text": "",
-            "button_url": "",
-            "button_color": "btn--neutral",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        }
-      },
-      "block_order": [
-        "image_QDBw4r",
-        "text_rwAzRK"
-      ],
-      "settings": {
-        "height": "screen-height-one-half",
-        "padding": false,
-        "borders": false,
-        "wrapper": false
+        "overlay_opacity": 45,
+        "overlay_color": "#000",
+        "title": "",
+        "description": "Every boundary, creek, and contour - your family's legacy preserved in wood. Ready to begin?",
+        "flex_align": "align--bottom-center",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "Start Your Farm Map",
+        "link": "shopify://products/custom-farm-property-map",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--input btn--outline caps"
       }
     }
   },
@@ -329,7 +249,6 @@
     "section_custom_content_bwEebY",
     "section_custom_content_pnDGQC",
     "section_custom_content_G8cdG9",
-    "section_custom_content_rDPcLN",
-    "section_custom_content_U6cYKj"
+    "section_hero_8YzW4x"
   ]
 }
