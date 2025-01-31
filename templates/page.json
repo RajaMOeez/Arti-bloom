@@ -31,7 +31,7 @@
           "settings": {
             "subheading": "",
             "title": "1. Data Sourcing",
-            "text": "<p>A range of precise data is sourced to make your map.<br/><br/>This includes topographic, street, satellite, and property boundaries.</p><p>If you have an image or pdf that has the property boundaries that is helpful, but if not no problem.</p><p>When ordering just let us know the address, and we can source public data on lot boundaries, and then confirm them with you to make sure they are exactly right.</p>",
+            "text": "<p>A range of data is sourced to make your one of a kind map.<br/><br/>This includes topographic, street, satellite, and property boundaries.</p><p>If you have an image or pdf that has the property boundaries that is helpful, but if not no problem.</p><p>When ordering just let us know the address, and we can source public data on lot boundaries, and then confirm them with you to make sure they are exactly right.</p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
@@ -79,7 +79,7 @@
         "image_KNhytQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Source1-02.png",
+            "image": "shopify://shop_images/Farm-Map-Draft.png",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
@@ -98,8 +98,8 @@
           "type": "text",
           "settings": {
             "subheading": "",
-            "title": "2. Sourcing & Processing Data",
-            "text": "<p>We use various public repositories for topographic and street data. For example NASA data for large scale maps, and then for more zoomed in maps, we use data from local governments to achieve a higher resolution map. </p><p>This data then needs to be cleaned and processed to make it suitable for laser engraving and cutting.</p>",
+            "title": "2. Drafting",
+            "text": "<p>Next is cleaning up all of the data to make it pretty, and suitable for laser cutting.</p><p>A custom legend will be drafted, we usually have the property name and address here.</p><p>Then labels will be added for place names and locations that are important to you or the recipient.</p><p>I will email you the first digital draft for your review. We will then incorporate any adjustments you would like and provide you with up to two more drafts to get everything just right.</p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
