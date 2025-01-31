@@ -289,6 +289,22 @@
       "settings": {
         "title": ""
       }
+    },
+    "section_collection_a8HUFd": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "text_alignment": "center",
+        "link_text": "",
+        "link_url": "",
+        "button_color": "btn--black",
+        "button_style": "hero__btn btn btn--input btn--outline caps",
+        "featured_collection": "",
+        "grid": 4,
+        "rows": 3,
+        "layout_mobile": "carousel"
+      }
     }
   },
   "order": [
@@ -299,6 +315,7 @@
     "section_custom_content_G8cdG9",
     "section_split_hero_q4NpJy",
     "section_split_hero_QBx4Lh",
-    "section_tab_collections_RQHfFJ"
+    "section_tab_collections_RQHfFJ",
+    "section_collection_a8HUFd"
   ]
 }
