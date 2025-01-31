@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -30,8 +30,8 @@
           "type": "text",
           "settings": {
             "subheading": "",
-            "title": "1. Confirming Map Extent",
-            "text": "<p>The first step, is to confirm the map extent with you.<\/p><p>We review topographic data of the area, along with any other important information such as locations you would like to be included, property boundaries, and street data. <\/p><p>From this, we provide you with recommendations on the map extent.<\/p><p><em>* We can internally source all of this data, so you don't need to worry about providing this information.<\/em><\/p><p><\/p>",
+            "title": "1. Data Sourcing",
+            "text": "<p>A range of precise data is sourced to make your map.<br/><br/>This includes topographic, street, satellite, and property boundaries.</p><p>If you have an image or pdf that has the property boundaries that is helpful, but if not no problem.</p><p>When ordering just let us know the address, and we can source public data on lot boundaries, and then confirm them with you to make sure they are exactly right.</p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
@@ -46,7 +46,7 @@
         "image_HGK9jD": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Source1-03.png",
+            "image": "shopify://shop_images/Source1-03.png",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
@@ -79,7 +79,7 @@
         "image_KNhytQ": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Source1-02.png",
+            "image": "shopify://shop_images/Source1-02.png",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
@@ -99,7 +99,7 @@
           "settings": {
             "subheading": "",
             "title": "2. Sourcing & Processing Data",
-            "text": "<p>We use various public repositories for topographic and street data. For example NASA data for large scale maps, and then for more zoomed in maps, we use data from local governments to achieve a higher resolution map. <\/p><p>This data then needs to be cleaned and processed to make it suitable for laser engraving and cutting.<\/p>",
+            "text": "<p>We use various public repositories for topographic and street data. For example NASA data for large scale maps, and then for more zoomed in maps, we use data from local governments to achieve a higher resolution map. </p><p>This data then needs to be cleaned and processed to make it suitable for laser engraving and cutting.</p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
@@ -131,7 +131,7 @@
           "settings": {
             "subheading": "",
             "title": "3. Drafting",
-            "text": "<p>We email you a digital draft of your map.<\/p><p>At this point we can talk about any adjustments you would like (by email or on the phone), and incorporate them into the second draft. This way, we can get the piece just how you want it.<\/p><p>Some common adjustments include changes to the labeling, and changes to the legend title.<\/p><p><em>* Standard custom orders include up to 3 drafts.<\/em><\/p>",
+            "text": "<p>We email you a digital draft of your map.</p><p>At this point we can talk about any adjustments you would like (by email or on the phone), and incorporate them into the second draft. This way, we can get the piece just how you want it.</p><p>Some common adjustments include changes to the labeling, and changes to the legend title.</p><p><em>* Standard custom orders include up to 3 drafts.</em></p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
@@ -146,7 +146,7 @@
         "image_EpXjhW": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Source1-04.png",
+            "image": "shopify://shop_images/Source1-04.png",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
@@ -179,7 +179,7 @@
         "image_HfN3ND": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Source1-01.png",
+            "image": "shopify://shop_images/Source1-01.png",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
@@ -199,7 +199,7 @@
           "settings": {
             "subheading": "",
             "title": "4. Fabrication - Laser Cutting",
-            "text": "<p>Next the plywood for your map is treated. Depending on the style, this will involve sanding, painting, and varnishing.<\/p><p>Your digital file is also completed, and sent to the laser. Here the various sheets of treated plywood are engraved and cut .<\/p>",
+            "text": "<p>Next the plywood for your map is treated. Depending on the style, this will involve sanding, painting, and varnishing.</p><p>Your digital file is also completed, and sent to the laser. Here the various sheets of treated plywood are engraved and cut .</p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
@@ -231,7 +231,7 @@
           "settings": {
             "subheading": "",
             "title": "5. Fabrication - Assembly",
-            "text": "<p>Your map is now at the final stage of fabrication! <\/p><p>The many layers are carefully aligned and glued together, and then placed into a frame of Tasmanian Oak. This hardwood frame has been cut, sanded, stained, and oiled. <\/p>",
+            "text": "<p>Your map is now at the final stage of fabrication! </p><p>The many layers are carefully aligned and glued together, and then placed into a frame of Tasmanian Oak. This hardwood frame has been cut, sanded, stained, and oiled. </p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
@@ -246,7 +246,7 @@
         "image_drUAeM": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Source1-05.png",
+            "image": "shopify://shop_images/Source1-05.png",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
@@ -298,7 +298,7 @@
           "settings": {
             "subheading": "",
             "title": "6. Dispatch",
-            "text": "<p>Lastly, your piece is carefully and securely packaged, and then dispatched to you.<\/p><p>The wait is almost over, and shipping notifications will now be coming through to your inbox :)<\/p>",
+            "text": "<p>Lastly, your piece is carefully and securely packaged, and then dispatched to you.</p><p>The wait is almost over, and shipping notifications will now be coming through to your inbox :)</p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
