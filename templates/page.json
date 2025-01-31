@@ -23,56 +23,6 @@
         "bg_color": "#ffffff"
       }
     },
-    "section_custom_content_ezTVVd": {
-      "type": "section-custom-content",
-      "blocks": {
-        "text_fwngnE": {
-          "type": "text",
-          "settings": {
-            "subheading": "",
-            "title": "1. Data Sourcing",
-            "text": "<p>A range of data is sourced to make your one of a kind map.<br/><br/>This includes topographic, street, satellite, and property boundaries.</p><p>If you have an image or pdf that has the property boundaries that is helpful, but if not no problem.</p><p>When ordering just let us know the address, and we can source public data on lot boundaries, and then confirm them with you to make sure they are exactly right.</p>",
-            "text_size": 2,
-            "text_columns": 1,
-            "align_text": "text-left",
-            "text_color": "text-dark",
-            "bg_color": "#ffffff",
-            "button_text": "",
-            "button_url": "",
-            "button_color": "btn--neutral",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        },
-        "image_HGK9jD": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Source1-03.png",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "title": "",
-            "description": "",
-            "flex_align": "align--middle-center",
-            "text_color": "text-light",
-            "transparent": true,
-            "link_text": "",
-            "link": "",
-            "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        }
-      },
-      "block_order": [
-        "text_fwngnE",
-        "image_HGK9jD"
-      ],
-      "settings": {
-        "height": "screen-height-one-half",
-        "padding": false,
-        "borders": false,
-        "wrapper": false
-      }
-    },
     "section_custom_content_bwEebY": {
       "type": "section-custom-content",
       "blocks": {
@@ -249,7 +199,6 @@
   },
   "order": [
     "main",
-    "section_custom_content_ezTVVd",
     "section_custom_content_bwEebY",
     "section_custom_content_pnDGQC",
     "section_custom_content_G8cdG9",
