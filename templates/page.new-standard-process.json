@@ -222,29 +222,6 @@
         "borders": false,
         "wrapper": false
       }
-    },
-    "section_hero_8YzW4x": {
-      "type": "section-hero",
-      "custom_css": [
-        "h1 {font-size: 1px; line-height: 1.5;}",
-        ".btn--outline,.btn--secondary {font-size: 20px !important;}"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Custom-Farm-Map-Display-01.png",
-        "bg_position": "center-center",
-        "height": "screen-height-one-half",
-        "overlay_opacity": 55,
-        "overlay_color": "#000000",
-        "title": "",
-        "description": "Every boundary, creek, and contour - your family's legacy preserved in wood. Ready to begin?",
-        "flex_align": "align--middle-center",
-        "text_color": "text-light",
-        "transparent": true,
-        "link_text": "Start Your Farm Map",
-        "link": "shopify://products/custom-farm-property-map",
-        "button_color": "btn--white",
-        "button_style": "hero__btn btn btn--input btn--outline caps"
-      }
     }
   },
   "order": [
@@ -252,7 +229,6 @@
     "section_custom_content_ezTVVd",
     "section_custom_content_bwEebY",
     "section_custom_content_pnDGQC",
-    "section_custom_content_G8cdG9",
-    "section_hero_8YzW4x"
+    "section_custom_content_G8cdG9"
   ]
 }
