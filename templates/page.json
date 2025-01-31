@@ -199,7 +199,7 @@
           "settings": {
             "subheading": "",
             "title": "4. Packaging & Dispatch",
-            "text": "",
+            "text": "<p>Your piece is now securely bubble wrapped and packaged.</p><p>It is promptly dispatched to your door, and shipping updates will be sent to your inbox.</p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
