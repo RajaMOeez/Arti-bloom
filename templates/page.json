@@ -233,7 +233,7 @@
         "image": "shopify://shop_images/Custom-Farm-Map-Display-01.png",
         "bg_position": "center-center",
         "height": "screen-height-one-half",
-        "overlay_opacity": 50,
+        "overlay_opacity": 55,
         "overlay_color": "#000000",
         "title": "",
         "description": "Every boundary, creek, and contour - your family's legacy preserved in wood. Ready to begin?",
