@@ -31,7 +31,7 @@
           "settings": {
             "subheading": "",
             "title": "1. Data Sourcing",
-            "text": "<p>A range of data is sourced to make your one of a kind map.<br/><br/>This includes topographic, street, satellite, and property boundaries.</p><p>If you have an image or pdf that has the property boundaries that is helpful, but if not no problem.</p><p>When ordering just let us know the address, and we can source public data on lot boundaries, and then confirm them with you to make sure they are exactly right.</p>",
+            "text": "<p>A range of data is sourced to make your one of a kind map.<br/><br/>This includes NASA topographic data, street vectors, satellite imagery, and waterways.</p><p>When ordering just let us know the focus address, and the map will be aligned to this location.</p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
@@ -66,7 +66,6 @@
         "text_fwngnE",
         "image_HGK9jD"
       ],
-      "disabled": true,
       "settings": {
         "height": "screen-height-one-half",
         "padding": false,
@@ -217,7 +216,6 @@
         "image_HfN3ND",
         "text_iyEBjL"
       ],
-      "disabled": true,
       "settings": {
         "height": "screen-height-one-half",
         "padding": false,
