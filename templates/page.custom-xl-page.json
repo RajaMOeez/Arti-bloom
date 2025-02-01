@@ -61,10 +61,164 @@
         "text_color": "text-dark",
         "bg_color": "#ffffff"
       }
+    },
+    "section_columns_GHVz9H": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_3LEznA": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/IMG_20250115_181720-min.jpg",
+            "bg_position": "center-center",
+            "title": "Add a title or tagline",
+            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.</p>",
+            "button_text": "Learn more",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "text_block_Q8cqnq": {
+          "type": "text_block",
+          "settings": {
+            "bg_position": "center-center",
+            "title": "Add a title or tagline",
+            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.</p>",
+            "button_text": "Learn more",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "text_block_PAeyUM": {
+          "type": "text_block",
+          "settings": {
+            "bg_position": "center-center",
+            "title": "Add a title or tagline",
+            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.</p>",
+            "button_text": "Learn more",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_3LEznA",
+        "text_block_Q8cqnq",
+        "text_block_PAeyUM"
+      ],
+      "settings": {
+        "title": "",
+        "bg_color": "#ffffff",
+        "align_text": "text-left",
+        "width": "wrapper--full",
+        "equalize_height": true,
+        "photo_aspect_ratio": 0.5,
+        "enable_image": true
+      }
+    },
+    "section_split_hero_ytgWnt": {
+      "type": "section-split-hero",
+      "settings": {
+        "image_height": "screen-height-one-half",
+        "mobile_layout": "stacked",
+        "bg_position_left": "center-center",
+        "bg_position_right": "center-center",
+        "overlay_color": "#000",
+        "overlay_opacity": 0,
+        "title": "Split images",
+        "description": "Tell your brand's story through images.",
+        "flex_align": "align--middle-center",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "View products",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--large btn--outline caps"
+      }
+    },
+    "section_slideshow_UGJA6t": {
+      "type": "section-slideshow",
+      "blocks": {
+        "image_GiMPXK": {
+          "type": "image",
+          "settings": {
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "Image slide",
+            "description": "Tell your brand's story through images.",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "image_DrE8Yp": {
+          "type": "image",
+          "settings": {
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "Image slide",
+            "description": "Tell your brand's story through images.",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "image_dbAxbh": {
+          "type": "image",
+          "settings": {
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "Image slide",
+            "description": "Tell your brand's story through images.",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "image_GiMPXK",
+        "image_DrE8Yp",
+        "image_dbAxbh"
+      ],
+      "settings": {
+        "height": "screen-height-two-thirds",
+        "transition": "slide",
+        "arrows_style": true,
+        "dots_style": "hidden",
+        "autoplay": false,
+        "autoplay_speed": 8
+      }
     }
   },
   "order": [
     "main",
-    "contact_form_MdcwG6"
+    "contact_form_MdcwG6",
+    "section_columns_GHVz9H",
+    "section_split_hero_ytgWnt",
+    "section_slideshow_UGJA6t"
   ]
 }
