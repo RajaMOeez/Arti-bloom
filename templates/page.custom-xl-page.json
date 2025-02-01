@@ -9,6 +9,21 @@
  */
 {
   "sections": {
+    "main_page_JB93yK": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "show_title": true,
+        "show_content": true,
+        "text_size": 2,
+        "align_text": "text-left",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
     "contact_form_MdcwG6": {
       "type": "contact-form",
       "blocks": {
@@ -41,7 +56,7 @@
       ],
       "custom_css": [],
       "settings": {
-        "title": "",
+        "title": "Enquire About A Custom XL Map",
         "terms": true,
         "height": "margin--medium",
         "width": "wrapper--narrow",
@@ -179,6 +194,7 @@
     }
   },
   "order": [
+    "main_page_JB93yK",
     "contact_form_MdcwG6",
     "section_columns_GHVz9H",
     "section_columns_NEBUGy"
