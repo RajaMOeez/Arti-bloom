@@ -29,7 +29,7 @@
         "text_nzEiG4": {
           "type": "text",
           "settings": {
-            "title": "Full Name",
+            "title": "Name",
             "required": false
           }
         },
@@ -46,42 +46,13 @@
             "title": "Message",
             "required": true
           }
-        },
-        "form_heading_khmyVU": {
-          "type": "formHeading",
-          "settings": {
-            "title": "Optional:"
-          }
-        },
-        "checkbox_pkP8xF": {
-          "type": "checkbox",
-          "settings": {
-            "title": "This is urgent",
-            "required": false
-          }
-        },
-        "select_zbiJVF": {
-          "type": "select",
-          "settings": {
-            "title": "Select an option",
-            "label-one": "- Pick an option -",
-            "label-two": "Option one",
-            "label-three": "Option two",
-            "label-four": "Option three",
-            "label-five": "Option four",
-            "label-six": "Option five"
-          }
         }
       },
       "block_order": [
         "text_nzEiG4",
         "email_DCJXRf",
-        "body_qMaYMF",
-        "form_heading_khmyVU",
-        "checkbox_pkP8xF",
-        "select_zbiJVF"
+        "body_qMaYMF"
       ],
-      "disabled": true,
       "settings": {
         "title": "Contact us for XL",
         "terms": true,
