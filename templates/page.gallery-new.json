@@ -54,7 +54,7 @@
             "title": "",
             "text": "",
             "button_text": "Let's Create Your Farm Map",
-            "button_url": "shopify://products/custom-farm-property-map",
+            "button_url": "shopify://pages/the-process",
             "button_color": "btn--neutral",
             "button_style": "hero__btn btn btn--input caps",
             "enable_video": false,
