@@ -9,6 +9,46 @@
  */
 {
   "sections": {
+    "contact_form_MdcwG6": {
+      "type": "contact-form",
+      "blocks": {
+        "text_nzEiG4": {
+          "type": "text",
+          "settings": {
+            "title": "Name",
+            "required": false
+          }
+        },
+        "email_DCJXRf": {
+          "type": "email",
+          "settings": {
+            "title": "Email",
+            "required": true
+          }
+        },
+        "body_qMaYMF": {
+          "type": "body",
+          "settings": {
+            "title": "Location to be mapped, purpose of the map, and any other details.",
+            "required": true
+          }
+        }
+      },
+      "block_order": [
+        "text_nzEiG4",
+        "email_DCJXRf",
+        "body_qMaYMF"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "",
+        "terms": true,
+        "height": "margin--medium",
+        "width": "wrapper--narrow",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
     "section_columns_GHVz9H": {
       "type": "section-columns",
       "blocks": {
@@ -136,65 +176,11 @@
         "photo_aspect_ratio": 0.7,
         "enable_image": true
       }
-    },
-    "main": {
-      "type": "main-page",
-      "settings": {
-        "subheading": "",
-        "show_title": true,
-        "show_content": true,
-        "text_size": 2,
-        "align_text": "text-center",
-        "height": "margin--small",
-        "width": "wrapper--narrow",
-        "text_color": "text-dark",
-        "bg_color": "#ffffff"
-      }
-    },
-    "contact_form_MdcwG6": {
-      "type": "contact-form",
-      "blocks": {
-        "text_nzEiG4": {
-          "type": "text",
-          "settings": {
-            "title": "Name",
-            "required": false
-          }
-        },
-        "email_DCJXRf": {
-          "type": "email",
-          "settings": {
-            "title": "Email",
-            "required": true
-          }
-        },
-        "body_qMaYMF": {
-          "type": "body",
-          "settings": {
-            "title": "Location to be mapped, purpose of the map, and any other details.",
-            "required": true
-          }
-        }
-      },
-      "block_order": [
-        "text_nzEiG4",
-        "email_DCJXRf",
-        "body_qMaYMF"
-      ],
-      "settings": {
-        "title": "Contact us for XL",
-        "terms": true,
-        "height": "margin--medium",
-        "width": "wrapper--narrow",
-        "text_color": "text-dark",
-        "bg_color": "#ffffff"
-      }
     }
   },
   "order": [
+    "contact_form_MdcwG6",
     "section_columns_GHVz9H",
-    "section_columns_NEBUGy",
-    "main",
-    "contact_form_MdcwG6"
+    "section_columns_NEBUGy"
   ]
 }
