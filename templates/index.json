@@ -244,7 +244,7 @@
       "type": "custom-html",
       "name": "Custom HTML",
       "settings": {
-        "html": "<p>.</p>",
+        "html": "<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css\">\n<script src=\"https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js\"></script>\n\n<p>.</p>",
         "show_padding": true
       }
     }
