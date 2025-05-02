@@ -183,7 +183,14 @@
           "settings": {
             "title": "",
             "title_color": "",
+            "title_size_v2": 0,
             "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
             "background_color": "",
             "feed_id": "",
             "html_area": ""
@@ -232,6 +239,14 @@
         "rows": 1,
         "layout_mobile": "carousel"
       }
+    },
+    "custom_html_P3rLaQ": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "html": "<p>.</p>",
+        "show_padding": true
+      }
     }
   },
   "order": [
@@ -244,6 +259,7 @@
     "section_custom_content_E68hDm",
     "16649216157b87533d",
     "bad05730-1545-4e96-bb85-e7018736a854",
-    "8f437138-6964-497e-9d8b-6644c3c6fc82"
+    "8f437138-6964-497e-9d8b-6644c3c6fc82",
+    "custom_html_P3rLaQ"
   ]
 }
