@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -22,7 +22,7 @@
           }
         },
         "cbe682e2-0636-4572-bfbb-5849a1a2994c": {
-          "type": "shopify:\/\/apps\/afterpay-on-site-messaging\/blocks\/payments-messaging\/f45a5524-d177-4475-bf59-281efd2215a8",
+          "type": "shopify://apps/afterpay-on-site-messaging/blocks/payments-messaging/f45a5524-d177-4475-bf59-281efd2215a8",
           "settings": {
             "text_align": "inherit",
             "margin_top": 16,
@@ -52,7 +52,7 @@
           "settings": {
             "icon_name": "icon-rating",
             "icon_color": "#e4ca35",
-            "title": "<b>Rave reviews<\/b> - Over 50 five star reviews"
+            "title": "<b>Rave reviews</b> - Over 50 five star reviews"
           }
         },
         "icon_tkxnrc": {
@@ -60,7 +60,7 @@
           "settings": {
             "icon_name": "icon-shipment",
             "icon_color": "#b7854a",
-            "title": "<b>Free Worldwide Delivery<\/b> -  Handmade from Australia"
+            "title": "<b>Free Worldwide Delivery</b> -  Handmade from Australia"
           }
         },
         "icon_8yRnwP": {
@@ -87,14 +87,14 @@
           "settings": {
             "show_read_more": true,
             "style": "tabs",
-            "title_1": "Free Shipping",
-            "raw_content_1": "<p><strong>Free Shipping - Australia Post<\/strong><\/p><p><strong>AUS<\/strong> - 2 to 6 business days<\/p><p><strong>USA<\/strong> - 5 to 9 business days<\/p><p><strong>NZ \/ CA \/ EU<\/strong> - 6 to 15 business days<\/p><p>.<\/p><p><strong>Express Shipping<\/strong><\/p><p><strong>AUS<\/strong> - 1 to 3 business days<\/p><p><strong>USA<\/strong> - 3 to 6 business days<\/p><p>For more details click <a href=\"\/pages\/faq\" title=\"FAQ\">here<\/a><\/p><p>.<\/p><p>All maps are made to order within three business days.<\/p>",
+            "title_1": "Shipping",
+            "raw_content_1": "<p><strong>Free Shipping - Australia Post</strong></p><p><strong>AUS</strong> - 2 to 6 business days</p><p><strong>USA</strong> - 6 to 10 business days</p><p><strong>NZ / CA / EU</strong> - 6 to 15 business days</p><p>.</p><p><strong>Express Shipping</strong></p><p><strong>AUS</strong> - 1 to 3 business days</p><p><strong>USA</strong> - 3 to 6 business days</p><p>For more details click <a href=\"/pages/faq\" title=\"FAQ\">here</a></p><p>.</p><p>All maps are made to order within three business days.</p>",
             "title_2": "Returns",
-            "raw_content_2": "<p><strong>100% satisfaction guarantee<\/strong><\/p><p>If you're not satisfied with your map, simply return it within 30 days and once the map has returned to our workshop, a full refund will be remitted. No questions asked.<\/p><p><strong>100% damage free guarantee<\/strong><\/p><p>If your map is damaged during transit we will send you a full replacement at no extra cost, or the piece can be reframed at a store local to you and we will fully reimburse you for the reframing cost.<\/p>",
+            "raw_content_2": "<p><strong>100% satisfaction guarantee</strong></p><p>If you're not satisfied with your map, simply return it within 30 days and once the map has returned to our workshop, a full refund will be remitted. No questions asked.</p><p><strong>100% damage free guarantee</strong></p><p>If your map is damaged during transit we will send you a full replacement at no extra cost, or the piece can be reframed at a store local to you and we will fully reimburse you for the reframing cost.</p>",
             "title_3": "Framing",
-            "raw_content_3": "<p>All maps are framed and ready to gift or hang up.<\/p><p>Our frames are made from Tasmanian Oak, a durable hardwood so you can be sure your map will arrive in perfect condition.<\/p><p>We source it locally and sustainably here in Sydney, and it has a pleasing rosie hue with a beautiful grain. <\/p><p>.<\/p><p>We offer three finishes:<\/p><p>Natural - no staining, just the natural beauty of Tasmanian Oak with a protective oil coat<\/p><p>Brown - a dark brown stain and oil<\/p><p>Black - a rich black stain and oil<\/p><p>Please specify above which finish you would like.<\/p>",
+            "raw_content_3": "<p>All maps are framed and ready to gift or hang up.</p><p>Our frames are made from Tasmanian Oak, a durable hardwood so you can be sure your map will arrive in perfect condition.</p><p>We source it locally and sustainably here in Sydney, and it has a pleasing rosie hue with a beautiful grain. </p><p>.</p><p>We offer three finishes:</p><p>Natural - no staining, just the natural beauty of Tasmanian Oak with a protective oil coat</p><p>Brown - a dark brown stain and oil</p><p>Black - a rich black stain and oil</p><p>Please specify above which finish you would like.</p>",
             "title_4": "FAQ",
-            "raw_content_4": "<p><span style=\"text-decoration:underline\"><strong>Processing Time<\/strong><\/span><\/p><p>3 business days or less - all maps are made to order<\/p><p> <\/p><p> <\/p><p><span style=\"text-decoration:underline\"><strong>Materials<\/strong><\/span><\/p><p>All maps are made from basswood ply that is 1.5mm thick<\/p><p> <\/p><p> <\/p><p><span style=\"text-decoration:underline\"><strong>Taxes & Import Duties<\/strong><\/span><\/p><p>AU - nil, no extra fees<\/p><p>US \/ CA \/ EU \/ NZ - These may be levied by your state, they will be payable upon delivery of your map<\/p>",
+            "raw_content_4": "<p><span style=\"text-decoration:underline\"><strong>Processing Time</strong></span></p><p>3 business days or less - all maps are made to order</p><p> </p><p> </p><p><span style=\"text-decoration:underline\"><strong>Materials</strong></span></p><p>All maps are made from basswood ply that is 1.5mm thick</p><p> </p><p> </p><p><span style=\"text-decoration:underline\"><strong>Taxes & Import Duties</strong></span></p><p>AU - nil, no extra fees</p><p>US / CA / EU / NZ - These may be levied by your state, they will be payable upon delivery of your map</p>",
             "title_5": "",
             "raw_content_5": ""
           }
