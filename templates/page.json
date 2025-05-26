@@ -191,7 +191,7 @@
         "text_color": "text-light",
         "transparent": true,
         "link_text": "Start Your Farm Map",
-        "link": "shopify://products/custom-farm-property-map",
+        "link": "shopify://products/custom-farm-property-map-wooden-map-art",
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--input btn--outline caps"
       }
