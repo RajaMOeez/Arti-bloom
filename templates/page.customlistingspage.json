@@ -45,9 +45,7 @@
     },
     "section_collection_carousel_kRLzhC": {
       "type": "section-collection-carousel",
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "heading": "Custom Designs",
         "description": "<p>Dreaming of a bespoke wooden map that perfectly captures your favourite landscapes, cities, or memories? Now's your chance to bring those dreams to life! </p>",
@@ -77,7 +75,7 @@
         "text_color": "text-light",
         "transparent": true,
         "link_text": "Topographic Style - $740",
-        "link": "shopify://products/custom-topographic-style",
+        "link": "shopify://products/custom-topographic-style-wooden-map-art",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--large caps"
       }
