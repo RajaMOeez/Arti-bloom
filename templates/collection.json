@@ -40,6 +40,7 @@
     },
     "subcollections": {
       "type": "subcollections",
+      "disabled": true,
       "settings": {
         "subcollection_layout": "grid",
         "subcollection_description": true,
