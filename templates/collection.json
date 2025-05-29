@@ -46,32 +46,11 @@
         "subcollection_description": false,
         "select_image": "collection"
       }
-    },
-    "section_rich_text_N3LDpb": {
-      "type": "section-rich-text",
-      "name": "Rich text",
-      "settings": {
-        "subheading": "Introducing",
-        "title": "Rich text",
-        "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-        "text_size": 2,
-        "text_columns": 1,
-        "align_text": "text-left",
-        "button_text": "Learn more",
-        "button_url": "",
-        "button_color": "btn--neutral",
-        "button_style": "caps--large",
-        "height": "margin--medium",
-        "width": "wrapper",
-        "text_color": "text-dark",
-        "bg_color": "#ffffff"
-      }
     }
   },
   "order": [
     "hero",
     "main",
-    "subcollections",
-    "section_rich_text_N3LDpb"
+    "subcollections"
   ]
 }
