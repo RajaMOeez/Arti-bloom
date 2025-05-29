@@ -43,7 +43,7 @@
       "disabled": true,
       "settings": {
         "subcollection_layout": "grid",
-        "subcollection_description": false,
+        "subcollection_description": true,
         "select_image": "collection"
       }
     }
