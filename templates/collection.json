@@ -13,7 +13,7 @@
       "type": "collection-image-with-title",
       "settings": {
         "show_title": true,
-        "show_description": false,
+        "show_description": true,
         "text_color": "text-dark",
         "flex_align": "align--middle-left",
         "transparent": false,
@@ -40,6 +40,7 @@
     },
     "subcollections": {
       "type": "subcollections",
+      "disabled": true,
       "settings": {
         "subcollection_layout": "grid",
         "subcollection_description": true,
