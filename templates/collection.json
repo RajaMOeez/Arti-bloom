@@ -13,7 +13,7 @@
       "type": "collection-image-with-title",
       "settings": {
         "show_title": true,
-        "show_description": true,
+        "show_description": false,
         "text_color": "text-dark",
         "flex_align": "align--middle-left",
         "transparent": false,
