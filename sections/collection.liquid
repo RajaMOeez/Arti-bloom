@@ -67,6 +67,8 @@
     data-sort="{{ show_sort }}"
     data-collection="{{ collection.url | default: '/collections/all' }}">
 
+    {% render 'breadcrumbs' %}
+
     {%- assign align_classes = '' -%}
     {%- if show_sort -%}
       {%- assign align_classes = align_classes | append: ' collection__nav--sort ' -%}
