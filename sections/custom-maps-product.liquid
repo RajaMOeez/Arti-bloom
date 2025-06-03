@@ -136,8 +136,10 @@
         <a href="{{ _collection.url }}">{{ _collection.title }}</a>
       </nav>
     {%- endif -%}
+    {%- comment -%}
   {%- when 'breadcrumb'  -%}
     {% render 'breadcrumbs' breadcrumbs_modifier: 'breadcrumbs--no-padding product__breadcrumbs' %}
+  {%- endcomment -%}
 {%- endcase -%}
 
 <div class="product__title__wrapper" data-zoom-caption {{ block.shopify_attributes }}>
