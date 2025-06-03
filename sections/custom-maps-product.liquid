@@ -57,6 +57,9 @@
 -%}
 
 <div class="product__wrapper {{ modifier }}" data-product {{ data_thumbnails_left }}>
+
+  {% render 'breadcrumbs' %}
+  
   {%- liquid
     assign current_variant = product.selected_or_first_available_variant
     assign featured_media = product.selected_or_first_available_variant.featured_media | default: product.featured_media
