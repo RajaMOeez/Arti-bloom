@@ -58,6 +58,9 @@
 
 <div class="product__wrapper {{ modifier }}" data-product {{ data_thumbnails_left }}>
 
+  <p style="background: yellow; padding: 10px;">
+    DEBUG: product.title = "{{ product.title }}" | page_title = "{{ page_title }}"
+  </p>
   {% render 'breadcrumbs' %}
   
   {%- liquid
