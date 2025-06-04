@@ -41,7 +41,7 @@
           ,{
             "@type": "ListItem",
             "position": {{ position }},
-            "name": "{{ product.title | strip_html | escape }}",
+            "name": "{{ product_title_override | default: product.title | strip_html | escape }}",
             "item": "{{ shop.secure_url }}{{ product.url }}"
           }
         {% when 'collection' %}
@@ -107,7 +107,7 @@
             </li>
           {% endif %}
           <li class="breadcrumbs__item breadcrumbs__item--current">
-            <span class="breadcrumbs__current">{{ product.title | strip_html }}</span>
+            <span class="breadcrumbs__current">{{ product_title_override | default: product.title | strip_html }}</span>
           </li>
 
         {% when 'collection' %}
@@ -168,9 +168,28 @@
 
         {% else %}
           <!-- Fallback for other pages -->
-          <li class="breadcrumbs__item breadcrumbs__item--current">
-            <span class="breadcrumbs__current">{{ page_title | default: 'Page' }}</span>
-          </li>
+          {% if product %}
+            <!-- This is a product page that didn't match template detection -->
+            {% if collection %}
+              <li class="breadcrumbs__item">
+                <a href="{{ collection.url }}" class="breadcrumbs__link">{{ collection.title }}</a>
+                <span class="breadcrumbs__separator" aria-hidden="true">/</span>
+              </li>
+            {% elsif product.collections.size > 0 %}
+              {% assign primary_collection = product.collections.first %}
+              <li class="breadcrumbs__item">
+                <a href="{{ primary_collection.url }}" class="breadcrumbs__link">{{ primary_collection.title }}</a>
+                <span class="breadcrumbs__separator" aria-hidden="true">/</span>
+              </li>
+            {% endif %}
+            <li class="breadcrumbs__item breadcrumbs__item--current">
+              <span class="breadcrumbs__current">{{ product.title | strip_html }}</span>
+            </li>
+          {% else %}
+            <li class="breadcrumbs__item breadcrumbs__item--current">
+              <span class="breadcrumbs__current">{{ page_title | default: 'Page' }}</span>
+            </li>
+          {% endif %}
       {% endcase %}
     </ol>
   </div>
