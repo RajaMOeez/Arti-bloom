@@ -8,7 +8,7 @@
     {% render 'products-layout', section: section %}
 {% endcomment %}
 
-{%- assign featured_collection = collections[section.settings.featured_collection] -%}
+{%- assign featured_collection = collection | default: collections[section.settings.featured_collection] -%}
 {%- assign limit_products = 50 -%}
 {%- assign limit_onboarding = 8 -%}
 {%- assign animation_anchor = '#collection--' | append: section.id -%}
