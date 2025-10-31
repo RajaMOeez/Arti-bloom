@@ -1,12 +1,16 @@
 <!-- /sections/section-collection-carousel.liquid -->
 
-{% assign featured_collection = collections['landing-usa'] %}
+{% assign au_collection = collections[section.settings.au_featured_collection] %}
+{% assign non_au_collection = collections[section.settings.non_au_featured_collection] %}
+{% assign fallback_collection = collections[section.settings.featured_collection] %}
+
 {% if localization.country.iso_code == 'AU' %}
-  {% assign featured_collection = collections['landing-collection'] %}
+  {% assign featured_collection = au_collection | default: fallback_collection %}
+{% else %}
+  {% assign featured_collection = non_au_collection | default: fallback_collection %}
 {% endif %}
-{% if featured_collection == blank %}
-  {% assign featured_collection = collections[section.settings.featured_collection] %}
-{% endif %}
+
+
 
 {%- render 'products-layout' section: section, collection: featured_collection -%}
 
@@ -99,7 +103,17 @@
           "type": "collection",
           "id": "featured_collection",
           "label": "Collection"
-        }
+        },
+        {
+        "type": "collection",
+        "id": "au_featured_collection",
+        "label": "Australian Featured Collection"
+        },
+        {
+          "type": "collection",
+          "id": "non_au_featured_collection",
+          "label": "Non-Australian Featured Collection"
+        }        
       ],
       "presets": [
         {
