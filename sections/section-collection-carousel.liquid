@@ -1,6 +1,14 @@
 <!-- /sections/section-collection-carousel.liquid -->
 
-{%- render 'products-layout' section: section -%}
+{% assign featured_collection = collections['landing-usa'] %}
+{% if localization.country.iso_code == 'AU' %}
+  {% assign featured_collection = collections['landing-collection'] %}
+{% endif %}
+{% if featured_collection == blank %}
+  {% assign featured_collection = collections[section.settings.featured_collection] %}
+{% endif %}
+
+{%- render 'products-layout' section: section, collection: featured_collection -%}
 
 {% schema %}
   {
