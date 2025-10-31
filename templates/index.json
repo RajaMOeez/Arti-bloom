@@ -35,8 +35,8 @@
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--input btn--outline caps",
         "featured_collection": "new",
-        "au_featured_collection": "",
-        "non_au_featured_collection": ""
+        "au_featured_collection": "new",
+        "non_au_featured_collection": "new-usa"
       }
     },
     "170650075617a8850a": {
