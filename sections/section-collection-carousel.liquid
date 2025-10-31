@@ -1,5 +1,6 @@
 <!-- /sections/section-collection-carousel.liquid -->
 
+
 {% assign au_collection = collections[section.settings.au_featured_collection] %}
 {% assign non_au_collection = collections[section.settings.non_au_featured_collection] %}
 {% assign fallback_collection = collections[section.settings.featured_collection] %}
@@ -9,7 +10,6 @@
 {% else %}
   {% assign featured_collection = non_au_collection | default: fallback_collection %}
 {% endif %}
-
 
 
 {%- render 'products-layout' section: section, collection: featured_collection -%}
