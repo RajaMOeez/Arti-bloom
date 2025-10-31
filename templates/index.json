@@ -19,7 +19,9 @@
         "link_url": "shopify://collections/all-maps",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--input btn--outline caps",
-        "featured_collection": "landing-collection"
+        "featured_collection": "landing-collection",
+        "au_featured_collection": "landing-collection",
+        "non_au_featured_collection": "landing-usa"
       }
     },
     "section_collection_carousel_YXydg4": {
@@ -32,7 +34,9 @@
         "link_url": "shopify://collections/new",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--input btn--outline caps",
-        "featured_collection": "new"
+        "featured_collection": "new",
+        "au_featured_collection": "",
+        "non_au_featured_collection": ""
       }
     },
     "170650075617a8850a": {
