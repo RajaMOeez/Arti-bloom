@@ -36,7 +36,7 @@
         "template--15982264844446__420bd2e8-494c-4822-a4b2-b4d4b963efe3-1666064264f15a3e45-1": {
           "type": "email",
           "settings": {
-            "title": "Email",
+            "title": "Mobile Number - AU or US",
             "required": true
           }
         },
