@@ -39,6 +39,26 @@
         "non_au_featured_collection": "new-world"
       }
     },
+    "section_rich_text_cAgJBg": {
+      "type": "section-rich-text",
+      "name": "Rich text",
+      "settings": {
+        "subheading": "",
+        "title": "Why people choose our maps",
+        "text": "<p>Christmas shopping can be hard.</p><p>These wooden maps turn a loved one's place into art that means something. You don't need to guess if they'll like it - everyone loves seeing a place important to them.</p><p>700+ customers, with countless \"best gift ever\" stories.</p><p></p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
     "170650075617a8850a": {
       "type": "apps",
       "blocks": {
@@ -254,26 +274,6 @@
         "layout_mobile": "carousel"
       }
     },
-    "section_rich_text_cAgJBg": {
-      "type": "section-rich-text",
-      "name": "Rich text",
-      "settings": {
-        "subheading": "",
-        "title": "Why people choose this as a gift",
-        "text": "<p>Finding a meaningful Christmas gift isn't easy.</p><p>These wooden maps turn a loved one's place into art that means something. You don't need to guess if they'll like it - everyone loves seeing a place important to them.</p><p>Over 700 customers have chosen them for big life moments.</p><p></p>",
-        "text_size": 2,
-        "text_columns": 1,
-        "align_text": "text-left",
-        "button_text": "",
-        "button_url": "",
-        "button_color": "btn--neutral",
-        "button_style": "caps--large",
-        "height": "margin--small",
-        "width": "wrapper",
-        "text_color": "text-dark",
-        "bg_color": "#ffffff"
-      }
-    },
     "17617961324728fd6f": {
       "type": "_blocks",
       "blocks": {
@@ -318,6 +318,7 @@
   "order": [
     "section_collection_carousel_kJKL9n",
     "section_collection_carousel_YXydg4",
+    "section_rich_text_cAgJBg",
     "170650075617a8850a",
     "section_split_hero_BYwcn9",
     "custom_html_P3rLaQ",
@@ -327,7 +328,6 @@
     "16649216157b87533d",
     "bad05730-1545-4e96-bb85-e7018736a854",
     "8f437138-6964-497e-9d8b-6644c3c6fc82",
-    "section_rich_text_cAgJBg",
     "17617961324728fd6f"
   ]
 }
