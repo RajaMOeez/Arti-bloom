@@ -39,26 +39,6 @@
         "non_au_featured_collection": "new-world"
       }
     },
-    "section_rich_text_cAgJBg": {
-      "type": "section-rich-text",
-      "name": "Rich text",
-      "settings": {
-        "subheading": "",
-        "title": "Why people choose this as a gift",
-        "text": "<p>It can be hard to find a gift that's thoughtful, especially for Christmas.</p><p>Our wooden maps help by turning a loved one's special place into art they'll cherish for years to come.</p><p>You don't need to guess if they'll like it - everyone loves seeing a place that matters to them.</p><p>Over 700 customers have gifted our maps for Christmas, birthdays, weddings and big life moments.</p><p>Put your gift anxiety to rest!</p>",
-        "text_size": 2,
-        "text_columns": 1,
-        "align_text": "text-left",
-        "button_text": "",
-        "button_url": "",
-        "button_color": "btn--neutral",
-        "button_style": "caps--large",
-        "height": "margin--medium",
-        "width": "wrapper",
-        "text_color": "text-dark",
-        "bg_color": "#ffffff"
-      }
-    },
     "170650075617a8850a": {
       "type": "apps",
       "blocks": {
@@ -274,6 +254,26 @@
         "layout_mobile": "carousel"
       }
     },
+    "section_rich_text_cAgJBg": {
+      "type": "section-rich-text",
+      "name": "Rich text",
+      "settings": {
+        "subheading": "",
+        "title": "Why people choose this as a gift",
+        "text": "<p>Finding a meaningful Christmas gift isn't easy.</p><p></p><p></p><p>Our wooden maps help by turning a loved one's special place into art they'll cherish for years to come.</p><p>You don't need to guess if they'll like it - everyone loves seeing a place that matters to them.</p><p>Over 700 customers have gifted our maps for Christmas, birthdays, weddings and big life moments.</p><p>Put your gift anxiety to rest!</p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
     "17617961324728fd6f": {
       "type": "_blocks",
       "blocks": {
@@ -318,7 +318,6 @@
   "order": [
     "section_collection_carousel_kJKL9n",
     "section_collection_carousel_YXydg4",
-    "section_rich_text_cAgJBg",
     "170650075617a8850a",
     "section_split_hero_BYwcn9",
     "custom_html_P3rLaQ",
@@ -328,6 +327,7 @@
     "16649216157b87533d",
     "bad05730-1545-4e96-bb85-e7018736a854",
     "8f437138-6964-497e-9d8b-6644c3c6fc82",
+    "section_rich_text_cAgJBg",
     "17617961324728fd6f"
   ]
 }
