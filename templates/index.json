@@ -39,12 +39,34 @@
         "non_au_featured_collection": "new-world"
       }
     },
+    "section_rich_text_cAgJBg": {
+      "type": "section-rich-text",
+      "name": "Rich text",
+      "settings": {
+        "subheading": "Introducing",
+        "title": "Rich text",
+        "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "Learn more",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--medium",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
     "170650075617a8850a": {
       "type": "apps",
       "blocks": {
         "google_reviews_plus_app_block_Vtw4YU": {
           "type": "shopify://apps/rocket-google-reviews/blocks/app-block/d11c8893-a181-4aff-a280-7446d42cec3b",
-          "settings": {}
+          "settings": {
+            "widget_layout": "default"
+          }
         }
       },
       "block_order": [
@@ -69,8 +91,8 @@
         "bg_position_right": "center-center",
         "overlay_color": "#000000",
         "overlay_opacity": 45,
-        "title": "Custom - Farm",
-        "description": "From rolling hills to creeks and fence lines - map your property for lasting display",
+        "title": "Map Your Farm",
+        "description": "A Gift That Lasts Generations and Impresses Everyone Who Visits",
         "flex_align": "align--middle-center",
         "text_color": "text-light",
         "transparent": true,
@@ -103,12 +125,12 @@
         "bg_position_right": "center-center",
         "overlay_color": "#000000",
         "overlay_opacity": 45,
-        "title": "Custom - Any Location",
+        "title": "Custom maps for places that matter",
         "description": "From city streets to mountain peaks - turn special places into perfect gifts",
         "flex_align": "align--middle-center",
         "text_color": "text-light",
         "transparent": true,
-        "link_text": "The Process",
+        "link_text": "Start a custom map",
         "link": "shopify://pages/custom-any-location-process",
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--input btn--outline caps"
@@ -296,6 +318,7 @@
   "order": [
     "section_collection_carousel_kJKL9n",
     "section_collection_carousel_YXydg4",
+    "section_rich_text_cAgJBg",
     "170650075617a8850a",
     "section_split_hero_BYwcn9",
     "custom_html_P3rLaQ",
