@@ -48,7 +48,7 @@
         "text": "<p>Christmas shopping can be hard.</p><p>So get a handcrafted piece of their special place - always a winner.</p><p>700+ customers. With countless \"best gift ever\" stories.</p><p></p>",
         "text_size": 2,
         "text_columns": 1,
-        "align_text": "text-left",
+        "align_text": "text-center",
         "button_text": "",
         "button_url": "",
         "button_color": "btn--neutral",
