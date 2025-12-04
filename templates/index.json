@@ -12,10 +12,10 @@
     "section_collection_carousel_kJKL9n": {
       "type": "section-collection-carousel",
       "settings": {
-        "heading": "The kind of gift they won't get from anyone else",
-        "description": "<p>A wooden 3D map built from real timber. Made to last for decades.</p>",
+        "heading": "A gift they'll remember long after Christmas",
+        "description": "<p>A wooden 3D map crafted from real timber. Made to last for decades.</p>",
         "text_alignment": "left",
-        "link_text": "Shop All",
+        "link_text": "",
         "link_url": "shopify://collections/all-maps",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--input btn--outline caps",
