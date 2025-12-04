@@ -38,7 +38,14 @@
           "type": "question",
           "settings": {
             "title": "Shipping",
-            "content": "<p>Free global shipping for all small, medium and large maps. </p><p>Dispatched from Sydney with Australia Post, tracking provided to your email.</p><p>Pickup is available from the workshop in Balgowlah during business hours.</p><p>.</p><p><strong>AUS</strong> - 2 to 6 business days</p><p><strong>USA</strong> - 6 to 10 business days</p><p><strong>NZ, CA & EU</strong> - 6 to 15 business days</p><p>.</p><p>.</p><p>Option at checkout to upgrade shipping</p><p>.</p><p><strong>AUS</strong> <strong>Express </strong>- 1 to 3 business days - Australia Post Express</p><p>S - $15</p><p>M - $20</p><p>L - $30</p><p><em>(AUD)</em></p><p>.</p><p><strong>AUS</strong> <strong>Courier </strong>- 1 to 1.5 business days - DHL Express</p><p>S - $45</p><p>M - $45</p><p>L - $45</p><p><em>(AUD)</em></p><p>.</p><p><strong>USA</strong> <strong>Express </strong>- 3 to 6 business days - Australia Post International Express</p><p>S - $15</p><p>M - $15</p><p>L - $20</p><p><em>(USD)</em></p><p>.</p><p><strong>USA Courier</strong> - 1 to 2 business days - DHL Express Worldwide</p><p>S - $40</p><p>M - $45</p><p>L - $55</p><p><em>(USD)</em></p><p>.</p><p><strong>NZ, CA & EU Express - </strong>3 to 12 business days - Australia Post International Express</p><p>S - $15</p><p>M - $15</p><p>L - $20</p><p><em>(USD)</em></p>"
+            "content": "<p>Free global shipping for all maps. </p><p>Dispatched from Sydney with Australia Post, tracking provided to your email.</p><p>Pickup is available from the workshop in Balgowlah during business hours.</p><p>.</p><p><strong>AUS</strong> - 2 to 6 business days</p><p><strong>USA</strong> - 6 to 10 business days</p><p><strong>NZ, CA & EU</strong> - 6 to 15 business days</p><p>.</p><p>.</p><p>Option at checkout to upgrade shipping</p><p>.</p><p><strong>AUS</strong> <strong>Express </strong>- 1 to 3 business days - Australia Post Express</p><p>S - $15</p><p>M - $20</p><p>L - $30</p><p><em>(AUD)</em></p><p>.</p><p><strong>AUS</strong> <strong>Courier </strong>- 1 to 1.5 business days - DHL Express</p><p>S - $45</p><p>M - $45</p><p>L - $45</p><p><em>(AUD)</em></p><p>.</p><p><strong>USA</strong> <strong>Express </strong>- 3 to 6 business days - Australia Post International Express</p><p>S - $15</p><p>M - $15</p><p>L - $20</p><p><em>(USD)</em></p><p>.</p><p><strong>USA Courier</strong> - 1 to 2 business days - DHL Express Worldwide</p><p>S - $40</p><p>M - $45</p><p>L - $55</p><p><em>(USD)</em></p><p>.</p><p><strong>NZ, CA & EU Express - </strong>3 to 12 business days - Australia Post International Express</p><p>S - $15</p><p>M - $15</p><p>L - $20</p><p><em>(USD)</em></p>"
+          }
+        },
+        "question_mje3kF": {
+          "type": "question",
+          "settings": {
+            "title": "Tariffs",
+            "content": "<p>September 2025 we had some hiccups with shipping to the USA.</p><p>We updated our shipping classifications and procedures and are now back to normal - our maps are completely tariff exempt, so you don't have to worry about this.</p>"
           }
         },
         "64cacd1b-65df-4980-8696-ae8cf9290d79": {
@@ -94,6 +101,7 @@
       "block_order": [
         "94c7acf2-4df8-4929-b270-59aeb9b12b0a",
         "faq-0",
+        "question_mje3kF",
         "64cacd1b-65df-4980-8696-ae8cf9290d79",
         "faq-1",
         "faq-2",
