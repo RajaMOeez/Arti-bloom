@@ -12,8 +12,8 @@
     "section_collection_carousel_kJKL9n": {
       "type": "section-collection-carousel",
       "settings": {
-        "heading": "3D Topographic Maps",
-        "description": "<p>Celebrate life's milestones with a blend of art and geography</p>",
+        "heading": "The kind of gift they won't get from anyone else",
+        "description": "<p>A wooden 3D map built from real timber. Made to last for decades.</p>",
         "text_alignment": "left",
         "link_text": "Shop All",
         "link_url": "shopify://collections/all-maps",
@@ -43,13 +43,13 @@
       "type": "section-rich-text",
       "name": "Rich text",
       "settings": {
-        "subheading": "Introducing",
-        "title": "Rich text",
-        "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+        "subheading": "",
+        "title": "Why people choose this as a gift",
+        "text": "<p></p><p></p><p>Over 700 customers have gifted our maps for Christmas, birthdays, weddings and big life moments.</p><p></p>",
         "text_size": 2,
         "text_columns": 1,
         "align_text": "text-left",
-        "button_text": "Learn more",
+        "button_text": "",
         "button_url": "",
         "button_color": "btn--neutral",
         "button_style": "caps--large",
