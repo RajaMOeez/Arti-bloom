@@ -41,6 +41,7 @@
     },
     "section_rich_text_cAgJBg": {
       "type": "section-rich-text",
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "subheading": "",
