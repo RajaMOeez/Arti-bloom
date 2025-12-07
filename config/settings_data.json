@@ -113,7 +113,7 @@
           "text_t3LhzA": {
             "type": "text",
             "settings": {
-              "text": "<p>Order before <strong>December 10th</strong> for delivery by Christmas</p>",
+              "text": "<p>Delivery before Christmas order before:</p><p><strong>16th Dec</strong> for Aus wide delivery. <strong>12th</strong> <strong>Dec</strong> for USA wide delivery.</p>",
               "target_url_enabled": false,
               "target_url": "",
               "target_referrer_enabled": false,
