@@ -9,6 +9,49 @@
  */
 {
   "sections": {
+    "section_split_hero_BYwcn9": {
+      "type": "section-split-hero",
+      "custom_css": [
+        "h2 + p {font-size: 16px; line-height: 1.5;}",
+        ".btn--outline,.btn--secondary {font-size: 14px !important;}"
+      ],
+      "settings": {
+        "image_height": "screen-height-two-thirds",
+        "mobile_layout": "stacked",
+        "image_desktop_left": "shopify://shop_images/Farm-Australia-Wooden-Map_png_edfcef0f-524c-4cdf-bc8c-b8ff00113f2a.jpg",
+        "bg_position_left": "center-center",
+        "image_desktop_right": "shopify://shop_images/Wooden-Queensland-Topographic-Custom-Map.jpg",
+        "bg_position_right": "center-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 45,
+        "title": "Map Your Farm",
+        "description": "A Gift That Lasts Generations and Impresses Everyone Who Visits",
+        "flex_align": "align--middle-center",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "Explore Farm Maps",
+        "link": "shopify://pages/the-process",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--input btn--outline caps"
+      }
+    },
+    "170650075617a8850a": {
+      "type": "apps",
+      "blocks": {
+        "google_reviews_plus_app_block_Vtw4YU": {
+          "type": "shopify://apps/google-reviews-rocket/blocks/app-block/d11c8893-a181-4aff-a280-7446d42cec3b",
+          "settings": {
+            "widget_layout": "default"
+          }
+        }
+      },
+      "block_order": [
+        "google_reviews_plus_app_block_Vtw4YU"
+      ],
+      "settings": {
+        "include_margins": false
+      }
+    },
     "section_collection_carousel_kJKL9n": {
       "type": "section-collection-carousel",
       "settings": {
@@ -60,32 +103,6 @@
         "bg_color": "#ffffff"
       }
     },
-    "section_split_hero_BYwcn9": {
-      "type": "section-split-hero",
-      "custom_css": [
-        "h2 + p {font-size: 16px; line-height: 1.5;}",
-        ".btn--outline,.btn--secondary {font-size: 14px !important;}"
-      ],
-      "settings": {
-        "image_height": "screen-height-two-thirds",
-        "mobile_layout": "stacked",
-        "image_desktop_left": "shopify://shop_images/Farm-Australia-Wooden-Map_png_edfcef0f-524c-4cdf-bc8c-b8ff00113f2a.jpg",
-        "bg_position_left": "center-center",
-        "image_desktop_right": "shopify://shop_images/Wooden-Queensland-Topographic-Custom-Map.jpg",
-        "bg_position_right": "center-center",
-        "overlay_color": "#000000",
-        "overlay_opacity": 45,
-        "title": "Map Your Farm",
-        "description": "A Gift That Lasts Generations and Impresses Everyone Who Visits",
-        "flex_align": "align--middle-center",
-        "text_color": "text-light",
-        "transparent": true,
-        "link_text": "Explore Farm Maps",
-        "link": "shopify://pages/the-process",
-        "button_color": "btn--white",
-        "button_style": "hero__btn btn btn--input btn--outline caps"
-      }
-    },
     "custom_html_P3rLaQ": {
       "type": "custom-html",
       "name": "Custom HTML",
@@ -118,23 +135,6 @@
         "link": "shopify://pages/custom-any-location-process",
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--input btn--outline caps"
-      }
-    },
-    "170650075617a8850a": {
-      "type": "apps",
-      "blocks": {
-        "google_reviews_plus_app_block_Vtw4YU": {
-          "type": "shopify://apps/rocket-google-reviews/blocks/app-block/d11c8893-a181-4aff-a280-7446d42cec3b",
-          "settings": {
-            "widget_layout": "default"
-          }
-        }
-      },
-      "block_order": [
-        "google_reviews_plus_app_block_Vtw4YU"
-      ],
-      "settings": {
-        "include_margins": false
       }
     },
     "2893b0c6-7011-4012-98d5-f37dc6ed0383": {
@@ -239,25 +239,6 @@
         "include_margins": false
       }
     },
-    "bad05730-1545-4e96-bb85-e7018736a854": {
-      "type": "section-map",
-      "settings": {
-        "height": "screen-height-one-half",
-        "title": "The Workshop",
-        "address": "<p>Visit our map shop in Sydney's Northern Beaches<br/>to browse custom topographic maps up close.</p><p><em>23/2 Paton Place<br/>Balgowlah 2093<br/>Australia</em></p><p>Mon - Fri : 7am - 4pm<br/>Sat : 11am - 4pm</p>",
-        "button": "Directions",
-        "text_color": "text-dark",
-        "bg_color": "#fbfbfb",
-        "api_key": "AIzaSyAqMxtA6L_Z1yP0mtzxlNjldcC8zS87Rn4",
-        "map_address": "23/2 Paton Place Balgowlah 2093 Australia",
-        "zoom": 12,
-        "style": "light",
-        "bg_position": "center-center",
-        "enable_latlong": false,
-        "lat": "",
-        "long": ""
-      }
-    },
     "8f437138-6964-497e-9d8b-6644c3c6fc82": {
       "type": "section-collection",
       "disabled": true,
@@ -317,17 +298,16 @@
     }
   },
   "order": [
+    "section_split_hero_BYwcn9",
+    "170650075617a8850a",
     "section_collection_carousel_kJKL9n",
     "section_collection_carousel_YXydg4",
     "section_rich_text_cAgJBg",
-    "section_split_hero_BYwcn9",
     "custom_html_P3rLaQ",
     "section_split_hero_aRdEcW",
-    "170650075617a8850a",
     "2893b0c6-7011-4012-98d5-f37dc6ed0383",
     "section_custom_content_E68hDm",
     "16649216157b87533d",
-    "bad05730-1545-4e96-bb85-e7018736a854",
     "8f437138-6964-497e-9d8b-6644c3c6fc82",
     "17617961324728fd6f"
   ]
