@@ -12,6 +12,13 @@
     "420bd2e8-494c-4822-a4b2-b4d4b963efe3": {
       "type": "contact-form",
       "blocks": {
+        "text_7MHqeR": {
+          "type": "text",
+          "settings": {
+            "title": "bonus",
+            "required": false
+          }
+        },
         "template--15982264844446__420bd2e8-494c-4822-a4b2-b4d4b963efe3-1666064264f15a3e45-0": {
           "type": "text",
           "settings": {
@@ -47,6 +54,7 @@
         }
       },
       "block_order": [
+        "text_7MHqeR",
         "template--15982264844446__420bd2e8-494c-4822-a4b2-b4d4b963efe3-1666064264f15a3e45-0",
         "template--15982264844446__420bd2e8-494c-4822-a4b2-b4d4b963efe3-1666064264f15a3e45-1",
         "template--15982264844446__420bd2e8-494c-4822-a4b2-b4d4b963efe3-1666064264f15a3e45-2",
