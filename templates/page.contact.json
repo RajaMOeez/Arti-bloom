@@ -74,30 +74,10 @@
         "text_color": "text-dark",
         "bg_color": "#ffffff"
       }
-    },
-    "813600c8-8d96-4e74-b241-f65b65e1a960": {
-      "type": "section-map",
-      "settings": {
-        "height": "screen-height-one-half",
-        "title": "Workshop & Showroom",
-        "address": "<p>23/2 Paton Place<br/>Balgowlah 2093<br/>Australia</p><p>Mon - Fri: 9am - 4pm<br/>Sat: 10am - 2pm</p>",
-        "button": "Directions",
-        "text_color": "text-dark",
-        "bg_color": "#fbfbfb",
-        "api_key": "AIzaSyAqMxtA6L_Z1yP0mtzxlNjldcC8zS87Rn4",
-        "map_address": "23/2 Paton Place, Balgowlah, 2093, Australia",
-        "zoom": 12,
-        "style": "light",
-        "bg_position": "center-center",
-        "enable_latlong": false,
-        "lat": "",
-        "long": ""
-      }
     }
   },
   "order": [
-    "main",
     "420bd2e8-494c-4822-a4b2-b4d4b963efe3",
-    "813600c8-8d96-4e74-b241-f65b65e1a960"
+    "main"
   ]
 }
