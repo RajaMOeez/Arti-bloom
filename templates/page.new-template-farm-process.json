@@ -9,18 +9,27 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "main-page",
+    "section_hero_hGXrij": {
+      "type": "section-hero",
+      "custom_css": [
+        "h1 {font-size: 1px; line-height: 1.5;}",
+        ".btn--outline,.btn--secondary {font-size: 20px !important;}"
+      ],
       "settings": {
-        "subheading": "",
-        "show_title": true,
-        "show_content": true,
-        "text_size": 2,
-        "align_text": "text-center",
-        "height": "margin--small",
-        "width": "wrapper--narrow",
-        "text_color": "text-dark",
-        "bg_color": "#ffffff"
+        "image": "shopify://shop_images/Custom-Farm-Map-Display-01.png",
+        "bg_position": "center-center",
+        "height": "screen-height-one-half",
+        "overlay_opacity": 55,
+        "overlay_color": "#000000",
+        "title": "Mapping Your Farm - The Process",
+        "description": "Your land tells a unique story.\n\nWe capture every homestead, dam, track, and fence line in stunning wooden relief - transforming your property's legacy into both a practical reference and family heirloom.\n\nAdd your establishment date, property name and highlight the features that matter most.",
+        "flex_align": "align--middle-center",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "Submit Request",
+        "link": "shopify://products/custom-farm-property-map-wooden-map-art",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--input btn--outline caps"
       }
     },
     "section_custom_content_ezTVVd": {
@@ -240,7 +249,7 @@
         "flex_align": "align--middle-center",
         "text_color": "text-light",
         "transparent": true,
-        "link_text": "Start Your Farm Map",
+        "link_text": "Request Digital Preview",
         "link": "shopify://products/custom-farm-property-map-wooden-map-art",
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--input btn--outline caps"
@@ -248,7 +257,7 @@
     }
   },
   "order": [
-    "main",
+    "section_hero_hGXrij",
     "section_custom_content_ezTVVd",
     "section_custom_content_bwEebY",
     "section_custom_content_pnDGQC",
