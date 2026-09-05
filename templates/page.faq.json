@@ -12,6 +12,13 @@
     "faq-first": {
       "type": "page-faq",
       "blocks": {
+        "question_6YFtnq": {
+          "type": "question",
+          "settings": {
+            "title": "What if the land is flat? Will it look like a blank board?",
+            "content": "<p>That is the question we get most. We tighten the contour interval so gentle country still reads in 3D, and where the land needs more than that we add things like an engraved hill shade and vegetation hatching. You will see which combination fits the location best on the digital draft. We do not start cutting until you approve it.</p>"
+          }
+        },
         "question_kf896p": {
           "type": "question",
           "settings": {
@@ -70,6 +77,7 @@
         }
       },
       "block_order": [
+        "question_6YFtnq",
         "question_kf896p",
         "question_CUQBjD",
         "question_TQ7jFf",
