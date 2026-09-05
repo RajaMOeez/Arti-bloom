@@ -399,35 +399,91 @@
     "section_slideshow_X4CMqH": {
       "type": "section-slideshow",
       "blocks": {
-        "image_H7xCVz": {
+        "image_RyFqtH": {
           "type": "image",
           "settings": {
             "bg_position": "center-center",
+            "image": "shopify://shop_images/Contour-Map-Of-My-Farm_3b9b767e-6097-4f84-8c4a-741ea526f8e8.jpg",
             "overlay_opacity": 0,
-            "overlay_color": "#000",
-            "title": "Image slide",
-            "description": "Tell your brand's story through images.",
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
             "flex_align": "align--middle-center",
             "text_color": "text-light",
             "transparent": true,
-            "link_text": "View products",
+            "link_text": "",
             "link": "",
             "button_color": "btn--white",
             "button_style": "hero__btn btn btn--large btn--outline caps"
           }
         },
-        "image_UVWxm6": {
+        "image_mKfWMC": {
           "type": "image",
           "settings": {
             "bg_position": "center-center",
+            "image": "shopify://shop_images/Farm-Australia-Wooden-Map_png_280a1ac3-a559-47de-89b0-26a4b8052a8c.jpg",
             "overlay_opacity": 0,
-            "overlay_color": "#000",
-            "title": "Image slide",
-            "description": "Tell your brand's story through images.",
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
             "flex_align": "align--middle-center",
             "text_color": "text-light",
             "transparent": true,
-            "link_text": "View products",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "image_MgEQR3": {
+          "type": "image",
+          "settings": {
+            "bg_position": "center-center",
+            "image": "shopify://shop_images/Laser-Relief-Art-Woodlands-Park.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "image_FEwtKt": {
+          "type": "image",
+          "settings": {
+            "bg_position": "center-center",
+            "image": "shopify://shop_images/grants-beach-topographic-farm-map.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "image_H7xCVz": {
+          "type": "image",
+          "settings": {
+            "bg_position": "center-center",
+            "image": "shopify://shop_images/copperstone-creek-3d-wood-map.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
             "link": "",
             "button_color": "btn--white",
             "button_style": "hero__btn btn btn--large btn--outline caps"
@@ -435,8 +491,11 @@
         }
       },
       "block_order": [
-        "image_H7xCVz",
-        "image_UVWxm6"
+        "image_RyFqtH",
+        "image_mKfWMC",
+        "image_MgEQR3",
+        "image_FEwtKt",
+        "image_H7xCVz"
       ],
       "name": "Slideshow",
       "settings": {
@@ -458,8 +517,8 @@
     "section_custom_content_G8cdG9",
     "1788611202939cce6e",
     "section_rich_text_8XPHJ7",
+    "section_slideshow_X4CMqH",
     "page_faq_TzNHny",
-    "1788599121e48aa84b",
-    "section_slideshow_X4CMqH"
+    "1788599121e48aa84b"
   ]
 }
