@@ -334,6 +334,20 @@
             "title": "Do you cover shipping, tariffs and duty?",
             "content": "<p>DHL Express is included. We cover import duty and tariffs on the orders we ship, so the tracking emails are just tracking - not a bill at the door.</p>"
           }
+        },
+        "question_3jQj6U": {
+          "type": "question",
+          "settings": {
+            "title": "Can I add tracks, dams, or place names later?",
+            "content": "<p>Yes, during drafting. We will not cut until those are right.</p>"
+          }
+        },
+        "question_PdkqMj": {
+          "type": "question",
+          "settings": {
+            "title": "Is this a good gift if they already have photos of the farm?",
+            "content": "<p>Photos show a moment. This shows the real 3D form of the land - the ridge behind the sheds, the front dam, the old boundary. That is why it stays on the wall and why it works for people who are hard to buy for.</p>"
+          }
         }
       },
       "block_order": [
@@ -342,7 +356,9 @@
         "question_6P4RXY",
         "question_9cwXEz",
         "question_f9WcJE",
-        "question_LRgTKL"
+        "question_LRgTKL",
+        "question_3jQj6U",
+        "question_PdkqMj"
       ],
       "name": "Accordion group",
       "settings": {
