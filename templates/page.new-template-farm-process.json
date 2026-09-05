@@ -232,27 +232,32 @@
         "wrapper": false
       }
     },
-    "section_hero_8YzW4x": {
-      "type": "section-hero",
-      "custom_css": [
-        "h1 {font-size: 1px; line-height: 1.5;}",
-        ".btn--outline,.btn--secondary {font-size: 20px !important;}"
+    "1788599121e48aa84b": {
+      "type": "apps",
+      "blocks": {
+        "forms_inline_8d8iAk": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "1140847",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#FFFFFF",
+            "links_color": "#1878B9",
+            "errors_color": "#E02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 24,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        }
+      },
+      "block_order": [
+        "forms_inline_8d8iAk"
       ],
       "settings": {
-        "image": "shopify://shop_images/Custom-Farm-Map-Display-01.png",
-        "bg_position": "center-center",
-        "height": "screen-height-one-half",
-        "overlay_opacity": 55,
-        "overlay_color": "#000000",
-        "title": "",
-        "description": "Every boundary, creek, and contour - your family's legacy preserved in wood. Ready to begin?",
-        "flex_align": "align--middle-center",
-        "text_color": "text-light",
-        "transparent": true,
-        "link_text": "Submit Request",
-        "link": "shopify://pages/free-digital-preview",
-        "button_color": "btn--white",
-        "button_style": "hero__btn btn btn--input btn--outline caps"
+        "include_margins": false
       }
     }
   },
@@ -262,6 +267,6 @@
     "section_custom_content_bwEebY",
     "section_custom_content_pnDGQC",
     "section_custom_content_G8cdG9",
-    "section_hero_8YzW4x"
+    "1788599121e48aa84b"
   ]
 }
