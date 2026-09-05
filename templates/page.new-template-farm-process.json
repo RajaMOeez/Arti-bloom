@@ -19,6 +19,8 @@
         "link_url": "",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--input btn--outline caps",
+        "image_1": "shopify://shop_images/Satellite-Map-Farm_685939cd-8b8b-4111-9749-c5e2fe01dcfb.webp",
+        "image_2": "shopify://shop_images/Property-Farm-Wood-Art_754990e6-a31b-4dc0-a1f8-fd75a0b3b513.webp",
         "aspect_ratio": 1,
         "image_position": "center-center",
         "height": "margin--medium",
@@ -29,6 +31,7 @@
     },
     "section_hero_hGXrij": {
       "type": "section-hero",
+      "disabled": true,
       "custom_css": [
         "h1 {font-size: 1px; line-height: 1.5;}",
         ".btn--outline,.btn--secondary {font-size: 20px !important;}"
