@@ -12,7 +12,7 @@
     "178857501971b49d1a": {
       "type": "apps",
       "blocks": {
-        "forms_inline_HmQW47": {
+        "forms_inline_96jJ9D": {
           "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
           "settings": {
             "form_id": "1140847",
@@ -31,14 +31,83 @@
         }
       },
       "block_order": [
-        "forms_inline_HmQW47"
+        "forms_inline_96jJ9D"
       ],
       "settings": {
         "include_margins": false
       }
+    },
+    "contact_form_7ntTRE": {
+      "type": "contact-form",
+      "blocks": {
+        "text_iBtYFN": {
+          "type": "text",
+          "settings": {
+            "title": "Full Name",
+            "required": false
+          }
+        },
+        "email_zDjTFF": {
+          "type": "email",
+          "settings": {
+            "title": "Email",
+            "required": true
+          }
+        },
+        "body_8GgH8r": {
+          "type": "body",
+          "settings": {
+            "title": "Message",
+            "required": true
+          }
+        },
+        "form_heading_UHJzmh": {
+          "type": "formHeading",
+          "settings": {
+            "title": "Optional:"
+          }
+        },
+        "checkbox_ae3j9M": {
+          "type": "checkbox",
+          "settings": {
+            "title": "This is urgent",
+            "required": false
+          }
+        },
+        "select_8pjmxE": {
+          "type": "select",
+          "settings": {
+            "title": "Select an option",
+            "label-one": "- Pick an option -",
+            "label-two": "Option one",
+            "label-three": "Option two",
+            "label-four": "Option three",
+            "label-five": "Option four",
+            "label-six": "Option five"
+          }
+        }
+      },
+      "block_order": [
+        "text_iBtYFN",
+        "email_zDjTFF",
+        "body_8GgH8r",
+        "form_heading_UHJzmh",
+        "checkbox_ae3j9M",
+        "select_8pjmxE"
+      ],
+      "name": "Contact form",
+      "settings": {
+        "title": "Contact us",
+        "terms": true,
+        "height": "margin--medium",
+        "width": "wrapper--narrow",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
     }
   },
   "order": [
-    "178857501971b49d1a"
+    "178857501971b49d1a",
+    "contact_form_7ntTRE"
   ]
 }
