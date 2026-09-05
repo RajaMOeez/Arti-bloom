@@ -112,6 +112,7 @@
         "blocks": {
           "text_t3LhzA": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "text": "<p><strong>Free Shipping - Australia & USA</strong></p><p>Current Fabrication Times: Catalog 4 Business Days, Custom 3 weeks</p>",
               "target_url_enabled": false,
