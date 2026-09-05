@@ -12,13 +12,6 @@
     "faq-first": {
       "type": "page-faq",
       "blocks": {
-        "94c7acf2-4df8-4929-b270-59aeb9b12b0a": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "title": "a"
-          }
-        },
         "faq-0": {
           "type": "question",
           "settings": {
@@ -84,7 +77,6 @@
         }
       },
       "block_order": [
-        "94c7acf2-4df8-4929-b270-59aeb9b12b0a",
         "faq-0",
         "question_mje3kF",
         "64cacd1b-65df-4980-8696-ae8cf9290d79",
@@ -129,7 +121,7 @@
             "icon_name": "icon-chat",
             "icon_color": "#545454",
             "title": "Get in touch",
-            "text": "Have questions? Get in touch at any time - tim@originmaps.com"
+            "text": "Have questions? Get in touch - tim@originmaps.com"
           }
         }
       },
