@@ -30,7 +30,7 @@
           "type": "question",
           "settings": {
             "title": "Sizes",
-            "content": "<p><strong>S </strong>- 12 x 16\" - 30 x 40cm</p><p><strong>M </strong>- 18 x 24\" - 45 x 60cm</p><p><strong>L </strong>- 24 x 32\" - 60 x 80cm</p><p><em>These dimensions include the frame</em></p>"
+            "content": "<p><strong>Small </strong>- 12 x 16\" - 30 x 40cm</p><p><strong>Medium </strong>- 18 x 24\" - 45 x 60cm</p><p><strong>Large </strong>- 24 x 32\" - 60 x 80cm</p><p><em>These dimensions include the frame</em></p>"
           }
         },
         "faq-1": {
