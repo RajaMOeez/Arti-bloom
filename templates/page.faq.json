@@ -51,7 +51,7 @@
           "type": "question",
           "settings": {
             "title": "What’s the difference between a catalog and custom map?",
-            "content": "<p>Catalog maps are places we've already made - ready in 4 business days. Customs take 2 weeks for drafting, and then 1 week for fabrication.</p>"
+            "content": "<p>Catalog maps are designs we've already made, the files are ready for the laser cutter - ready in 4 business days.</p><p>Customs take 2 weeks for drafting, and 1 week for fabrication.</p>"
           }
         },
         "question_TQ7jFf": {
