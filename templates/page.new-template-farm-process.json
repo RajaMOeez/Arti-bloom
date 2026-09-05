@@ -253,6 +253,23 @@
         "wrapper": false
       }
     },
+    "1788611202939cce6e": {
+      "type": "apps",
+      "blocks": {
+        "google_reviews_rocket_app_block_w8xjYA": {
+          "type": "shopify://apps/google-reviews-rocket/blocks/app-block/d11c8893-a181-4aff-a280-7446d42cec3b",
+          "settings": {
+            "widget_layout": "default"
+          }
+        }
+      },
+      "block_order": [
+        "google_reviews_rocket_app_block_w8xjYA"
+      ],
+      "settings": {
+        "include_margins": false
+      }
+    },
     "1788599121e48aa84b": {
       "type": "apps",
       "blocks": {
@@ -280,6 +297,26 @@
       "settings": {
         "include_margins": false
       }
+    },
+    "section_rich_text_8XPHJ7": {
+      "type": "section-rich-text",
+      "name": "Rich text",
+      "settings": {
+        "subheading": "Introducing",
+        "title": "Rich text",
+        "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "Learn more",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--medium",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
     }
   },
   "order": [
@@ -289,6 +326,8 @@
     "section_custom_content_bwEebY",
     "section_custom_content_pnDGQC",
     "section_custom_content_G8cdG9",
+    "1788611202939cce6e",
+    "section_rich_text_8XPHJ7",
     "1788599121e48aa84b"
   ]
 }
