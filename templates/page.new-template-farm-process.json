@@ -9,6 +9,24 @@
  */
 {
   "sections": {
+    "section_before_after_LBPAdY": {
+      "type": "section-before-after",
+      "name": "Before and after",
+      "settings": {
+        "heading": "The Farm, In Wood",
+        "description": "<p>A framed 3D contour map of the property. Homestead, dams, tracks, fence lines. Ready to hang. You do not need data, software, or a briefing document. Address plus a screenshot is enough.</p><p>Most people are trying to give something that shows they know the place — and they do not want to get it wrong. You see the land first. Wood is cut after you say so.</p><p><strong>What you get</strong></p><ul><li>A one-of-one wooden contour map of the property, farm or ranch</li><li>Framed in Oak, ready to hang</li><li>Property name, lot names, and the features that matter most</li><li>A higher-resolution technical map of the same ground (a copy that can be used for planning - fences, dams, the real lay of the land)</li><li>DHL to the door. We cover tariffs and import duty.</li></ul>",
+        "link_text": "",
+        "link_url": "",
+        "button_color": "btn--black",
+        "button_style": "hero__btn btn btn--input btn--outline caps",
+        "aspect_ratio": 1,
+        "image_position": "center-center",
+        "height": "margin--medium",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
     "section_hero_hGXrij": {
       "type": "section-hero",
       "custom_css": [
@@ -262,6 +280,7 @@
     }
   },
   "order": [
+    "section_before_after_LBPAdY",
     "section_hero_hGXrij",
     "section_custom_content_ezTVVd",
     "section_custom_content_bwEebY",
