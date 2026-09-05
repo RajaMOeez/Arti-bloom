@@ -61,7 +61,7 @@
           "settings": {
             "subheading": "",
             "title": "1. Show us the place",
-            "text": "<p>Confirm the location to be mapped. If you have a screenshot or property map that helps with with generating the preview, but it's not critical. We pull public boundaries, terrain, and roads and confirm them with you. This is not on you to have the data. We can source everything.</p>",
+            "text": "<p>Confirm the location to be mapped. If you have a screenshot or property map that helps with with generating the preview, but it's not critical. We will source all the data and confirm it with you - topography, property boundaries, roads and waterways.</p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
@@ -176,7 +176,7 @@
         "image_EpXjhW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Source1-01.png",
+            "image": "shopify://shop_images/Laser-Cut-Map-Animal-Pancakes.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
@@ -276,7 +276,7 @@
       "settings": {
         "subheading": "",
         "title": "",
-        "text": "<p><strong>If the country is gentle</strong><br/><br/>After crafting 800+ maps, I've honed my judgement on setting a contour interval that creates a 3D form that isn't too flat, or too vertically exaggerated and full of cliffs. Fence lines, the house, dams and waterways carry a lot of the picture on gentler ground. We also have a range of design techniques such as engraved hill shades and vegetation hatching that can be incorporated as suitable.</p><p><strong>Not happy with the map?</strong><br/><br/>30 days after it arrives: if you or the recipient does not love it, send it back for a full refund. In the unlikely case it's damaged in transit, we'll replace it. The piece is built to last, that's why we have a 5-year warranty.</p><p><strong>What it costs</strong><br/><br/>Full price for custom farm maps start from USD $750, the medium is $1150, the large is $1690. 50% deposit holds the timber and production slot; then 50% when you approve the design. The preview is free so you are not buying blind.</p><p><strong>What to do now</strong><br/><br/>Use the form at the bottom of this page to request your digital preview. Each month we have a limited number of slots and only take on jobs that we are confident will result in a piece that looks great.</p>",
+        "text": "<p><strong>If the country is gentle</strong><br/><br/>After crafting 800+ maps, I've honed my judgement on setting a contour interval that creates a 3D form that isn't too flat, or too vertically exaggerated and full of cliffs. Fence lines, the house, dams and waterways carry a lot of the picture on gentler ground. We also have a range of design techniques such as engraved hill shades and vegetation hatching that can be incorporated as suitable.</p><p><strong>Not happy with the map?</strong><br/><br/>30 days after it arrives: if you or the recipient does not love it, send it back for a full refund. In the unlikely case it's damaged in transit, we'll replace it. The piece is built to last, that's why we have a 5-year warranty.</p><p><strong>What it costs</strong><br/><br/>Full price for custom farm maps start from USD $750, the medium is $1150, the large is $1690. 50% deposit holds the timber and production slot; then 50% when you approve the design. The preview is free so you are not buying blind.</p><p><strong>What to do now</strong><br/><br/>Use the form at the bottom of this page to request your digital preview. Each month we have a limited number of slots.</p>",
         "text_size": 2,
         "text_columns": 1,
         "align_text": "text-left",
@@ -395,6 +395,58 @@
       "settings": {
         "include_margins": false
       }
+    },
+    "section_slideshow_X4CMqH": {
+      "type": "section-slideshow",
+      "blocks": {
+        "image_H7xCVz": {
+          "type": "image",
+          "settings": {
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "Image slide",
+            "description": "Tell your brand's story through images.",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "image_UVWxm6": {
+          "type": "image",
+          "settings": {
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "Image slide",
+            "description": "Tell your brand's story through images.",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "image_H7xCVz",
+        "image_UVWxm6"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "height": "screen-height-one-half",
+        "transition": "slide",
+        "arrows_style": true,
+        "dots_style": "hidden",
+        "autoplay": false,
+        "autoplay_speed": 4
+      }
     }
   },
   "order": [
@@ -407,6 +459,7 @@
     "1788611202939cce6e",
     "section_rich_text_8XPHJ7",
     "page_faq_TzNHny",
-    "1788599121e48aa84b"
+    "1788599121e48aa84b",
+    "section_slideshow_X4CMqH"
   ]
 }
