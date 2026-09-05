@@ -43,8 +43,8 @@
         "faq-1": {
           "type": "question",
           "settings": {
-            "title": "Returns Policy",
-            "content": "<p><strong>100% satisfaction guarantee</strong></p><p>If you're not satisfied with your map, simply return it within 30 days and once the map has returned to our workshop, a full refund will be remitted. Origin Maps does not cover the return postage cost.</p>"
+            "title": "Returns & Damage Policy",
+            "content": "<p><strong>100% satisfaction guarantee</strong></p><p>If you or the recipient are not satisfied with the map, return it within 30 days and a full refund will be issued. We do not cover return shipping costs.</p><p>In the unlikely event that your map is damaged in transit send a picture and we will ship a replacement.</p>"
           }
         },
         "faq-2": {
@@ -59,13 +59,6 @@
           "settings": {
             "title": "Sizes",
             "content": "<p><strong>S </strong>- 12 x 16\" - 30 x 40cm</p><p><strong>M </strong>- 18 x 24\" - 45 x 60cm</p><p><strong>L </strong>- 24 x 32\" - 60 x 80cm</p><p><em>These dimensions include the frame</em></p>"
-          }
-        },
-        "b7f39779-f4bb-4b2f-beea-02595bfad36b": {
-          "type": "question",
-          "settings": {
-            "title": "Mounting & Hanging",
-            "content": "<p>All sizes come with a wire across the back, making them ready to hang on the wall.</p><p>Alternatively your piece will look great on a desk or shelf just resting against the wall.</p>"
           }
         },
         "62a0e74e-5473-4d77-86c1-6addd1017b77": {
@@ -84,7 +77,6 @@
         "faq-1",
         "faq-2",
         "fd3012d4-c85d-42a5-9322-76374ce80ebc",
-        "b7f39779-f4bb-4b2f-beea-02595bfad36b",
         "62a0e74e-5473-4d77-86c1-6addd1017b77"
       ],
       "settings": {
