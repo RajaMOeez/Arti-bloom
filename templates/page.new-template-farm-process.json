@@ -276,7 +276,7 @@
       "settings": {
         "subheading": "",
         "title": "",
-        "text": "<p><strong>If the country is gentle</strong><br/><br/>Almost no farm is truly flat. After crafting 800+ maps, I've honed my judgement on setting a contour interval that creates a 3D form that isn't too flat, or too vertically exaggerated and full of cliffs. We also have a range of design techniques that can be incorporated as needed to best capture the landscape.</p><p><strong>Not happy with the map?</strong><br/><br/>30 days after it arrives: if you or the recipient does not love it, send it back for a full refund. In the unlikely case it's damaged in transit, we'll replace it. The piece is built to last, that's why we have a 5-year warranty.</p><p><strong>What it costs</strong><br/><br/>Full price for custom farm maps start from USD $750, the medium is $1150, the large is $1690. 50% deposit holds the timber and production slot; then 50% when you approve the design. The preview is free so you are not buying blind.</p><p><strong>What to do now</strong><br/><br/>Use the form below to request your digital preview. Each month we have a limited number of slots and only take on jobs that we are confident will result in a piece that looks great.</p>",
+        "text": "<p><strong>If the country is gentle</strong><br/><br/>After crafting 800+ maps, I've honed my judgement on setting a contour interval that creates a 3D form that isn't too flat, or too vertically exaggerated and full of cliffs. Fence lines, the house, dams and waterways carry a lot of the picture on gentler ground. We also have a range of design techniques that can be incorporated as needed to best capture the landscape.</p><p><strong>Not happy with the map?</strong><br/><br/>30 days after it arrives: if you or the recipient does not love it, send it back for a full refund. In the unlikely case it's damaged in transit, we'll replace it. The piece is built to last, that's why we have a 5-year warranty.</p><p><strong>What it costs</strong><br/><br/>Full price for custom farm maps start from USD $750, the medium is $1150, the large is $1690. 50% deposit holds the timber and production slot; then 50% when you approve the design. The preview is free so you are not buying blind.</p><p><strong>What to do now</strong><br/><br/>Use the form below to request your digital preview. Each month we have a limited number of slots and only take on jobs that we are confident will result in a piece that looks great.</p>",
         "text_size": 2,
         "text_columns": 1,
         "align_text": "text-left",
@@ -286,6 +286,68 @@
         "button_style": "caps--large",
         "height": "margin--medium",
         "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "page_faq_TzNHny": {
+      "type": "page-faq",
+      "blocks": {
+        "question_MGEmHe": {
+          "type": "question",
+          "settings": {
+            "title": "I only have the address. Is that enough?",
+            "content": "<p>Yes. We source boundaries, terrain and roads. A screenshot or title plan helps and speeds the first preview. It is not required.</p>"
+          }
+        },
+        "question_iVbX7F": {
+          "type": "question",
+          "settings": {
+            "title": "What is the difference between the free preview and the real drafts?",
+            "content": "<p>The preview is a first look at the land so you can decide. The paid drafts are the design we will cut - contours, labels, legend, boundaries, waterways. Most orders use three drafts.</p>"
+          }
+        },
+        "question_6P4RXY": {
+          "type": "question",
+          "settings": {
+            "title": "How long does the whole thing take?",
+            "content": "<p>Preview: within 48 hours. Then about two weeks of drafting, one week to make the physical piece, 2-4 business days for DHL to the US and AU. Standard total is about three weeks after you go ahead. Need it sooner? Ask for expedited - for a fee we can compress that to 10 days.</p>"
+          }
+        },
+        "question_9cwXEz": {
+          "type": "question",
+          "settings": {
+            "title": "When do I pay?",
+            "content": "<p>Nothing for the preview. 50% to start the proper drafts and hold a production slot. The remaining 50% when you approve the design, before we cut wood.</p>"
+          }
+        },
+        "question_f9WcJE": {
+          "type": "question",
+          "settings": {
+            "title": "There are so many styles. How do I choose?",
+            "content": "<p>You do not have to. After the preview we will show a short set of techniques and you mark what you like. We recommend what will look best on that land.</p>"
+          }
+        },
+        "question_LRgTKL": {
+          "type": "question",
+          "settings": {
+            "title": "Do you cover shipping, tariffs and duty?",
+            "content": "<p>DHL Express is included. We cover import duty and tariffs on the orders we ship, so the tracking emails are just tracking - not a bill at the door.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_MGEmHe",
+        "question_iVbX7F",
+        "question_6P4RXY",
+        "question_9cwXEz",
+        "question_f9WcJE",
+        "question_LRgTKL"
+      ],
+      "name": "Accordion group",
+      "settings": {
+        "width": "wrapper--narrow",
+        "height": "margin--medium",
         "text_color": "text-dark",
         "bg_color": "#ffffff"
       }
@@ -328,6 +390,7 @@
     "section_custom_content_G8cdG9",
     "1788611202939cce6e",
     "section_rich_text_8XPHJ7",
+    "page_faq_TzNHny",
     "1788599121e48aa84b"
   ]
 }
