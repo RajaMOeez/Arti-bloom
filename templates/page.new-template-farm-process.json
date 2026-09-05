@@ -27,7 +27,7 @@
         "text_color": "text-light",
         "transparent": true,
         "link_text": "Submit Request",
-        "link": "shopify://products/custom-farm-property-map-wooden-map-art",
+        "link": "shopify://pages/free-digital-preview",
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--input btn--outline caps"
       }
@@ -250,7 +250,7 @@
         "text_color": "text-light",
         "transparent": true,
         "link_text": "Submit Request",
-        "link": "shopify://products/custom-farm-property-map-wooden-map-art",
+        "link": "shopify://pages/free-digital-preview",
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--input btn--outline caps"
       }
