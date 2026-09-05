@@ -270,6 +270,26 @@
         "include_margins": false
       }
     },
+    "section_rich_text_8XPHJ7": {
+      "type": "section-rich-text",
+      "name": "Rich text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text": "<p><strong>If the country is gentle</strong><br/><br/>Almost no farm is truly flat. After crafting 800+ maps, I've honed my judgement on setting a contour interval that creates a 3D form that isn't too flat, or too vertically exaggerated and full of cliffs. We also have a range of design techniques that can be incorporated as needed to best capture the landscape.</p><p><strong>Not happy with the map?</strong><br/><br/>30 days after it arrives: if you or the recipient does not love it, send it back for a full refund. In the unlikely case it's damaged in transit, we'll replace it. The piece is built to last, that's why we have a 5-year warranty.</p><p><strong>What it costs</strong><br/><br/>Full price for custom farm maps start from USD $750, the medium is $1150, the large is $1690. 50% deposit holds the timber and production slot; then 50% when you approve the design. The preview is free so you are not buying blind.</p><p><strong>What to do now</strong><br/><br/>Use the form below to request your digital preview. Each month we have a limited number of slots and only take on jobs that we are confident will result in a piece that looks great.</p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--medium",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
     "1788599121e48aa84b": {
       "type": "apps",
       "blocks": {
@@ -296,26 +316,6 @@
       ],
       "settings": {
         "include_margins": false
-      }
-    },
-    "section_rich_text_8XPHJ7": {
-      "type": "section-rich-text",
-      "name": "Rich text",
-      "settings": {
-        "subheading": "Introducing",
-        "title": "Rich text",
-        "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-        "text_size": 2,
-        "text_columns": 1,
-        "align_text": "text-left",
-        "button_text": "Learn more",
-        "button_url": "",
-        "button_color": "btn--neutral",
-        "button_style": "caps--large",
-        "height": "margin--medium",
-        "width": "wrapper",
-        "text_color": "text-dark",
-        "bg_color": "#ffffff"
       }
     }
   },
