@@ -12,18 +12,39 @@
     "faq-first": {
       "type": "page-faq",
       "blocks": {
-        "question_6YFtnq": {
+        "faq-0": {
           "type": "question",
           "settings": {
-            "title": "What if the land is flat? Will it look like a blank board?",
-            "content": "<p>That is the question we get most. We tighten the contour interval so gentle country still reads in 3D, and where the land needs more than that we add things like an engraved hill shade and vegetation hatching. You will see which combination fits the location best on the digital draft. We do not start cutting until you approve it.</p>"
+            "title": "Where do you ship from?",
+            "content": "<p>Handmade in our Bangkok, Thailand workshop. DHL Express Worldwide shipping is included with all orders.</p><p><strong>USA and AU</strong> - 2 to 4 business days</p><p><strong>NZ, CA, EU & Other</strong> - 3 to 5 business days</p>"
           }
         },
-        "question_kf896p": {
+        "question_mje3kF": {
           "type": "question",
           "settings": {
-            "title": "Do I need maps, or property boundaries for a custom?",
-            "content": "<p>No. An address is enough. If you have anything on hand - location screenshot, a boundary PDF, or a family sketch, send it - we will use it. If you don’t, no problem. We can pull property boundaries, topographic and street data for the US, AU, NZ, CA & EU. Will confirm them with you during drafting.</p>"
+            "title": "Will I have to pay tariffs?",
+            "content": "<p>We cover all import duties and tariffs. No surprise fees. Once your order is shipped you will receive DHL shipping notifications.</p>"
+          }
+        },
+        "fd3012d4-c85d-42a5-9322-76374ce80ebc": {
+          "type": "question",
+          "settings": {
+            "title": "Sizes",
+            "content": "<p><strong>S </strong>- 12 x 16\" - 30 x 40cm</p><p><strong>M </strong>- 18 x 24\" - 45 x 60cm</p><p><strong>L </strong>- 24 x 32\" - 60 x 80cm</p><p><em>These dimensions include the frame</em></p>"
+          }
+        },
+        "faq-1": {
+          "type": "question",
+          "settings": {
+            "title": "Returns & Damage Policy",
+            "content": "<p><strong>100% satisfaction guarantee</strong></p><p>If you or the recipient are not satisfied with the map, return it within 30 days and a full refund will be issued. We do not cover return shipping costs.</p><p>In the unlikely event that your map is damaged in transit send a picture and we will ship a replacement.</p>"
+          }
+        },
+        "62a0e74e-5473-4d77-86c1-6addd1017b77": {
+          "type": "question",
+          "settings": {
+            "title": "Materials & Hanging",
+            "content": "<p>Our topographic wooden maps are crafted from Double-A 1.5mm Basswood.</p><p>Frames are made from oak.</p><p>A wire is secured across the back so it's ready to hang. Light enough to hang on ordinary picture hooks. Built to stay on the wall for decades.</p><p>Each size approximately weighs:</p><p>Small - 1.5kg</p><p>Medium - 3kg</p><p>Large - 5kg</p>"
           }
         },
         "question_CUQBjD": {
@@ -40,52 +61,31 @@
             "content": "<p>Most people struggle to find something that feels considered and is not another bottle. A 3D map of a place they love solves that. You don’t need them to be a “map person.” You need them to care about the land, the trip, or the house.</p>"
           }
         },
-        "faq-0": {
+        "question_kf896p": {
           "type": "question",
           "settings": {
-            "title": "Where do you ship from?",
-            "content": "<p>Handmade in our Bangkok, Thailand workshop. DHL Express Worldwide shipping is included with all orders.</p><p><strong>USA and AU</strong> - 2 to 4 business days</p><p><strong>NZ, CA, EU & Other</strong> - 3 to 5 business days</p>"
+            "title": "Do I need maps, or property boundaries for a custom?",
+            "content": "<p>No. An address is enough. If you have anything on hand - location screenshot, a boundary PDF, or a family sketch, send it - we will use it. If you don’t, no problem. We can pull property boundaries, topographic and street data for the US, AU, NZ, CA & EU. Will confirm them with you during drafting.</p>"
           }
         },
-        "question_mje3kF": {
+        "question_6YFtnq": {
           "type": "question",
           "settings": {
-            "title": "Will I have to pay tariffs?",
-            "content": "<p>We cover all import duties and tariffs. No surprise fees. Once your order is shipped you will receive DHL shipping notifications.</p>"
-          }
-        },
-        "faq-1": {
-          "type": "question",
-          "settings": {
-            "title": "Returns & Damage Policy",
-            "content": "<p><strong>100% satisfaction guarantee</strong></p><p>If you or the recipient are not satisfied with the map, return it within 30 days and a full refund will be issued. We do not cover return shipping costs.</p><p>In the unlikely event that your map is damaged in transit send a picture and we will ship a replacement.</p>"
-          }
-        },
-        "fd3012d4-c85d-42a5-9322-76374ce80ebc": {
-          "type": "question",
-          "settings": {
-            "title": "Sizes",
-            "content": "<p><strong>S </strong>- 12 x 16\" - 30 x 40cm</p><p><strong>M </strong>- 18 x 24\" - 45 x 60cm</p><p><strong>L </strong>- 24 x 32\" - 60 x 80cm</p><p><em>These dimensions include the frame</em></p>"
-          }
-        },
-        "62a0e74e-5473-4d77-86c1-6addd1017b77": {
-          "type": "question",
-          "settings": {
-            "title": "Materials & Hanging",
-            "content": "<p>Our topographic wooden maps are crafted from Double-A 1.5mm Basswood.</p><p>Frames are made from oak.</p><p>A wire is secured across the back so it's ready to hang. Light enough to hang on ordinary picture hooks. Built to stay on the wall for decades.</p><p>Each size approximately weighs:</p><p>Small - 1.5kg</p><p>Medium - 3kg</p><p>Large - 5kg</p>"
+            "title": "What if the land is flat? Will it look like a blank board?",
+            "content": "<p>That is the question we get most. We tighten the contour interval so gentle country still reads in 3D, and where the land needs more than that we add things like an engraved hill shade and vegetation hatching. You will see which combination fits the location best on the digital draft. We do not start cutting until you approve it.</p>"
           }
         }
       },
       "block_order": [
-        "question_6YFtnq",
-        "question_kf896p",
-        "question_CUQBjD",
-        "question_TQ7jFf",
         "faq-0",
         "question_mje3kF",
-        "faq-1",
         "fd3012d4-c85d-42a5-9322-76374ce80ebc",
-        "62a0e74e-5473-4d77-86c1-6addd1017b77"
+        "faq-1",
+        "62a0e74e-5473-4d77-86c1-6addd1017b77",
+        "question_CUQBjD",
+        "question_TQ7jFf",
+        "question_kf896p",
+        "question_6YFtnq"
       ],
       "settings": {
         "width": "wrapper--narrow",
