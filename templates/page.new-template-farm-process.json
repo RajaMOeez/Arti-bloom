@@ -61,7 +61,7 @@
           "settings": {
             "subheading": "",
             "title": "1. Show us the place",
-            "text": "<p>Confirm the location to be mapped. If you have a screenshot or property map you can send that through and that helps with generating the preview. We pull public boundaries, terrain, and roads and confirm them with you. This is not on you to have the data. We can source everything.</p>",
+            "text": "<p>Confirm the location to be mapped. If you have a screenshot or property map that helps with with generating the preview, but it's not critical. We pull public boundaries, terrain, and roads and confirm them with you. This is not on you to have the data. We can source everything.</p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
