@@ -12,6 +12,13 @@
     "faq-first": {
       "type": "page-faq",
       "blocks": {
+        "question_TQ7jFf": {
+          "type": "question",
+          "settings": {
+            "title": "I’m buying a gift and I’m concerned they’ll think it’s odd.",
+            "content": "<p>Most people struggle to find something that feels considered and is not another bottle. A 3D map of a place they love solves that. You don’t need them to be a “map person.” You need them to care about the land, the trip, or the house.</p>"
+          }
+        },
         "question_CUQBjD": {
           "type": "question",
           "settings": {
@@ -29,15 +36,8 @@
         "question_mje3kF": {
           "type": "question",
           "settings": {
-            "title": "Tariffs",
-            "content": "<p>September 2025 we had some hiccups with shipping to the USA.</p><p>We then updated our shipping classifications and procedures and are now back to normal - our maps are completely tariff exempt, so you don't have to worry about this.</p>"
-          }
-        },
-        "64cacd1b-65df-4980-8696-ae8cf9290d79": {
-          "type": "question",
-          "settings": {
-            "title": "How Long Does My Map Take To Make?",
-            "content": "<p>All maps are made to order</p><p><strong>From the collection - </strong>3 business days. <a href=\"/collections\" title=\"All collections\">See the collection</a></p><p><strong>Custom - 7</strong> business days - this includes 3 business days for the digital draft, then once you have approved this draft, physical fabrication will take 4 business days. <a href=\"https://originmaps.com/collections/custom\" title=\"CustomTopographicWoodenMapArt\">See custom maps</a></p>"
+            "title": "Will I have to pay tariffs?",
+            "content": "<p>We cover all import duties and tariffs. No surprise fees. Once your order is shipped you will receive DHL shipping notifications.</p>"
           }
         },
         "faq-1": {
@@ -84,10 +84,10 @@
         }
       },
       "block_order": [
+        "question_TQ7jFf",
         "question_CUQBjD",
         "faq-0",
         "question_mje3kF",
-        "64cacd1b-65df-4980-8696-ae8cf9290d79",
         "faq-1",
         "faq-2",
         "fd3012d4-c85d-42a5-9322-76374ce80ebc",
