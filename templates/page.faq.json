@@ -130,6 +130,7 @@
         "icon-1",
         "icon-2"
       ],
+      "disabled": true,
       "settings": {
         "text_alignment": "left",
         "icon_size": 20,
