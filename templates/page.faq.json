@@ -12,6 +12,13 @@
     "faq-first": {
       "type": "page-faq",
       "blocks": {
+        "question_CUQBjD": {
+          "type": "question",
+          "settings": {
+            "title": "What’s the difference between a catalog and custom map?",
+            "content": "<p>Catalog maps are places we've already made - ready in 4 business days. Customs take 2 weeks for drafting, and then 1 week for fabrication.</p>"
+          }
+        },
         "faq-0": {
           "type": "question",
           "settings": {
@@ -51,7 +58,7 @@
           "type": "question",
           "settings": {
             "title": "Sizes",
-            "content": "<p><strong>S </strong>- 30x40cm  -  12x16\" - <em>(including frame)</em></p><p><strong>M </strong>- 45x60cm  -  18x24\" - <em>(including frame)</em></p><p><strong>L </strong>- 60x80cm  -  24x32\" - <em>(including frame)</em></p>"
+            "content": "<p><strong>S </strong>- 12 x 16\" - 30 x 40cm</p><p><strong>M </strong>- 18 x 24\" - 45 x 60cm</p><p><strong>L </strong>- 24 x 32\" - 60 x 80cm</p><p><em>These dimensions include the frame</em></p>"
           }
         },
         "b7f39779-f4bb-4b2f-beea-02595bfad36b": {
@@ -77,6 +84,7 @@
         }
       },
       "block_order": [
+        "question_CUQBjD",
         "faq-0",
         "question_mje3kF",
         "64cacd1b-65df-4980-8696-ae8cf9290d79",
