@@ -71,15 +71,8 @@
         "62a0e74e-5473-4d77-86c1-6addd1017b77": {
           "type": "question",
           "settings": {
-            "title": "Materials",
-            "content": "<p>Our topographic wooden maps are crafted from responsibly sourced Double-A grade 1.5mm fine-grained Basswood.</p><p>The frames are made from locally sourced Tasmanian Oak.</p>"
-          }
-        },
-        "5283e2c0-63b9-48f3-85bb-ab77abce29b5": {
-          "type": "question",
-          "settings": {
-            "title": "Taxes & Import Duties",
-            "content": "<p><strong>AU</strong>- nil, no extra fees</p><p>.</p><p><strong>US / CA / EU / NZ</strong>- These may be levied by your state, they will be payable to your local tax authority upon delivery of your map. Origin Maps does not take responsibility for these costs.</p>"
+            "title": "Materials & Hanging",
+            "content": "<p>Our topographic wooden maps are crafted from Double-A 1.5mm Basswood.</p><p>Frames are made from oak.</p><p>A wire is secured across the back so it's ready to hang. Light enough to hang on ordinary picture hooks. Built to stay on the wall for decades.</p><p>Each size approximately weighs:</p><p>Small - 1.5kg</p><p>Medium - 3kg</p><p>Large - 5kg</p>"
           }
         }
       },
@@ -92,8 +85,7 @@
         "faq-2",
         "fd3012d4-c85d-42a5-9322-76374ce80ebc",
         "b7f39779-f4bb-4b2f-beea-02595bfad36b",
-        "62a0e74e-5473-4d77-86c1-6addd1017b77",
-        "5283e2c0-63b9-48f3-85bb-ab77abce29b5"
+        "62a0e74e-5473-4d77-86c1-6addd1017b77"
       ],
       "settings": {
         "width": "wrapper--narrow",
