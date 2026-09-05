@@ -318,28 +318,28 @@
           "type": "question",
           "settings": {
             "title": "When do I pay?",
-            "content": "<p>Nothing for the preview. 50% to start the proper drafts and hold a production slot. The remaining 50% when you approve the design, before we cut wood.</p>"
+            "content": "<p>Nothing for the preview. 50% to start the proper drafts and hold a production slot. The remaining 50% when you approve the design.</p>"
           }
         },
         "question_f9WcJE": {
           "type": "question",
           "settings": {
             "title": "There are so many styles. How do I choose?",
-            "content": "<p>You do not have to. After the preview we will show a short set of techniques and you mark what you like. We recommend what will look best on that land.</p>"
+            "content": "<p>You don't have to. After the preview we will send through a quick survey of techniques, you mark the styles you like.</p><p>During the drafting process we'll recommend which styles will look best for the location.</p>"
           }
         },
         "question_LRgTKL": {
           "type": "question",
           "settings": {
             "title": "Do you cover shipping, tariffs and duty?",
-            "content": "<p>DHL Express is included. We cover import duty and tariffs on the orders we ship, so the tracking emails are just tracking - not a bill at the door.</p>"
+            "content": "<p>Yes. DHL Express Worldwide is included with all orders, and we cover import duty and tariffs. The tracking emails are just tracking - not a bill at the door.</p>"
           }
         },
         "question_3jQj6U": {
           "type": "question",
           "settings": {
             "title": "Can I add tracks, dams, or place names later?",
-            "content": "<p>Yes, during drafting. We will not cut until those are right.</p>"
+            "content": "<p>Yes. During drafting. We will not cut until those are right.</p>"
           }
         },
         "question_PdkqMj": {
