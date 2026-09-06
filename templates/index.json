@@ -35,6 +35,21 @@
         "button_style": "hero__btn btn btn--input btn--outline caps"
       }
     },
+    "section_collection_carousel_kJKL9n": {
+      "type": "section-collection-carousel",
+      "settings": {
+        "heading": "3D Topographic Maps",
+        "description": "<p>Celebrate life's milestones with a blend of art and geography<br/></p>",
+        "text_alignment": "left",
+        "link_text": "",
+        "link_url": "shopify://collections/all-maps",
+        "button_color": "btn--black",
+        "button_style": "hero__btn btn btn--input btn--outline caps",
+        "featured_collection": "landing-collection",
+        "au_featured_collection": "landing-collection",
+        "non_au_featured_collection": "landing-world"
+      }
+    },
     "section_split_hero_aRdEcW": {
       "type": "section-split-hero",
       "custom_css": [
@@ -76,21 +91,6 @@
       ],
       "settings": {
         "include_margins": false
-      }
-    },
-    "section_collection_carousel_kJKL9n": {
-      "type": "section-collection-carousel",
-      "settings": {
-        "heading": "3D Topographic Maps",
-        "description": "<p>Celebrate life's milestones with a blend of art and geography<br/></p>",
-        "text_alignment": "left",
-        "link_text": "",
-        "link_url": "shopify://collections/all-maps",
-        "button_color": "btn--black",
-        "button_style": "hero__btn btn btn--input btn--outline caps",
-        "featured_collection": "landing-collection",
-        "au_featured_collection": "landing-collection",
-        "non_au_featured_collection": "landing-world"
       }
     },
     "section_collection_carousel_YXydg4": {
@@ -299,10 +299,10 @@
   },
   "order": [
     "section_split_hero_BYwcn9",
-    "section_split_hero_aRdEcW",
-    "170650075617a8850a",
     "section_collection_carousel_kJKL9n",
     "section_collection_carousel_YXydg4",
+    "170650075617a8850a",
+    "section_split_hero_aRdEcW",
     "section_rich_text_cAgJBg",
     "custom_html_P3rLaQ",
     "2893b0c6-7011-4012-98d5-f37dc6ed0383",
