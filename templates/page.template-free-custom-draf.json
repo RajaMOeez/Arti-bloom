@@ -9,26 +9,6 @@
  */
 {
   "sections": {
-    "section_rich_text_48cGJX": {
-      "type": "section-rich-text",
-      "name": "Rich text",
-      "settings": {
-        "subheading": "Introducing",
-        "title": "Rich text",
-        "text": "<p>We'll email you a free digital preview of the property. No charge. No obligation. This is how you know it is the right gift before anyone pays for timber.<br/><br/></p>",
-        "text_size": 2,
-        "text_columns": 1,
-        "align_text": "text-center",
-        "button_text": "Learn more",
-        "button_url": "",
-        "button_color": "btn--neutral",
-        "button_style": "caps--large",
-        "height": "margin--medium",
-        "width": "wrapper",
-        "text_color": "text-dark",
-        "bg_color": "#ffffff"
-      }
-    },
     "178857501971b49d1a": {
       "type": "apps",
       "blocks": {
@@ -56,52 +36,9 @@
       "settings": {
         "include_margins": false
       }
-    },
-    "text_promo_4ej7bX": {
-      "type": "text-promo",
-      "blocks": {
-        "heading_fc99ra": {
-          "type": "heading",
-          "settings": {
-            "title": ""
-          }
-        },
-        "text_FribP3": {
-          "type": "text",
-          "settings": {
-            "content": "We'll email you a free digital preview of the property. No charge. No obligation. This is how you check if it's the right gift before anyone pays for timber."
-          }
-        },
-        "button_WaXg8W": {
-          "type": "button",
-          "settings": {
-            "button_text": "",
-            "button_url": "",
-            "button_color": "btn--neutral",
-            "button_style": "caps--large"
-          }
-        }
-      },
-      "block_order": [
-        "heading_fc99ra",
-        "text_FribP3",
-        "button_WaXg8W"
-      ],
-      "name": "Text promo",
-      "settings": {
-        "border": true,
-        "bg_color": "#f7f7f7",
-        "text_color": "text-dark",
-        "width": "wrapper--full",
-        "bg_position": "center-center",
-        "overlay_opacity": 0,
-        "overlay_color": "#000"
-      }
     }
   },
   "order": [
-    "section_rich_text_48cGJX",
-    "178857501971b49d1a",
-    "text_promo_4ej7bX"
+    "178857501971b49d1a"
   ]
 }
