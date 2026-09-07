@@ -13,7 +13,7 @@
       "type": "main-page",
       "settings": {
         "subheading": "",
-        "show_title": true,
+        "show_title": false,
         "show_content": true,
         "text_size": 2,
         "align_text": "text-center",
@@ -49,7 +49,7 @@
           "settings": {
             "subheading": "",
             "title": "",
-            "text": "<p><strong>March 2026</strong></p><p>Relocated the workshop to Thailand to scale the operation and pursue the vision of making the world's best wooden topographic maps.</p><p>This has enabled us to expand to 4x CO2 laser cutters and have everything in-house - designing, painting, cutting, glue-up and framing.</p>",
+            "text": "<p><strong>March 2026</strong></p><p>Relocated the workshop to Thailand to scale the operation and make even better maps.</p><p>This has enabled us to expand to 4x CO2 laser cutters and have everything in-house - designing, painting, cutting, glue-up and framing.</p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
@@ -82,7 +82,7 @@
           "settings": {
             "subheading": "",
             "title": "",
-            "text": "<p><strong>February 2024</strong></p><p>Moved out of the apartment to a dedicated workshop in Manly, Sydney.</p><p>Shared the space with Jack - a carpenter of high-end furniture. Was a great period of learning more about woodworking, and general tool use.</p><p>We even had a CNC! I do love those machines, and there's a lot of map making potential with them, but for now we're sticking with laser cutters ;)</p>",
+            "text": "<p><strong>February 2024</strong></p><p>Moved out of the apartment to a dedicated workshop in Manly, Sydney.</p><p>Shared the space with Jack - a carpenter of high-end furniture. Was a great period of learning more about woodworking, and general tool use.</p><p>We even had a CNC! I do love those machines, and there's a lot of map making potential with them.</p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
