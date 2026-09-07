@@ -161,7 +161,7 @@
           "newsletter_yPJFEx": {
             "type": "newsletter",
             "settings": {
-              "richtext": "<p>Join our newsletter and dive into the world of handmade map art.</p>",
+              "richtext": "<p>Join our newsletter for updates on the latest works.</p>",
               "enable_name": true
             }
           }
