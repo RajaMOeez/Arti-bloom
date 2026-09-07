@@ -61,15 +61,16 @@
         "bg_color": "#ffffff"
       }
     },
-    "main": {
+    "main_page_kxD9JF": {
       "type": "main-page",
+      "name": "Page",
       "settings": {
         "subheading": "",
         "show_title": false,
         "show_content": true,
         "text_size": 2,
-        "align_text": "text-center",
-        "height": "margin--small",
+        "align_text": "text-left",
+        "height": "margin--medium",
         "width": "wrapper",
         "text_color": "text-dark",
         "bg_color": "#ffffff"
@@ -78,6 +79,6 @@
   },
   "order": [
     "420bd2e8-494c-4822-a4b2-b4d4b963efe3",
-    "main"
+    "main_page_kxD9JF"
   ]
 }
