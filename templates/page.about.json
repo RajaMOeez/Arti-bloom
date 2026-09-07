@@ -146,15 +146,15 @@
         "text_6KnBVG": {
           "type": "text",
           "settings": {
-            "subheading": "Introducing",
-            "title": "Text block",
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "subheading": "March 2020",
+            "title": "",
+            "text": "<p>Made the first map using the university laser cutters. It was for a family member and they just loved it. </p><p>I realised that a handcrafted wooden map of a place that has shaped them makes for a very meaningful gift.</p><p>So I had a laser cutter shipped to my inner Sydney apartment, and got to work on this hobby. Don't think the landlord ever found out!</p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
             "text_color": "text-dark",
             "bg_color": "#ffffff",
-            "button_text": "Learn more",
+            "button_text": "",
             "button_url": "",
             "button_color": "btn--neutral",
             "button_style": "hero__btn btn btn--large btn--outline caps"
