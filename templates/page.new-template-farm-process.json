@@ -397,7 +397,7 @@
         "transition": "slide",
         "arrows_style": true,
         "dots_style": "hidden",
-        "autoplay": false,
+        "autoplay": true,
         "autoplay_speed": 4
       }
     },
