@@ -29,7 +29,7 @@
         "flex_align": "align--middle-center",
         "text_color": "text-light",
         "transparent": true,
-        "link_text": "Explore Farm Maps",
+        "link_text": "How It's Made",
         "link": "shopify://pages/the-process",
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--input btn--outline caps"
@@ -48,6 +48,38 @@
         "featured_collection": "landing-collection",
         "au_featured_collection": "landing-collection",
         "non_au_featured_collection": "landing-world"
+      }
+    },
+    "section_collection_carousel_YXydg4": {
+      "type": "section-collection-carousel",
+      "settings": {
+        "heading": "",
+        "description": "<h5>Newest Maps</h5>",
+        "text_alignment": "inline",
+        "link_text": "View All",
+        "link_url": "shopify://collections/new",
+        "button_color": "btn--black",
+        "button_style": "hero__btn btn btn--input btn--outline caps",
+        "featured_collection": "new",
+        "au_featured_collection": "new",
+        "non_au_featured_collection": "new-world"
+      }
+    },
+    "170650075617a8850a": {
+      "type": "apps",
+      "blocks": {
+        "google_reviews_plus_app_block_Vtw4YU": {
+          "type": "shopify://apps/google-reviews-rocket/blocks/app-block/d11c8893-a181-4aff-a280-7446d42cec3b",
+          "settings": {
+            "widget_layout": "default"
+          }
+        }
+      },
+      "block_order": [
+        "google_reviews_plus_app_block_Vtw4YU"
+      ],
+      "settings": {
+        "include_margins": false
       }
     },
     "section_split_hero_aRdEcW": {
@@ -74,38 +106,6 @@
         "link": "shopify://pages/custom-any-location-process",
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--input btn--outline caps"
-      }
-    },
-    "170650075617a8850a": {
-      "type": "apps",
-      "blocks": {
-        "google_reviews_plus_app_block_Vtw4YU": {
-          "type": "shopify://apps/google-reviews-rocket/blocks/app-block/d11c8893-a181-4aff-a280-7446d42cec3b",
-          "settings": {
-            "widget_layout": "default"
-          }
-        }
-      },
-      "block_order": [
-        "google_reviews_plus_app_block_Vtw4YU"
-      ],
-      "settings": {
-        "include_margins": false
-      }
-    },
-    "section_collection_carousel_YXydg4": {
-      "type": "section-collection-carousel",
-      "settings": {
-        "heading": "",
-        "description": "<h5>Newest Maps</h5>",
-        "text_alignment": "inline",
-        "link_text": "View All",
-        "link_url": "shopify://collections/new",
-        "button_color": "btn--black",
-        "button_style": "hero__btn btn btn--input btn--outline caps",
-        "featured_collection": "new",
-        "au_featured_collection": "new",
-        "non_au_featured_collection": "new-world"
       }
     },
     "section_rich_text_cAgJBg": {
