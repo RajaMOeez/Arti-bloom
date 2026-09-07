@@ -29,6 +29,7 @@
         "image_iMCmwr": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/PXL_20260727_113027021.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "overlay_color": "#000",
@@ -79,9 +80,9 @@
         "text_KwHfgf": {
           "type": "text",
           "settings": {
-            "subheading": "February 2024",
+            "subheading": "",
             "title": "",
-            "text": "<p>Moved out of the apartment to a dedicated workshop in Manly, Sydney.</p>",
+            "text": "<p><strong>February 2024</strong></p><p>Moved out of the apartment to a dedicated workshop in Manly, Sydney.</p><p>Shared the space with Jack - a carpenter of high-end furniture. Was a great period of learning more about woodworking, and general tool use.</p><p>We even had a CNC! I do love those machines, and there's a lot of map making potential with them, but for now we're sticking with laser cutters ;)</p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
@@ -96,6 +97,7 @@
         "image_Mc6gMT": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/PXL_20251210_002210940.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "overlay_color": "#000",
@@ -129,7 +131,8 @@
         "image_y9M9V8": {
           "type": "image",
           "settings": {
-            "bg_position": "center-center",
+            "image": "shopify://shop_images/IMG_20230112_085654.jpg",
+            "bg_position": "center-top",
             "overlay_opacity": 0,
             "overlay_color": "#000",
             "title": "",
@@ -146,9 +149,9 @@
         "text_6KnBVG": {
           "type": "text",
           "settings": {
-            "subheading": "March 2020",
+            "subheading": "",
             "title": "",
-            "text": "<p>Made the first map using the university laser cutters. It was for a family member and they just loved it. </p><p>I realised that a handcrafted wooden map of a place that has shaped them makes for a very meaningful gift.</p><p>So I had a laser cutter shipped to my inner Sydney apartment, and got to work on this hobby. Don't think the landlord ever found out!</p>",
+            "text": "<p><br/><strong>March 2020<br/></strong><br/>Made the first map using the university laser cutters. It was for a family member and they just loved it. </p><p>It became clear to me that a wooden map of a place that has shaped someone makes for a truly special gift. They can point at a ridge and tell the story.</p><p>So I had a laser cutter shipped to my inner Sydney apartment, and the work started there. Don't think the landlord ever found out!</p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
