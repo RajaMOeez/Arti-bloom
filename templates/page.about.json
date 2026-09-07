@@ -22,9 +22,60 @@
         "text_color": "text-dark",
         "bg_color": "#ffffff"
       }
+    },
+    "section_custom_content_mjkKkJ": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image_iMCmwr": {
+          "type": "image",
+          "settings": {
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "text_Hr7YDa": {
+          "type": "text",
+          "settings": {
+            "subheading": "March 2026",
+            "title": "",
+            "text": "<p>Relocated the workshop to Thailand to scale the operation and pursue the vision of making the world's best wooden topographic maps.</p><p>This has enabled us to expand to 4x CO2 laser cutters and have everything in-house - designing, painting, cutting, glue-up and framing.</p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "image_iMCmwr",
+        "text_Hr7YDa"
+      ],
+      "name": "Custom content",
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "section_custom_content_mjkKkJ"
   ]
 }
