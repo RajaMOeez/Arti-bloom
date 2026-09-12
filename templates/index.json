@@ -108,27 +108,6 @@
         "button_style": "hero__btn btn btn--input btn--outline caps"
       }
     },
-    "section_rich_text_cAgJBg": {
-      "type": "section-rich-text",
-      "disabled": true,
-      "name": "Rich text",
-      "settings": {
-        "subheading": "",
-        "title": "Why people choose our map art",
-        "text": "<p>Christmas shopping can be hard.</p><p>So get a handcrafted piece of their special place - always a winner.</p><p>700+ customers. With countless \"best gift ever\" stories.</p><p></p>",
-        "text_size": 2,
-        "text_columns": 1,
-        "align_text": "text-center",
-        "button_text": "",
-        "button_url": "",
-        "button_color": "btn--neutral",
-        "button_style": "caps--large",
-        "height": "margin--small",
-        "width": "wrapper",
-        "text_color": "text-dark",
-        "bg_color": "#ffffff"
-      }
-    },
     "custom_html_P3rLaQ": {
       "type": "custom-html",
       "name": "Custom HTML",
@@ -139,7 +118,6 @@
     },
     "2893b0c6-7011-4012-98d5-f37dc6ed0383": {
       "type": "section-video",
-      "disabled": true,
       "settings": {
         "video_link_bg": "https://cdn.shopify.com/videos/c/o/v/e6a1b70829004b33ba2840387ad896d8.mp4",
         "video_link": "",
@@ -149,11 +127,11 @@
         "overlay_opacity": 40,
         "overlay_color": "#000000",
         "title": "",
-        "description": "Every detail meticulously designed and hand crafted in our Sydney workshop.",
+        "description": "Every detail meticulously designed and hand crafted in our workshop",
         "flex_align": "align--bottom-left",
         "text_color": "text-light",
         "transparent": false,
-        "link_text": "Find The Perfect Gift",
+        "link_text": "Browse All Maps",
         "link": "shopify://collections/all-maps",
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--input btn--outline caps"
@@ -303,7 +281,6 @@
     "section_collection_carousel_YXydg4",
     "170650075617a8850a",
     "section_split_hero_aRdEcW",
-    "section_rich_text_cAgJBg",
     "custom_html_P3rLaQ",
     "2893b0c6-7011-4012-98d5-f37dc6ed0383",
     "section_custom_content_E68hDm",
