@@ -182,6 +182,118 @@
         "rows": 1,
         "layout_mobile": "carousel"
       }
+    },
+    "section_logo_list_p98VTQ": {
+      "type": "section-logo-list",
+      "blocks": {
+        "logo_item_EFcJFN": {
+          "type": "logo-item",
+          "settings": {
+            "logo": "shopify://shop_images/kgBKU.png",
+            "logo_width": 100,
+            "link": ""
+          }
+        },
+        "logo_item_dDxp3x": {
+          "type": "logo-item",
+          "settings": {
+            "logo": "shopify://shop_images/CBRE.png",
+            "logo_width": 100,
+            "link": ""
+          }
+        },
+        "logo_item_A3aeyr": {
+          "type": "logo-item",
+          "settings": {
+            "logo": "shopify://shop_images/iE8sb.png",
+            "logo_width": 100,
+            "link": ""
+          }
+        },
+        "logo_item_6dWFRh": {
+          "type": "logo-item",
+          "settings": {
+            "logo": "shopify://shop_images/Yering-Station-Logo.png",
+            "logo_width": 100,
+            "link": ""
+          }
+        },
+        "logo_item_f6QUgR": {
+          "type": "logo-item",
+          "settings": {
+            "logo": "shopify://shop_images/pjCWR.png",
+            "logo_width": 140,
+            "link": ""
+          }
+        },
+        "logo_item_mP4YGU": {
+          "type": "logo-item",
+          "settings": {
+            "logo": "shopify://shop_images/xg4ul.png",
+            "logo_width": 100,
+            "link": ""
+          }
+        },
+        "logo_item_r6AUX8": {
+          "type": "logo-item",
+          "settings": {
+            "logo": "shopify://shop_images/Burgess.png",
+            "logo_width": 100,
+            "link": ""
+          }
+        },
+        "logo_item_8yrHGz": {
+          "type": "logo-item",
+          "settings": {
+            "logo": "shopify://shop_images/NautorSwan.png",
+            "logo_width": 100,
+            "link": ""
+          }
+        },
+        "logo_item_kbdTAU": {
+          "type": "logo-item",
+          "settings": {
+            "logo": "shopify://shop_images/EightCapital.png",
+            "logo_width": 100,
+            "link": ""
+          }
+        },
+        "logo_item_XFkjfk": {
+          "type": "logo-item",
+          "settings": {
+            "logo": "shopify://shop_images/HostExported.png",
+            "logo_width": 100,
+            "link": ""
+          }
+        },
+        "logo_item_CtPfDU": {
+          "type": "logo-item",
+          "settings": {
+            "logo": "shopify://shop_images/ZM7dw.png",
+            "logo_width": 100,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_item_EFcJFN",
+        "logo_item_dDxp3x",
+        "logo_item_A3aeyr",
+        "logo_item_6dWFRh",
+        "logo_item_f6QUgR",
+        "logo_item_mP4YGU",
+        "logo_item_r6AUX8",
+        "logo_item_8yrHGz",
+        "logo_item_kbdTAU",
+        "logo_item_XFkjfk",
+        "logo_item_CtPfDU"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "title": "Maps commissioned for",
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
     }
   },
   "order": [
@@ -193,6 +305,7 @@
     "custom_html_P3rLaQ",
     "2893b0c6-7011-4012-98d5-f37dc6ed0383",
     "16649216157b87533d",
-    "8f437138-6964-497e-9d8b-6644c3c6fc82"
+    "8f437138-6964-497e-9d8b-6644c3c6fc82",
+    "section_logo_list_p98VTQ"
   ]
 }
