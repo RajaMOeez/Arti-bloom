@@ -137,57 +137,6 @@
         "button_style": "hero__btn btn btn--input btn--outline caps"
       }
     },
-    "section_custom_content_E68hDm": {
-      "type": "section-custom-content",
-      "blocks": {
-        "image_646KFj": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/JacketLookingSide.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "title": "",
-            "description": "",
-            "flex_align": "align--middle-center",
-            "text_color": "text-light",
-            "transparent": true,
-            "link_text": "",
-            "link": "",
-            "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        },
-        "text_g4QPAq": {
-          "type": "text",
-          "settings": {
-            "subheading": "Compass Conversations with Tim",
-            "title": "Let's Jump on a Call",
-            "text": "<p>Dreaming of a bespoke wooden map that perfectly captures your favourite landscapes, cities, or memories? Now's your chance to bring those dreams to life! Schedule a <a href=\"https://calendly.com/originmaps/30min\" target=\"_blank\" title=\"https://calendly.com/originmaps/30min\">Compass Conversations with Tim</a> today and dive into a personalised consultation where your ideas meet our craftsmanship. </p><p>Whether it's a place that holds your heart or a dream destination you've yet to explore, Tim is ready to guide you through the crafting of your bespoke wooden map. With expert insights, personal stories, and a passion for cartography, each conversation is a step closer to creating a piece that's uniquely yours. Don't just dream about the perfect map—make it a reality. </p><p>Schedule your Compass Conversation today</p>",
-            "text_size": 2,
-            "text_columns": 1,
-            "align_text": "text-left",
-            "text_color": "text-dark",
-            "bg_color": "#ffffff",
-            "button_text": "Book Your Compass Conversation",
-            "button_url": "https://calendly.com/originmaps/30min",
-            "button_color": "btn--neutral",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        }
-      },
-      "block_order": [
-        "image_646KFj",
-        "text_g4QPAq"
-      ],
-      "disabled": true,
-      "settings": {
-        "height": "screen-height-one-half",
-        "padding": false,
-        "borders": false,
-        "wrapper": false
-      }
-    },
     "16649216157b87533d": {
       "type": "apps",
       "blocks": {
@@ -233,46 +182,6 @@
         "rows": 1,
         "layout_mobile": "carousel"
       }
-    },
-    "17617961324728fd6f": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_cd4ad2b_wWxnfK": {
-          "type": "ai_gen_block_cd4ad2b",
-          "settings": {
-            "image": "shopify://shop_images/Tired.png",
-            "image_width": 150,
-            "subheading": "<p>Mate, you're at the bottom of our landing page.</p>",
-            "subheading_size": 20,
-            "subheading_color": "#040f0f",
-            "description": "<p>Just buy a map if you're that interested.<br/>You scrolled all the way here.</p>",
-            "description_size": 14,
-            "description_color": "#040f0f",
-            "text_spacing": 8,
-            "collection": "new",
-            "button_text": "Come on, click on this",
-            "button_text_size": 14,
-            "button_padding_vertical": 12,
-            "button_padding_horizontal": 24,
-            "button_border_radius": 0,
-            "button_border_width": 2,
-            "button_bg_color": "#ffffff",
-            "button_text_color": "#040f0f",
-            "button_border_color": "#040f0f",
-            "button_hover_bg_color": "#040f0f",
-            "button_hover_text_color": "#ffffff",
-            "padding": 40,
-            "spacing": 20,
-            "background_color": "#ffffff"
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_cd4ad2b_wWxnfK"
-      ],
-      "disabled": true,
-      "settings": {}
     }
   },
   "order": [
@@ -283,9 +192,7 @@
     "section_split_hero_aRdEcW",
     "custom_html_P3rLaQ",
     "2893b0c6-7011-4012-98d5-f37dc6ed0383",
-    "section_custom_content_E68hDm",
     "16649216157b87533d",
-    "8f437138-6964-497e-9d8b-6644c3c6fc82",
-    "17617961324728fd6f"
+    "8f437138-6964-497e-9d8b-6644c3c6fc82"
   ]
 }
