@@ -36,21 +36,21 @@
           "type": "collection",
           "settings": {
             "collection": "custom-farm-property-map",
-            "title": ""
+            "title": "The Farm"
           }
         },
         "collection_hLCccY": {
           "type": "collection",
           "settings": {
             "collection": "custom-any-location",
-            "title": ""
+            "title": "Any Place On Earth"
           }
         },
         "collection_J9GcNK": {
           "type": "collection",
           "settings": {
             "collection": "new-world",
-            "title": "The Catalog"
+            "title": "Ready Made - The Catalog"
           }
         }
       },
@@ -65,7 +65,7 @@
         "description": "",
         "layout": "grid",
         "aspect_ratio": 1,
-        "enable_slider": true
+        "enable_slider": false
       }
     },
     "section_logo_list_p98VTQ": {
