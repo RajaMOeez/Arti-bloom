@@ -68,14 +68,6 @@
     "section_logo_list_p98VTQ": {
       "type": "section-logo-list",
       "blocks": {
-        "logo_item_dDxp3x": {
-          "type": "logo-item",
-          "settings": {
-            "logo": "shopify://shop_images/CBRE.png",
-            "logo_width": 100,
-            "link": ""
-          }
-        },
         "logo_item_EFcJFN": {
           "type": "logo-item",
           "settings": {
@@ -97,6 +89,14 @@
           "settings": {
             "logo": "shopify://shop_images/pjCWR.png",
             "logo_width": 140,
+            "link": ""
+          }
+        },
+        "logo_item_r6AUX8": {
+          "type": "logo-item",
+          "settings": {
+            "logo": "shopify://shop_images/Burgess.png",
+            "logo_width": 100,
             "link": ""
           }
         },
@@ -124,14 +124,6 @@
             "link": ""
           }
         },
-        "logo_item_r6AUX8": {
-          "type": "logo-item",
-          "settings": {
-            "logo": "shopify://shop_images/Burgess.png",
-            "logo_width": 100,
-            "link": ""
-          }
-        },
         "logo_item_8yrHGz": {
           "type": "logo-item",
           "settings": {
@@ -155,20 +147,28 @@
             "logo_width": 100,
             "link": ""
           }
+        },
+        "logo_item_dDxp3x": {
+          "type": "logo-item",
+          "settings": {
+            "logo": "shopify://shop_images/CBRE.png",
+            "logo_width": 100,
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "logo_item_dDxp3x",
         "logo_item_EFcJFN",
         "logo_item_CtPfDU",
         "logo_item_f6QUgR",
+        "logo_item_r6AUX8",
         "logo_item_6dWFRh",
         "logo_item_A3aeyr",
         "logo_item_mP4YGU",
-        "logo_item_r6AUX8",
         "logo_item_8yrHGz",
         "logo_item_kbdTAU",
-        "logo_item_XFkjfk"
+        "logo_item_XFkjfk",
+        "logo_item_dDxp3x"
       ],
       "name": "Logo list",
       "settings": {
