@@ -298,31 +298,86 @@
         "collection_J9GcNK": {
           "type": "collection",
           "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "collection_mpgCTB": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": ""
+            "collection": "new-world",
+            "title": "Places we've already cut - browse the catalog"
           }
         }
       },
       "block_order": [
         "collection_TfaYCt",
         "collection_hLCccY",
-        "collection_J9GcNK",
-        "collection_mpgCTB"
+        "collection_J9GcNK"
       ],
       "name": "Collection list",
       "settings": {
-        "title": "Collection list",
+        "title": "",
         "description": "",
         "layout": "grid",
         "aspect_ratio": 1,
         "enable_slider": true
+      }
+    },
+    "section_columns_q647hy": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_PLjiKC": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Grand-Teton-Raised-Relief-Art_67398bb4-4677-481f-b3ee-05db6f49d9ef.jpg",
+            "bg_position": "center-center",
+            "title": "Places we've already cut",
+            "text": "<p>Countries, states, national parks, ski resorts and more.</p>",
+            "button_text": "Browse the catalog",
+            "button_url": "https://originmaps.com/collections",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "text_block_Fb8AN4": {
+          "type": "text_block",
+          "settings": {
+            "bg_position": "center-center",
+            "title": "Add a title or tagline",
+            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.</p>",
+            "button_text": "Learn more",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "text_block_QjUXFf": {
+          "type": "text_block",
+          "settings": {
+            "bg_position": "center-center",
+            "title": "Add a title or tagline",
+            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.</p>",
+            "button_text": "Learn more",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_PLjiKC",
+        "text_block_Fb8AN4",
+        "text_block_QjUXFf"
+      ],
+      "name": "Text columns with images",
+      "settings": {
+        "title": "",
+        "bg_color": "#ffffff",
+        "align_text": "text-left",
+        "width": "wrapper--full",
+        "equalize_height": true,
+        "photo_aspect_ratio": 0.7,
+        "enable_image": true
       }
     }
   },
@@ -336,6 +391,7 @@
     "2893b0c6-7011-4012-98d5-f37dc6ed0383",
     "16649216157b87533d",
     "custom_html_P3rLaQ",
-    "section_collections_list_kb6h63"
+    "section_collections_list_kb6h63",
+    "section_columns_q647hy"
   ]
 }

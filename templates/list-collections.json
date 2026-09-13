@@ -52,14 +52,6 @@
             "bg_position": "center-center"
           }
         },
-        "68becf62-0439-4349-be43-652894cbcd7a": {
-          "type": "collection",
-          "settings": {
-            "collection": "custom",
-            "collection_name": "",
-            "bg_position": "center-center"
-          }
-        },
         "a239cdaa-f841-4c52-a7a9-8f5402e1c519": {
           "type": "collection",
           "settings": {
@@ -115,7 +107,6 @@
         "66252a4c-edba-4633-a39d-8c10e092c5d4",
         "74af93d1-dd90-43da-9f72-ee425065750c",
         "collection_ENRi8j",
-        "68becf62-0439-4349-be43-652894cbcd7a",
         "a239cdaa-f841-4c52-a7a9-8f5402e1c519",
         "d16bfda0-0fb7-407c-8de3-762c9a78bce3",
         "491242b8-c34e-4eaa-8f0b-31fe19d54b00",
