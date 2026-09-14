@@ -15,7 +15,7 @@
       "settings": {
         "image": "shopify://shop_images/Farmy.png",
         "mobile_image": "shopify://shop_images/farmMobile.png",
-        "bg_position": "right-center",
+        "bg_position": "center-center",
         "height": "image-height",
         "overlay_opacity": 15,
         "overlay_color": "#000",
