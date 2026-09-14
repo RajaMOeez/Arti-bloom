@@ -282,11 +282,11 @@
         "7817e7aa-c292-4fbc-96aa-5f3251669cdf": {
           "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "title": "",
+            "title": "Instagram @originmaps",
             "title_color": "",
-            "title_size_v2": 0,
+            "title_size_v2": 27,
             "alignment": "center",
-            "instafeed_margin_top": 0,
+            "instafeed_margin_top": 20,
             "instafeed_margin_bottom": 0,
             "instafeed_margin_sides": 0,
             "show_instagram_link": false,
