@@ -243,7 +243,7 @@
         "description": "Every detail meticulously designed and hand crafted in our workshop",
         "flex_align": "align--bottom-left",
         "text_color": "text-light",
-        "transparent": false,
+        "transparent": true,
         "link_text": "Order Free Digital Preview",
         "link": "shopify://pages/testing-free-draft-request",
         "button_color": "btn--white",
