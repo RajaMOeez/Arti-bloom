@@ -244,8 +244,8 @@
         "flex_align": "align--bottom-left",
         "text_color": "text-light",
         "transparent": false,
-        "link_text": "Browse All Maps",
-        "link": "shopify://collections/all-maps",
+        "link_text": "Order Free Digital Preview",
+        "link": "shopify://pages/testing-free-draft-request",
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--input btn--outline caps"
       }
