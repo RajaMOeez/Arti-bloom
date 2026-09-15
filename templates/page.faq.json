@@ -12,20 +12,6 @@
     "faq-first": {
       "type": "page-faq",
       "blocks": {
-        "faq-0": {
-          "type": "question",
-          "settings": {
-            "title": "Where do you ship from?",
-            "content": "<p>Handmade in our Bangkok, Thailand workshop. DHL Express Worldwide shipping is included with all orders.</p><p><strong>USA and AU</strong> - 2 to 4 business days</p><p><strong>NZ, CA, EU & Other</strong> - 3 to 5 business days</p>"
-          }
-        },
-        "question_mje3kF": {
-          "type": "question",
-          "settings": {
-            "title": "Will I have to pay tariffs?",
-            "content": "<p>We cover all import duties and tariffs. No surprise fees. Once your order is shipped you will receive DHL shipping notifications.</p>"
-          }
-        },
         "fd3012d4-c85d-42a5-9322-76374ce80ebc": {
           "type": "question",
           "settings": {
@@ -54,6 +40,20 @@
             "content": "<p>Catalog maps are designs we've already made, the files are ready for the laser - ready in 4 business days.</p><p>Customs take 2 weeks for drafting, and 1 week for fabrication.</p>"
           }
         },
+        "faq-0": {
+          "type": "question",
+          "settings": {
+            "title": "Where do you ship from?",
+            "content": "<p>Our maps are handmade in our workshop in Thailand. We ship with DHL Express Worldwide. This is included with all small, medium and large map orders.</p><p><strong>USA and AU</strong> - 2 to 4 business days</p><p><strong>NZ, CA, EU & Other</strong> - 3 to 5 business days</p>"
+          }
+        },
+        "question_mje3kF": {
+          "type": "question",
+          "settings": {
+            "title": "Will I have to pay tariffs?",
+            "content": "<p>We cover all import duties and tariffs. No surprise fees. Once your order is shipped you will receive DHL shipping notifications.</p>"
+          }
+        },
         "question_TQ7jFf": {
           "type": "question",
           "settings": {
@@ -77,12 +77,12 @@
         }
       },
       "block_order": [
-        "faq-0",
-        "question_mje3kF",
         "fd3012d4-c85d-42a5-9322-76374ce80ebc",
         "faq-1",
         "62a0e74e-5473-4d77-86c1-6addd1017b77",
         "question_CUQBjD",
+        "faq-0",
+        "question_mje3kF",
         "question_TQ7jFf",
         "question_kf896p",
         "question_6YFtnq"
