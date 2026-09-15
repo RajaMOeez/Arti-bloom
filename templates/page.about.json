@@ -22,9 +22,217 @@
         "text_color": "text-dark",
         "bg_color": "#ffffff"
       }
+    },
+    "section_custom_content_XQ8nmr": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image_7HPGpG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/StudioShopped.jpg",
+            "bg_position": "right-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "text_zUV4WT": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "",
+            "text": "<p>Origin Maps is a small workshop that turns places that people actually care about into 3D wooden contour map art.</p><p>Based on a passion for cartography, we focus on delivering heirloom quality works that capture your heritage, that honeymoon trip, or even the farm that is home. We ensure that they are built to last, and are a striking addition to the interior that stops people and sparks conversation.</p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "image_7HPGpG",
+        "text_zUV4WT"
+      ],
+      "name": "Custom content",
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "section_custom_content_PFdWGR": {
+      "type": "section-custom-content",
+      "blocks": {
+        "text_AEid8X": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "March 2026 - Present",
+            "text": "<p>Relocated the workshop to Thailand to scale the operation and make even better maps.</p><p>This has enabled us to expand to 4x CO2 laser cutters and have everything in-house - designing, painting, cutting, glue-up and framing.</p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "image_ym9FJ4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PunnaShopped.jpg",
+            "bg_position": "center-top",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "text_AEid8X",
+        "image_ym9FJ4"
+      ],
+      "name": "Custom content",
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "section_custom_content_zKTBmL": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image_pGiYf8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BalgowlahShopped.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "text_exghhK": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "2024 - 2026",
+            "text": "<p>Moved out of the apartment to a dedicated workshop in Manly, Sydney.</p><p>Shared the space with Jack - a carpenter of high-end furniture. Was a great period of learning more about woodworking, and general tool use.</p><p>We even had a CNC! I do love those machines, and there's a lot of map making potential with them. For now we exclusively use CO2 laser cutters.</p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "image_pGiYf8",
+        "text_exghhK"
+      ],
+      "name": "Custom content",
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "section_custom_content_p8BqrK": {
+      "type": "section-custom-content",
+      "blocks": {
+        "text_Ldmcch": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "2020 - 2024",
+            "text": "<p>Made the first map using the university laser cutters. It was for a family member and they just loved it.</p><p>It became clear to me that a wooden map of a place that has shaped someone makes for a truly special gift. They can point at a ridge and tell the story.</p><p>So I had a laser cutter shipped to my inner Sydney apartment, and the work started there. Don't think the landlord ever found out!</p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "image_h88xwt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/UltimoShopped.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "text_Ldmcch",
+        "image_h88xwt"
+      ],
+      "name": "Custom content",
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "section_custom_content_XQ8nmr",
+    "section_custom_content_PFdWGR",
+    "section_custom_content_zKTBmL",
+    "section_custom_content_p8BqrK"
   ]
 }
