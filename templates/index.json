@@ -13,8 +13,8 @@
       "type": "section-hero",
       "name": "Image with text overlay",
       "settings": {
-        "image": "shopify://shop_images/Farmy.png",
-        "mobile_image": "shopify://shop_images/farmMobile.png",
+        "image": "shopify://shop_images/2400x1000Shopped.jpg",
+        "mobile_image": "shopify://shop_images/FarmMobileCompressed.jpg",
         "bg_position": "center-center",
         "height": "image-height",
         "overlay_opacity": 15,
