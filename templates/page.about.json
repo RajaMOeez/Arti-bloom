@@ -9,20 +9,6 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "settings": {
-        "subheading": "",
-        "show_title": false,
-        "show_content": true,
-        "text_size": 2,
-        "align_text": "text-center",
-        "height": "margin--small",
-        "width": "wrapper--narrow",
-        "text_color": "text-dark",
-        "bg_color": "#ffffff"
-      }
-    },
     "section_custom_content_XQ8nmr": {
       "type": "section-custom-content",
       "blocks": {
@@ -229,7 +215,6 @@
     }
   },
   "order": [
-    "main",
     "section_custom_content_XQ8nmr",
     "section_custom_content_PFdWGR",
     "section_custom_content_zKTBmL",
