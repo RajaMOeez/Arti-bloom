@@ -37,21 +37,21 @@
           "type": "collection",
           "settings": {
             "collection": "custom-farm-property-map",
-            "title": "The Farm"
+            "title": "Custom Map - Farm or Property"
           }
         },
         "collection_hLCccY": {
           "type": "collection",
           "settings": {
             "collection": "custom-any-location",
-            "title": "Any Place On Earth"
+            "title": "Custom Map - Any Place"
           }
         },
         "collection_J9GcNK": {
           "type": "collection",
           "settings": {
             "collection": "new-world",
-            "title": "Ready Made - The Catalog"
+            "title": "The Catalog - Browse All Maps"
           }
         }
       },
