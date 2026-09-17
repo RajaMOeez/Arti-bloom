@@ -37,14 +37,14 @@
           "type": "collection",
           "settings": {
             "collection": "custom-farm-property-map",
-            "title": "Custom Map - Farm or Property"
+            "title": "Custom Farm or Property Map - Your Land, Fields, Fences and Dams"
           }
         },
         "collection_hLCccY": {
           "type": "collection",
           "settings": {
             "collection": "custom-any-location",
-            "title": "Custom Map - Any Place"
+            "title": "Custom Map of Any Place - Your Honeymoon, Holiday or Hometown"
           }
         },
         "collection_J9GcNK": {
