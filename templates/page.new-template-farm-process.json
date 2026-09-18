@@ -56,23 +56,6 @@
     "section_custom_content_ezTVVd": {
       "type": "section-custom-content",
       "blocks": {
-        "text_fwngnE": {
-          "type": "text",
-          "settings": {
-            "subheading": "",
-            "title": "1. Show us the place",
-            "text": "<p>Confirm the location to be mapped. If you have a screenshot or property map that helps with with generating the preview, but it's not critical. We will source all the data and confirm it with you - topography, property boundaries, roads and waterways.</p>",
-            "text_size": 2,
-            "text_columns": 1,
-            "align_text": "text-left",
-            "text_color": "text-dark",
-            "bg_color": "#ffffff",
-            "button_text": "",
-            "button_url": "",
-            "button_color": "btn--neutral",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        },
         "image_HGK9jD": {
           "type": "image",
           "settings": {
@@ -90,11 +73,28 @@
             "button_color": "btn--white",
             "button_style": "hero__btn btn btn--large btn--outline caps"
           }
+        },
+        "text_fwngnE": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "1. Show us the place",
+            "text": "<p>Confirm the location to be mapped. If you have a screenshot or property map that helps with with generating the preview, but it's not critical. We will source all the data and confirm it with you - topography, property boundaries, roads and waterways.</p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
         }
       },
       "block_order": [
-        "text_fwngnE",
-        "image_HGK9jD"
+        "image_HGK9jD",
+        "text_fwngnE"
       ],
       "settings": {
         "height": "screen-height-one-half",
@@ -106,6 +106,23 @@
     "section_custom_content_bwEebY": {
       "type": "section-custom-content",
       "blocks": {
+        "text_AieFK8": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "2. See the land in 48 hours",
+            "text": "<p>We'll email you a free digital preview of the property. No charge. No obligation. This is how you know it is the right gift before anyone pays for timber.</p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
         "image_KNhytQ": {
           "type": "image",
           "settings": {
@@ -123,28 +140,11 @@
             "button_color": "btn--white",
             "button_style": "hero__btn btn btn--large btn--outline caps"
           }
-        },
-        "text_AieFK8": {
-          "type": "text",
-          "settings": {
-            "subheading": "",
-            "title": "2. See the land in 48 hours",
-            "text": "<p>We'll email you a free digital preview of the property. No charge. No obligation. This is how you know it is the right gift before anyone pays for timber.</p>",
-            "text_size": 2,
-            "text_columns": 1,
-            "align_text": "text-left",
-            "text_color": "text-dark",
-            "bg_color": "#ffffff",
-            "button_text": "",
-            "button_url": "",
-            "button_color": "btn--neutral",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
         }
       },
       "block_order": [
-        "image_KNhytQ",
-        "text_AieFK8"
+        "text_AieFK8",
+        "image_KNhytQ"
       ],
       "settings": {
         "height": "screen-height-one-half",
@@ -156,23 +156,6 @@
     "section_custom_content_pnDGQC": {
       "type": "section-custom-content",
       "blocks": {
-        "text_4LQEA9": {
-          "type": "text",
-          "settings": {
-            "subheading": "",
-            "title": "3. We draft it with you",
-            "text": "<p>After a 50% deposit to lock a production slot, we iterate. You get a draft by email, mark changes, we incorporate your changes and send the next one. Nothing is cut until you give the green light. Most pieces take three drafts. Allow about two weeks for this stage, four days a draft. Tight date? Say so on the form below - for a fee we can expedite your map from about 24 days to 10.</p>",
-            "text_size": 2,
-            "text_columns": 1,
-            "align_text": "text-left",
-            "text_color": "text-dark",
-            "bg_color": "#ffffff",
-            "button_text": "",
-            "button_url": "",
-            "button_color": "btn--neutral",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        },
         "image_EpXjhW": {
           "type": "image",
           "settings": {
@@ -190,11 +173,28 @@
             "button_color": "btn--white",
             "button_style": "hero__btn btn btn--large btn--outline caps"
           }
+        },
+        "text_4LQEA9": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "3. We draft it with you",
+            "text": "<p>After a 50% deposit to lock a production slot, we iterate. You get a draft by email, mark changes, we incorporate your changes and send the next one. Nothing is cut until you give the green light. Most pieces take three drafts. Allow about two weeks for this stage, four days a draft. Tight date? Say so on the form below - for a fee we can expedite your map from about 24 days to 10.</p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
         }
       },
       "block_order": [
-        "text_4LQEA9",
-        "image_EpXjhW"
+        "image_EpXjhW",
+        "text_4LQEA9"
       ],
       "settings": {
         "height": "screen-height-one-half",
@@ -206,24 +206,6 @@
     "section_custom_content_G8cdG9": {
       "type": "section-custom-content",
       "blocks": {
-        "image_HfN3ND": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Packaged-Map-01.png",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "title": "",
-            "description": "",
-            "flex_align": "align--middle-center",
-            "text_color": "text-light",
-            "transparent": true,
-            "link_text": "",
-            "link": "",
-            "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        },
         "text_iyEBjL": {
           "type": "text",
           "settings": {
@@ -240,11 +222,29 @@
             "button_color": "btn--neutral",
             "button_style": "hero__btn btn btn--large btn--outline caps"
           }
+        },
+        "image_HfN3ND": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Map-Art-Packaging_937f3bfc-cad3-4eae-b96f-1b4ce162d19a.webp",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
         }
       },
       "block_order": [
-        "image_HfN3ND",
-        "text_iyEBjL"
+        "text_iyEBjL",
+        "image_HfN3ND"
       ],
       "settings": {
         "height": "screen-height-one-half",
@@ -474,7 +474,7 @@
       "name": "Accordion group",
       "settings": {
         "width": "wrapper--narrow",
-        "height": "margin--medium",
+        "height": "margin--small",
         "text_color": "text-dark",
         "bg_color": "#ffffff"
       }
@@ -495,8 +495,8 @@
             "form_alignment": "center",
             "padding_top": 0,
             "padding_bottom": 24,
-            "padding_right": 0,
-            "padding_left": 0
+            "padding_right": 20,
+            "padding_left": 20
           }
         }
       },
