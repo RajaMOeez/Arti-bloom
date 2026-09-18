@@ -12,7 +12,8 @@
     "section_hero_JkHKpN": {
       "type": "section-hero",
       "custom_css": [
-        "@media screen and (min-width: 768px) {.hero__content .hero__title, .image-with-text-overlay .hero__title, .section-header, h2.hero__title, .hero__text-wrap h2, .hero__text-wrap .title {max-width: 24ch; white-space: normal; }}"
+        "@media screen and (min-width: 768px) {.hero__title {max-width: 24ch; white-space: normal; }}",
+        "#hero--template--15982265106590__section_hero_JkHKpN .hero__description {max-width: 36ch; white-space: normal;}"
       ],
       "name": "Image with text overlay",
       "settings": {
