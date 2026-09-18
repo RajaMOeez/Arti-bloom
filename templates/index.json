@@ -11,20 +11,23 @@
   "sections": {
     "section_hero_JkHKpN": {
       "type": "section-hero",
+      "custom_css": [
+        "@media screen and (min-width: 768px) {.hero__content .hero__title, .image-with-text-overlay .hero__title, .section-header, h2.hero__title, .hero__text-wrap h2, .hero__text-wrap .title {max-width: 24ch; white-space: normal; }}"
+      ],
       "name": "Image with text overlay",
       "settings": {
         "image": "shopify://shop_images/2400x1000Shopped.jpg",
         "mobile_image": "shopify://shop_images/FarmMobileCompressed.jpg",
         "bg_position": "center-center",
         "height": "image-height",
-        "overlay_opacity": 15,
+        "overlay_opacity": 20,
         "overlay_color": "#000",
-        "title": "The land that raised them",
-        "description": "Carved in wood. Made to last.",
+        "title": "Custom Wooden Topographic Maps",
+        "description": "Gift the place that matters most to them. Built to impress, made to last.",
         "flex_align": "align--bottom-left",
         "text_color": "text-light",
         "transparent": true,
-        "link_text": "Order Free Digital Preview",
+        "link_text": "Request Your Free Preview",
         "link": "shopify://pages/farm-map-preview",
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--large btn--outline caps"
