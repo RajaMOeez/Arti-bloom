@@ -41,21 +41,21 @@
           "type": "collection",
           "settings": {
             "collection": "custom-farm-property-map",
-            "title": "Custom Farm or Property Map - Your Land, Fields, Fences and Dams"
+            "title": "The Farm, Ranch or Property - The Land, Fields, Fences, and Dams"
           }
         },
         "collection_hLCccY": {
           "type": "collection",
           "settings": {
             "collection": "custom-any-location",
-            "title": "Custom Map of Any Place - Your Honeymoon, Holiday or Hometown"
+            "title": "Any Place - The Honeymoon, Holiday or Hometown"
           }
         },
         "collection_J9GcNK": {
           "type": "collection",
           "settings": {
             "collection": "new-world",
-            "title": "The Catalog - Browse All Maps"
+            "title": "The Catalog - Maps We've Already Made"
           }
         }
       },
