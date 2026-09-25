@@ -23,8 +23,8 @@
         "height": "image-height",
         "overlay_opacity": 25,
         "overlay_color": "#000",
-        "title": "3D Wooden Contour Maps",
-        "description": "The gift they talk about years later.\nThe place that matters most to them.",
+        "title": "The Gift They Remember",
+        "description": "A framed 3D wooden contour map. \nCapturing the memories of the place that matters most.",
         "flex_align": "align--bottom-left",
         "text_color": "text-light",
         "transparent": true,
@@ -41,7 +41,7 @@
           "type": "collection",
           "settings": {
             "collection": "custom-farm-property-map",
-            "title": "The Farm, Ranch or Property - The Land, Fields, Fences, and Dams"
+            "title": "Farm, Ranch or Property - The Land, Fields, Fences, and Dams"
           }
         },
         "collection_hLCccY": {
@@ -187,12 +187,11 @@
     },
     "section_collection_carousel_kJKL9n": {
       "type": "section-collection-carousel",
-      "disabled": true,
       "settings": {
-        "heading": "3D Topographic Maps",
-        "description": "<p>Celebrate life's milestones with a blend of art and geography<br/></p>",
-        "text_alignment": "left",
-        "link_text": "",
+        "heading": "",
+        "description": "<h5>Bestsellers</h5>",
+        "text_alignment": "inline",
+        "link_text": "View All",
         "link_url": "shopify://collections/all-maps",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--input btn--outline caps",
