@@ -13,7 +13,7 @@
       "type": "section-hero",
       "custom_css": [
         "@media screen and (min-width: 768px) {.hero__title {max-width: 24ch; white-space: normal; }}",
-        "#hero--template--15982265106590__section_hero_JkHKpN .hero__description {max-width: 36ch; white-space: normal;}"
+        "#hero--template--15982265106590__section_hero_JkHKpN .hero__description {max-width: 30ch; white-space: normal;}"
       ],
       "name": "Image with text overlay",
       "settings": {
@@ -21,10 +21,10 @@
         "mobile_image": "shopify://shop_images/FarmMobileCompressed.jpg",
         "bg_position": "center-center",
         "height": "image-height",
-        "overlay_opacity": 20,
+        "overlay_opacity": 25,
         "overlay_color": "#000",
-        "title": "Custom Wooden Topographic Maps",
-        "description": "Gift the place that matters most to them. Built to impress, made to last.",
+        "title": "3D Wooden Contour Maps",
+        "description": "The gift they talk about years later,\nthe place that matters most to them.",
         "flex_align": "align--bottom-left",
         "text_color": "text-light",
         "transparent": true,
