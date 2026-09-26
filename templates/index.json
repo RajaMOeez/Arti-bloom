@@ -178,6 +178,14 @@
         "logo_item_XFkjfk",
         "logo_item_dDxp3x"
       ],
+      "custom_css": [
+        ".logos__wrapper--tall {padding-block: 0; }",
+        ".logos__title {margin-bottom: 0; }",
+        ".logos {padding-top: 25px; }",
+        " /* heading ↔ previous section */.logos__slider {margin-top: 0px; }",
+        " /* heading ↔ logos */.logos {padding-bottom: 0px; }",
+        " /* below the logos */"
+      ],
       "name": "Logo list",
       "settings": {
         "title": "Maps commissioned for",
