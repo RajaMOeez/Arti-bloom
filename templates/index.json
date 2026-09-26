@@ -187,6 +187,10 @@
     },
     "section_collection_carousel_kJKL9n": {
       "type": "section-collection-carousel",
+      "custom_css": [
+        ".grid__heading-holder {display: flex !important; align-items: center; flex-wrap: wrap; gap: 8px 14px; padding: 8px var(--outer) 6px !important;}",
+        ".grid__heading-holder > * {width: auto !important; max-width: none !important; padding: 0 !important; margin: 0 !important; position: static !important; top: auto !important; right: auto !important;}"
+      ],
       "settings": {
         "heading": "",
         "description": "<h5>Bestsellers</h5>",
@@ -202,9 +206,13 @@
     },
     "section_collection_carousel_YXydg4": {
       "type": "section-collection-carousel",
+      "custom_css": [
+        ".grid__heading-holder {display: flex !important; align-items: center; flex-wrap: wrap; gap: 8px 14px; padding: 8px var(--outer) 6px !important;}",
+        ".grid__heading-holder > * {width: auto !important; max-width: none !important; padding: 0 !important; margin: 0 !important; position: static !important; top: auto !important; right: auto !important;}"
+      ],
       "settings": {
         "heading": "",
-        "description": "<h5>Newest Maps</h5>",
+        "description": "<h5>New Maps</h5>",
         "text_alignment": "inline",
         "link_text": "View All",
         "link_url": "shopify://collections/new",
