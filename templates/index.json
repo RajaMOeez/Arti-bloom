@@ -24,7 +24,7 @@
         "overlay_opacity": 25,
         "overlay_color": "#000",
         "title": "The Gift They Remember",
-        "description": "A framed 3D wooden contour map. \nCapturing the memories of the place that matters most.",
+        "description": "A framed 3D wooden contour map. \nOf the place that matters most to them.",
         "flex_align": "align--bottom-left",
         "text_color": "text-light",
         "transparent": true,
@@ -179,11 +179,11 @@
         "logo_item_dDxp3x"
       ],
       "custom_css": [
-        ".logos__wrapper--tall {padding-block: 0; }",
-        ".logos__title {margin-bottom: 0; }",
-        ".logos {padding-top: 25px; }",
-        " /* heading ↔ previous section */.logos__slider {margin-top: 0px; }",
-        " /* heading ↔ logos */.logos {padding-bottom: 0px; }",
+        ".logos__wrapper--tall {padding-block: 0;}",
+        ".logos__title {margin-bottom: 0;}",
+        ".logos {padding-top: 25px;}",
+        " /* heading ↔ previous section */.logos__slider {margin-top: 0px;}",
+        " /* heading ↔ logos */.logos {padding-bottom: 0px;}",
         " /* below the logos */"
       ],
       "name": "Logo list",
